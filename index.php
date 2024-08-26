@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html lang="en">
 
@@ -17,81 +16,8 @@
 <body>
     <!--header-->
 
-    <?php     include 'header.html' ?>
+    <?php include 'header.html' ?>
 
-    <!-- <header id="site-header" class="fixed-top">
-        <div class="container">
-            <nav class="navbar navbar-expand-lg navbar-dark stroke">
-                <h1>
-                    <a class="navbar-brand" href="index.html">
-                        Jamia Rabbani Manorwa </a>
-                        
-                </h1>
-                <!- if logo is image enable this   
-          <a class="navbar-brand" href="#index.html">
-              <img src="image-path" alt="Your logo" title="Your logo" style="height:35px;" />
-          </a> ->
-                <button class="navbar-toggler  collapsed bg-gradient" type="button" data-toggle="collapse"
-                    data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false"
-                    aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon fa icon-expand fa-bars"></span>
-                    <span class="navbar-toggler-icon fa icon-close fa-times"></span>
-                    </span>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
-                    <ul class="navbar-nav ml-lg-auto">
-                        <li class="nav-item active">
-                            <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="about.html">About</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="courses.html">Department </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="courses.html">Gallery</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="courses.html">Requirements</a>
-                        </li> <li class="nav-item">
-                            <a class="nav-link" href="courses.html">Visitors</a>
-                        </li>
-                        <li class="nav-item mr-lg-1">
-                            <a class="nav-link" href="contact.html">Contact</a>
-                        </li>
-                        <!- /search-right-->
-                        <!-- <li class="header-search mr-lg-2 mt-lg-0 mt-4 position-relative">
-                            <div class="search-right">
-                                <a href="#search" class="btn btn-style search-btn" title="search"><span
-                                        class="fas fa-search mr-2" aria-hidden="true"></span> Search</a>
-                              
-                            </div>
-                        </li> -->
-                        <!--//search-right->
-                    </ul>
-                </div>
-
-
-                <!- toggle switch for light and dark theme ->
-                <div class="mobile-position">
-                    <nav class="navigation">
-                        <div class="theme-switch-wrapper">
-                            <label class="theme-switch" for="checkbox">
-                                <input type="checkbox" id="checkbox">
-                                <div class="mode-container py-1">
-                                    <i class="gg-sun"></i>
-                                    <i class="gg-moon"></i>
-                                </div>
-                            </label>
-                        </div>
-                    </nav>
-                </div>
-                <!- //toggle switch for light and dark theme ->
-            </nav>
-
-        </div>
-    </header> -->
     <!--/header-->
     <!--/Banner-Start-->
     <section class="bannerw3l-hnyv">
@@ -120,13 +46,15 @@
                     <h4 class="title text-center">
                         <span>Apply for admission</span>
                     </h4>
-                    <div class="caption text-center mb-2">
+                    <!-- <div class="caption text-center mb-2">
                         Make it more simple!
-                    </div>
+                    </div> -->
                     <div class="apply-form">
                         <form action="#" class="" method="get">
                             <input type="text" name="text" placeholder="Your Name" required="">
                             <input type="email" name="email" placeholder="Your Email" required="">
+                            <input type="number" name="" placeholder="Your Mobile number">
+                            <input type="text" placeholder="Your messsage">
                             <button class="btn btn-style btn-primary">Apply Now</button>
                         </form>
                     </div>
@@ -143,7 +71,7 @@
                     <div class="area-box">
                         <span class="fas fa-users"></span>
                         <h4><a href="#feature" class="title-head">Establishment-1998(1419AH)</a></h4>
-                        <p>On 8 Jamadial Thaniya 1419, corresponding to October 1st, 1998, Maulana Mufti Akhtar Imam Adil Qasmi laid the foundation stone of Jamia Rabbani at the historic site, under the aegis of Khanqah Naqshband.</p>
+                        <p><b>Jamia Rabbani</b> On 8 Jamadial Thaniya 1419, corresponding to October 1st, 1998, Maulana Mufti Akhtar Imam Adil Qasmi laid the foundation stone of Jamia Rabbani at the historic site, under the aegis of Khanqah Naqshband.</p>
 
                     </div>
                 </div>
@@ -159,10 +87,8 @@
                 <div class="col-lg-4 col-md-6 grids-feature mt-lg-0 mt-5 pl-lg-5">
                     <div class="area-box">
                         <span class="fas fa-book-open"></span>
-                        <h4><a href="#feature" class="title-head">High-Quality Classes & Course Categories</a></h4>
-                        <p>Vivamus a ligula quam tesque et libero ut justo, ultrices in. Ut eu leo non. Duis sed dolor
-                            et
-                            amet labore et dolore elit.</p>
+                        <h4><a href="#feature" class="title-head">Supreme</a></h4>
+                        <p><b>Hazrat Maulana Mahfuzur Rahman Qadri Naqshbandi</b> is the supreme leader of Jamia Rabbani, Samastipur, and a prominent Naqshbandi Sufi guide. He is respected for his deep Islamic knowledge and spiritual teachings, which have inspired many.</p>
                     </div>
                 </div>
             </div>
@@ -178,41 +104,42 @@
                         <h5 class="title-subw3hny">About Us</h5>
                         <h3 class="title-w3l">Find courses on almost any <span class="inn-text">Topic</span></h3>
                         <h6 class="mt-md-4 mt-md-5 mt-4">Build your library for your career
-                            <br>and personal growth</h6>
+                            <br>and personal growth
+                        </h6>
                         <a href="about.html" class="btn btn-style btn-primary mt-lg-5 mt-4">View Courses</a>
                     </div>
                     <div class="HomeAboutImages col-lg-6 mt-lg-0 mt-5 pl-lg-5">
                         <div class="cwp23-text-cols row">
                             <div class="column col-6">
                                 <div class="column-w3-img position-relative">
-                                    <a href="#"><img src="assets/images/1.jpg" alt=""
+                                    <a href="#"><img src="assets/images/gate.jpg" alt=""
                                             class="radius-image img-fluid"></a>
-                                    <div class="edu-info">
+                                    <!-- <div class="edu-info">
                                         <h4 class="edu-heading-title"><a href="#">Personal Development</a></h4>
-                                    </div>
+                                    </div> -->
                                 </div>
                                 <div class="column-w3-img position-relative mt-4">
-                                    <a href="#"><img src="assets/images/b8.jpg" alt=""
+                                    <a href="#"><img src="assets/images/madarsa3.jpg" alt=""
                                             class="radius-image img-fluid"></a>
-                                    <div class="edu-info">
+                                    <!-- <div class="edu-info">
                                         <h4 class="edu-heading-title"><a href="#">Business</a></h4>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                             <div class="column col-6">
                                 <div class="column-w3-img position-relative">
-                                    <a href="#"><img src="assets/images/b3.jpg" alt=""
+                                    <a href="#"><img src="assets/images/madarsa1.jpg" alt=""
                                             class="radius-image img-fluid"></a>
-                                    <div class="edu-info">
+                                    <!-- <div class="edu-info">
                                         <h4 class="edu-heading-title"><a href="#">Entrepreneurship</a></h4>
-                                    </div>
+                                    </div> -->
                                 </div>
                                 <div class="column-w3-img position-relative mt-4">
-                                    <a href="#"><img src="assets/images/2.jpg" alt=""
+                                    <a href="#"><img src="assets/images/madarsa2.jpg" alt=""
                                             class="radius-image img-fluid"></a>
-                                    <div class="edu-info">
+                                    <!-- <div class="edu-info">
                                         <h4 class="edu-heading-title"><a href="#">Photography</a></h4>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                         </div>
@@ -227,41 +154,41 @@
         <div class="container">
             <div class="row stats-con py-lg-0 py-5">
                 <div class="col-lg-6 stats-content-right mb-lg-0 mb-lg-5 mb-2">
-                    <a href="#service" class="d-block zoom"><img src="assets/images/ab1.jpg" alt=""
+                    <a href="#service" class="d-block zoom"><img src="assets/images/madarsa4.jpg" alt=""
                             class="img-fluid" /></a>
                 </div>
                 <div class="col-lg-6 stats-content-left pl-lg-5">
 
                     <div class="stats_info counter_grid1 text-left mt-lg-5 mt-4">
                         <div class="icon stat-icon">
-                            <p class="counter">5233</p>
+                        <p id="counter">0</p>
                         </div>
                         <div class="stat-icon-des">
 
                             <h4>
-                                The Best and Most Involved Teachers</h4>
+                                Number of total students</h4>
                             <p class="para-stat">Lorem ipsum viverra feugiat. Pellen tesque libero ut justo,
                                 ultrices in ligula.</p>
                         </div>
                     </div>
                     <div class="stats_info counter_grid text-left mt-lg-5 mt-4">
                         <div class="icon stat-icon">
-                            <p class="counter">1233</p>
+                        <p id="counter1">0</p>
                         </div>
                         <div class="stat-icon-des">
 
-                            <h4>The Large selection of courses and Instruction</h4>
+                            <h4>Resident students </h4>
                             <p class="para-stat">Lorem ipsum viverra feugiat. Pellen tesque libero ut justo,
                                 ultrices in ligula.</p>
                         </div>
                     </div>
                     <div class="stats_info counter_grid text-left mt-lg-5 mt-4">
                         <div class="icon stat-icon">
-                            <p class="counter">3000</p>
+                        <p id="counter2">0</p>
                         </div>
                         <div class="stat-icon-des">
 
-                            <h4>High-Quality Course Categories</h4>
+                            <h4>Teaching staff </h4>
                             <p class="para-stat">Lorem ipsum viverra feugiat. Pellen tesque libero ut justo,
                                 ultrices in ligula.</p>
                         </div>
@@ -312,7 +239,7 @@
                                     </div>
                                 </div>
                             </div>
-                           
+
                         </div>
                     </div>
 
@@ -345,7 +272,7 @@
                                     </div>
                                 </div>
                             </div>
-                            
+
                         </div>
                     </div>
 
@@ -434,7 +361,7 @@
                 <!-- /grids -->
                 <div class="testimonial-width">
                     <div class="owl-two row">
-                         <div class="col-lg-4 col-md-6 item mt-md-5 mt-4">
+                        <div class="col-lg-4 col-md-6 item mt-md-5 mt-4">
                             <div class="testimonial-content">
                                 <div class="testimonial">
                                     <i class="fas fa-quote-right"></i>
@@ -472,7 +399,7 @@
                                 </div>
                             </div>
                         </div>
-                      <div class="col-lg-4 col-md-6 item mt-md-5 mt-4">
+                        <div class="col-lg-4 col-md-6 item mt-md-5 mt-4">
                             <div class="testimonial-content">
                                 <div class="testimonial">
                                     <i class="fas fa-quote-right"></i>
@@ -507,7 +434,7 @@
                     <div class="project-header-section text-left">
                         <h5 class="title-subw3hny text-left mb-1">Join With Us</h5>
                         <h3 class="title-w3l">Join us for Free to get instant email<span
-                            class="inn-text"> updates!</span></h3>
+                                class="inn-text"> updates!</span></h3>
                         <p class="mt-3 pr-lg-5">Subscribe and get notified at first on the latest update and offers!</p>
 
                         <form action="#" class="subscribe mt-5" method="post">
@@ -524,7 +451,7 @@
     </section>
     <!--//subscribe-->
     <!--/footer-->
-   
+
     <?php include 'footer.html' ?>
 
     <!-- //footer -->
@@ -536,7 +463,7 @@
     </button>
     <script>
         // When the user scrolls down 20px from the top of the document, show the button
-        window.onscroll = function () {
+        window.onscroll = function() {
             scrollFunction()
         };
 
@@ -560,8 +487,8 @@
     <script src="assets/js/theme-change.js"></script>
     <!-- disable body scroll which navbar is in active -->
     <script>
-        $(function () {
-            $('.navbar-toggler').click(function () {
+        $(function() {
+            $('.navbar-toggler').click(function() {
                 $('body').toggleClass('noscroll');
             })
         });
@@ -570,7 +497,7 @@
 
     <!--/MENU-JS-->
     <script>
-        $(window).on("scroll", function () {
+        $(window).on("scroll", function() {
             var scroll = $(window).scrollTop();
 
             if (scroll >= 80) {
@@ -581,20 +508,67 @@
         });
 
         //Main navigation Active Class Add Remove
-        $(".navbar-toggler").on("click", function () {
+        $(".navbar-toggler").on("click", function() {
             $("header").toggleClass("active");
         });
-        $(document).on("ready", function () {
+        $(document).on("ready", function() {
             if ($(window).width() > 991) {
                 $("header").removeClass("active");
             }
-            $(window).on("resize", function () {
+            $(window).on("resize", function() {
                 if ($(window).width() > 991) {
                     $("header").removeClass("active");
                 }
             });
         });
     </script>
+    <!-- number increment -->
+    <script>
+        let counter = 0;
+        const maxNumber = 550;
+        const counterElement = document.getElementById('counter');
+
+        function incrementCounter() {
+            if (counter < maxNumber) {
+                counter++;
+                counterElement.textContent = counter;
+                setTimeout(incrementCounter, 1); // Adjust the speed of increment here
+            }
+        }
+
+        incrementCounter();
+    </script>
+    <script>
+        let counter1 = 0;
+        const maxNumber1 = 300;
+        const counter1Element = document.getElementById('counter1');
+
+        function incrementCounter1() {
+            if (counter1 < maxNumber1) {
+                counter1++;
+                counter1Element.textContent = counter1;
+                setTimeout(incrementCounter1, 1); // Adjust the speed of increment here
+            }
+        }
+
+        incrementCounter1();
+    </script>
+     <script>
+        let counter2 = 0;
+        const maxNumber2 = 22;
+        const counter2Element = document.getElementById('counter2');
+
+        function incrementCounter2() {
+            if (counter2 < maxNumber2) {
+                counter2++;
+                counter2Element.textContent = counter1;
+                setTimeout(incrementCounter2, 1); // Adjust the speed of increment here
+            }
+        }
+
+        incrementCounter2();
+    </script>
+    <!-- end  number increment -->
     <!--//MENU-JS-->
     <script src="assets/js/bootstrap.min.js"></script>
 
