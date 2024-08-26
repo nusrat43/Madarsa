@@ -14,6 +14,61 @@
     <link href="//fonts.googleapis.com/css2?family=Jost:wght@300;400;600;700&display=swap" rel="stylesheet">
     <!-- Template CSS -->
     <link rel="stylesheet" href="assets/css/style-starter.css">
+
+    <style>
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .section-title {
+            font-size: 24px;
+            font-weight: bold;
+            text-transform: uppercase;
+            margin-bottom: 20px;
+            display: inline-block;
+            position: relative;
+        }
+
+        .section-title::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            bottom: -10px;
+            width: 50px;
+            height: 3px;
+            background-color: teal;
+        }
+
+        .portfolio-item {
+            position: relative;
+
+        }
+
+        .portfolio-btn {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            opacity: 0;
+            transition: all 0.3s ease-in-out;
+            width: 300px;
+            height: 200px;
+            background-color: teal;
+            
+
+        }
+
+        .portfolio-item:hover .portfolio-btn {
+            opacity: 0.5;
+        }
+        .text-center ul li{
+            color:#ffc107;
+            background-color: teal;
+        }
+       
+    </style>
 </head>
 
 <body>
@@ -33,7 +88,8 @@
             <div class="main-content-top">
                 <div class="container">
                     <div class="main-content">
-                        <h3>JAMIA RABBANI <span class="inn-text" style="font-size: 45px;">MANORWA SHARIF</span> </h3>
+                        <h3>Gallery<span class="inn-text" style="font-size: 45px;"></span> </h3>
+                        <p class="inner-page-para mt-2">Madarsa ki yaadon se bhari yeh gallery, taleem aur tarbiyat ka safar dikhati hai.</p>
 
                     </div>
                 </div>
@@ -50,156 +106,55 @@
                 <p class="section-title px-5">
                     <span class="px-2">Our Gallery</span>
                 </p>
-                <h1 class="mb-4">Our Kids School Gallery</h1>
+                <h1 class="mb-4">Jamia Rabbani Gallery</h1>
             </div>
             <div class="row">
                 <div class="col-12 text-center mb-2">
                     <ul class="list-inline mb-4" id="portfolio-flters">
-                        <li class="btn btn-outline-primary m-1 active" data-filter="*">
+                        <li class="btn m-1  active" data-filter="*">
                             All
                         </li>
-                        <li class="btn btn-outline-primary m-1" data-filter=".first">
-                            Playing
+                        <li class="btn m-1 " data-filter=".first">
+                            Madarsa
                         </li>
-                        <li class="btn btn-outline-primary m-1" data-filter=".second">
-                            Drawing
+                        <li class="btn m-1" data-filter=".second">
+                            Library
                         </li>
-                        <li class="btn btn-outline-primary m-1" data-filter=".third">
-                            Reading
+                        <li class="btn m-1 " data-filter=".third">
+                            Student/Staff
                         </li>
                     </ul>
                 </div>
             </div>
             <div class="row portfolio-container">
-                <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
+                <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
                     <div class="position-relative overflow-hidden mb-2">
                         <img class="img-fluid w-100" src="assets/images/pic4.jpg" alt="" />
                         <div
-                            class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
+                            class="portfolio-btn d-flex align-items-center justify-content-center">
                             <a href="assets/images/pic4.jpg" data-lightbox="portfolio">
                                 <i class="fa fa-plus text-white" style="font-size: 60px"></i>
                             </a>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
+                <div class="col-lg-4 col-md-6 mb-4 portfolio-item third">
                     <div class="position-relative overflow-hidden mb-2">
-                        <img class="img-fluid w-100" src="assets/images/pic5.jpg" alt="" />
+                        <img class="img-fluid w-100" src="assets/images/s-pic6.jpg" alt="" />
                         <div
-                            class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
-                            <a href="assets/images/pic5.jpg" data-lightbox="portfolio">
+                            class="portfolio-btn d-flex align-items-center justify-content-center">
+                            <a href="assets/images/s-pic6.jpg" data-lightbox="portfolio">
                                 <i class="fa fa-plus text-white" style="font-size: 60px"></i>
                             </a>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
+                <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
                     <div class="position-relative overflow-hidden mb-2">
                         <img class="img-fluid w-100" src="assets/images/pic9.jpg" alt="" />
                         <div
-                            class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
+                            class="portfolio-btn  d-flex align-items-center justify-content-center">
                             <a href="assets/images/pic9.jpg" data-lightbox="portfolio">
-                                <i class="fa fa-plus text-white" style="font-size: 60px"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                
-               
-                <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
-                    <div class="position-relative overflow-hidden mb-2">
-                        <img class="img-fluid w-100" src="assets/images/pic8.jpg" alt="" />
-                        <div
-                            class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
-                            <a href="assets/images/pic8.jpg" data-lightbox="portfolio">
-                                <i class="fa fa-plus text-white" style="font-size: 60px"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 mb-4 portfolio-item third">
-                    <div class="position-relative overflow-hidden mb-2">
-                        <img class="img-fluid w-100" src="assets/images/pic7.jpg" alt="" />
-                        <div
-                            class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
-                            <a href="assets/images/pic7.jpg" data-lightbox="portfolio">
-                                <i class="fa fa-plus text-white" style="font-size: 60px"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
-                    <div class="position-relative overflow-hidden mb-2">
-                        <img class="img-fluid w-100" src="assets/images/pic6.jpg" alt="" />
-                        <div
-                            class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
-                            <a href="assets/images/pic6.jpg" data-lightbox="portfolio">
-                                <i class="fa fa-plus text-white" style="font-size: 60px"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 mb-4 portfolio-item third">
-                    <div class="position-relative overflow-hidden mb-2">
-                        <img class="img-fluid w-100" src="assets/images/pic2.jpg" alt="" />
-                        <div
-                            class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
-                            <a href="assets/images/pic2.jpg" data-lightbox="portfolio">
-                                <i class="fa fa-plus text-white" style="font-size: 60px"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
-                    <div class="position-relative overflow-hidden mb-2">
-                        <img class="img-fluid w-100" src="assets/images/pic3.jpg" alt="" />
-                        <div
-                            class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
-                            <a href="assets/images/pic3.jpg" data-lightbox="portfolio">
-                                <i class="fa fa-plus text-white" style="font-size: 60px"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
-                    <div class="position-relative overflow-hidden mb-2">
-                        <img class="img-fluid w-100" src="assets/images/pic1.jpg" alt="" />
-                        <div
-                            class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
-                            <a href="assets/images/pic1.jpg" data-lightbox="portfolio">
-                                <i class="fa fa-plus text-white" style="font-size: 60px"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
-                    <div class="position-relative overflow-hidden mb-2">
-                        <img class="img-fluid w-100" src="assets/images/pic10.jpg" alt="" />
-                        <div
-                            class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
-                            <a href="assets/images/pic10.jpg" data-lightbox="portfolio">
-                                <i class="fa fa-plus text-white" style="font-size: 60px"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
-                    <div class="position-relative overflow-hidden mb-2">
-                        <img class="img-fluid w-100" src="assets/images/pic11.jpg" alt="" />
-                        <div
-                            class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
-                            <a href="assets/images/pic11.jpg" data-lightbox="portfolio">
-                                <i class="fa fa-plus text-white" style="font-size: 60px"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
-                    <div class="position-relative overflow-hidden mb-2">
-                        <img class="img-fluid w-100" src="assets/images/lib_pic1.jpg" alt="" />
-                        <div
-                            class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
-                            <a href="assets/images/lib_pic1.jpg" data-lightbox="portfolio">
                                 <i class="fa fa-plus text-white" style="font-size: 60px"></i>
                             </a>
                         </div>
@@ -209,8 +164,302 @@
                     <div class="position-relative overflow-hidden mb-2">
                         <img class="img-fluid w-100" src="assets/images/lib_pic2.jpg" alt="" />
                         <div
-                            class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
+                            class="portfolio-btn  d-flex align-items-center justify-content-center">
                             <a href="assets/images/lib_pic2.jpg" data-lightbox="portfolio">
+                                <i class="fa fa-plus text-white" style="font-size: 60px"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
+                    <div class="position-relative overflow-hidden mb-2">
+                        <img class="img-fluid w-100" src="assets/images/pic7.jpg" alt="" />
+                        <div
+                            class="portfolio-btn  d-flex align-items-center justify-content-center">
+                            <a href="assets/images/pic7.jpg" data-lightbox="portfolio">
+                                <i class="fa fa-plus text-white" style="font-size: 60px"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 mb-4 portfolio-item third">
+                    <div class="position-relative overflow-hidden mb-2">
+                        <img class="img-fluid w-100" src="assets/images/s-pic3.jpg" alt="" />
+                        <div
+                            class="portfolio-btn d-flex align-items-center justify-content-center">
+                            <a href="assets/images/s-pic3.jpg" data-lightbox="portfolio">
+                                <i class="fa fa-plus text-white" style="font-size: 60px"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
+                    <div class="position-relative overflow-hidden mb-2">
+                        <img class="img-fluid w-100" src="assets/images/pic6.jpg" alt="" />
+                        <div
+                            class="portfolio-btn d-flex align-items-center justify-content-center">
+                            <a href="assets/images/pic6.jpg" data-lightbox="portfolio">
+                                <i class="fa fa-plus text-white" style="font-size: 60px"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
+                    <div class="position-relative overflow-hidden mb-2">
+                        <img class="img-fluid w-100" src="assets/images/pic2.jpg" alt="" />
+                        <div
+                            class="portfolio-btn d-flex align-items-center justify-content-center">
+                            <a href="assets/images/pic2.jpg" data-lightbox="portfolio">
+                                <i class="fa fa-plus text-white" style="font-size: 60px"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
+                    <div class="position-relative overflow-hidden mb-2">
+                        <img class="img-fluid w-100" src="assets/images/pic1.jpg" alt="" />
+                        <div
+                            class="portfolio-btn d-flex align-items-center justify-content-center">
+                            <a href="assets/images/pic1.jpg" data-lightbox="portfolio">
+                                <i class="fa fa-plus text-white" style="font-size: 60px"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                
+               
+                <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
+                    <div class="position-relative overflow-hidden mb-2">
+                        <img class="img-fluid w-100" src="assets/images/pic12.jpg" alt="" />
+                        <div
+                            class="portfolio-btn d-flex align-items-center justify-content-center">
+                            <a href="assets/images/pic12.jpg" data-lightbox="portfolio">
+                                <i class="fa fa-plus text-white" style="font-size: 60px"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
+                    <div class="position-relative overflow-hidden mb-2">
+                        <img class="img-fluid w-100" src="assets/images/pic13.jpg" alt="" />
+                        <div
+                            class="portfolio-btn  d-flex align-items-center justify-content-center">
+                            <a href="assets/images/pic13.jpg" data-lightbox="portfolio">
+                                <i class="fa fa-plus text-white" style="font-size: 60px"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
+                    <div class="position-relative overflow-hidden mb-2">
+                        <img class="img-fluid w-100" src="assets/images/pic14.jpg" alt="" />
+                        <div
+                            class="portfolio-btn d-flex align-items-center justify-content-center">
+                            <a href="assets/images/pic14.jpg" data-lightbox="portfolio">
+                                <i class="fa fa-plus text-white" style="font-size: 60px"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
+                    <div class="position-relative overflow-hidden mb-2">
+                        <img class="img-fluid w-100" src="assets/images/pic15.jpg" alt="" />
+                        <div
+                            class="portfolio-btn  d-flex align-items-center justify-content-center">
+                            <a href="assets/images/pic15.jpg" data-lightbox="portfolio">
+                                <i class="fa fa-plus text-white" style="font-size: 60px"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
+                    <div class="position-relative overflow-hidden mb-2">
+                        <img class="img-fluid w-100" src="assets/images/lib_pic1.jpg" alt="" />
+                        <div
+                            class="portfolio-btn d-flex align-items-center justify-content-center">
+                            <a href="assets/images/lib_pic1.jpg" data-lightbox="portfolio">
+                                <i class="fa fa-plus text-white" style="font-size: 60px"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
+                    <div class="position-relative overflow-hidden mb-2">
+                        <img class="img-fluid w-100" src="assets/images/pic11.jpg" alt="" />
+                        <div
+                            class="portfolio-btn d-flex align-items-center justify-content-center">
+                            <a href="assets/images/pic11.jpg" data-lightbox="portfolio">
+                                <i class="fa fa-plus text-white" style="font-size: 60px"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
+                    <div class="position-relative overflow-hidden mb-2">
+                        <img class="img-fluid w-100" src="assets/images/pic10.jpg" alt="" />
+                        <div
+                            class="portfolio-btn d-flex align-items-center justify-content-center">
+                            <a href="assets/images/pic10.jpg" data-lightbox="portfolio">
+                                <i class="fa fa-plus text-white" style="font-size: 60px"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
+                    <div class="position-relative overflow-hidden mb-2">
+                        <img class="img-fluid w-100" src="assets/images/lib_pic3.jpg" alt="" />
+                        <div
+                            class="portfolio-btn  d-flex align-items-center justify-content-center">
+                            <a href="assets/images/lib_pic3.jpg" data-lightbox="portfolio">
+                                <i class="fa fa-plus text-white" style="font-size: 60px"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
+                    <div class="position-relative overflow-hidden mb-2">
+                        <img class="img-fluid w-100" src="assets/images/mpic2.jpg" alt="" />
+                        <div
+                            class="portfolio-btn  d-flex align-items-center justify-content-center">
+                            <a href="assets/images/mpic2.jpg" data-lightbox="portfolio">
+                                <i class="fa fa-plus text-white" style="font-size: 60px"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
+                    <div class="position-relative overflow-hidden mb-2">
+                        <img class="img-fluid w-100" src="assets/images/lib_pic4.jpg" alt="" />
+                        <div
+                            class="portfolio-btn d-flex align-items-center justify-content-center">
+                            <a href="assets/images/lib_pic4.jpg" data-lightbox="portfolio">
+                                <i class="fa fa-plus text-white" style="font-size: 60px"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
+                    <div class="position-relative overflow-hidden mb-2">
+                        <img class="img-fluid w-100" src="assets/images/lib_pic5.jpg" alt="" />
+                        <div
+                            class="portfolio-btn  d-flex align-items-center justify-content-center">
+                            <a href="assets/images/lib_pic5.jpg" data-lightbox="portfolio">
+                                <i class="fa fa-plus text-white" style="font-size: 60px"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 mb-4 portfolio-item third">
+                    <div class="position-relative overflow-hidden mb-2">
+                        <img class="img-fluid w-100" src="assets/images/s-pic1.png" alt="" />
+                        <div
+                            class="portfolio-btn  d-flex align-items-center justify-content-center">
+                            <a href="assets/images/s-pic1.png" data-lightbox="portfolio">
+                                <i class="fa fa-plus text-white" style="font-size: 60px"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
+                    <div class="position-relative overflow-hidden mb-2">
+                        <img class="img-fluid w-100" src="assets/images/pic5.jpg" alt="" />
+                        <div
+                            class="portfolio-btn  d-flex align-items-center justify-content-center">
+                            <a href="assets/images/pic5.jpg" data-lightbox="portfolio">
+                                <i class="fa fa-plus text-white" style="font-size: 60px"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 mb-4 portfolio-item third">
+                    <div class="position-relative overflow-hidden mb-2">
+                        <img class="img-fluid w-100" src="assets/images/s-pic8.jpg" alt="" />
+                        <div
+                            class="portfolio-btn d-flex align-items-center justify-content-center">
+                            <a href="assets/images/s-pic8.jpg" data-lightbox="portfolio">
+                                <i class="fa fa-plus text-white" style="font-size: 60px"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 mb-4 portfolio-item third">
+                    <div class="position-relative overflow-hidden mb-2">
+                        <img class="img-fluid w-100" src="assets/images/s-pic2.jpg" alt="" />
+                        <div
+                            class="portfolio-btn  d-flex align-items-center justify-content-center">
+                            <a href="assets/images/s-pic2.jpg" data-lightbox="portfolio">
+                                <i class="fa fa-plus text-white" style="font-size: 60px"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+               
+                <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
+                    <div class="position-relative overflow-hidden mb-2">
+                        <img class="img-fluid w-100" src="assets/images/mpic.jpg" alt="" />
+                        <div
+                            class="portfolio-btn  d-flex align-items-center justify-content-center">
+                            <a href="assets/images/mpic.jpg" data-lightbox="portfolio">
+                                <i class="fa fa-plus text-white" style="font-size: 60px"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 mb-4 portfolio-item third">
+                    <div class="position-relative overflow-hidden mb-2">
+                        <img class="img-fluid w-100" src="assets/images/s-pic4.jpg" alt="" />
+                        <div
+                            class="portfolio-btn d-flex align-items-center justify-content-center">
+                            <a href="assets/images/s-pic4.jpg" data-lightbox="portfolio">
+                                <i class="fa fa-plus text-white" style="font-size: 60px"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
+                    <div class="position-relative overflow-hidden mb-2">
+                        <img class="img-fluid w-100" src="assets/images/pic8.jpg" alt="" />
+                        <div
+                            class="portfolio-btn  d-flex align-items-center justify-content-center">
+                            <a href="assets/images/pic8.jpg" data-lightbox="portfolio">
+                                <i class="fa fa-plus text-white" style="font-size: 60px"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 mb-4 portfolio-item third">
+                    <div class="position-relative overflow-hidden mb-2">
+                        <img class="img-fluid w-100" src="assets/images/s-pic5.jpg" alt="" />
+                        <div
+                            class="portfolio-btn  d-flex align-items-center justify-content-center">
+                            <a href="assets/images/s-pic5.jpg" data-lightbox="portfolio">
+                                <i class="fa fa-plus text-white" style="font-size: 60px"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
+                    <div class="position-relative overflow-hidden mb-2">
+                        <img class="img-fluid w-100" src="assets/images/pic3.jpg" alt="" />
+                        <div
+                            class="portfolio-btn d-flex align-items-center justify-content-center">
+                            <a href="assets/images/pic3.jpg" data-lightbox="portfolio">
+                                <i class="fa fa-plus text-white" style="font-size: 60px"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+               
+                <div class="col-lg-4 col-md-6 mb-4 portfolio-item third">
+                    <div class="position-relative overflow-hidden mb-2">
+                        <img class="img-fluid w-100" src="assets/images/s-pic7.jpg" alt="" />
+                        <div
+                            class="portfolio-btn d-flex align-items-center justify-content-center">
+                            <a href="assets/images/s-pic7.jpg" data-lightbox="portfolio">
                                 <i class="fa fa-plus text-white" style="font-size: 60px"></i>
                             </a>
                         </div>
@@ -222,17 +471,9 @@
     <!-- Gallery End -->
 
 
-
-
-
-
     <!--/footer-->
     <?php include 'footer.html' ?>
     <!-- //footer -->
-
-
-
-
 
 
     <!-- Js scripts -->
@@ -302,7 +543,36 @@
         });
     </script>
     <!--//MENU-JS-->
+
+
+    <!-- gallery style -->
+
+    <script>
+        $(document).ready(function() {
+            var portfolioIsotope = $('.portfolio-container').isotope({
+                itemSelector: '.portfolio-item',
+                layoutMode: 'fitRows'
+            });
+
+            $('#portfolio-flters li').on('click', function() {
+                $("#portfolio-flters li").removeClass('active');
+                $(this).addClass('active');
+
+                var filterValue = $(this).attr('data-filter');
+                portfolioIsotope.isotope({
+                    filter: filterValue
+                });
+            });
+        });
+    </script>
+
+    <!-- gallery style end -->
     <script src="assets/js/bootstrap.min.js"></script>
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <!-- Isotope -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js"></script>
+
 
 </body>
 
