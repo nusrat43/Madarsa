@@ -53,13 +53,13 @@
                         <h5 class="title-subw3hny">The educational department</h5>
                         <h3 class="title-w3l"> Jamia includes the following:</h3> <span class="inn-text"></span></h3>
                         <br>
-                        <p> 1) Teaching of the Qur'an by eye-sight (with tajweed).</p><br>
-                        <p>2) Memorization of the Quran.</p><br>
-                        <p> 3) Quranic phonetics.</p><br>
-                        <p> 4) Junior-level religious education with instructions in indispensable areas of the contemporary learning.</p><br>
-                        <p>5) Instructions in the Arabic, Persian languages and literature and other religious subjects. For the time being this department is functioning upto the secondary level.</p><br>
-                        <p> 6) Department of children's education (both religious and modern).</p><br>
-                        <p>  7) Department of Women's Education (both religious and contemporary).</p><br>
+                        <p> <img src="assets/images/list.png" alt=""> Teaching of the Qur'an by eye-sight (with tajweed).</p><br>
+                        <p> <img src="assets/images/list.png" alt=""> Memorization of the Quran.</p><br>
+                        <p>  <img src="assets/images/list.png" alt=""> Quranic phonetics.</p><br>
+                        <p>  <img src="assets/images/list.png" alt=""> Junior-level religious education with instructions in indispensable areas of the contemporary learning.</p><br>
+                        <p> <img src="assets/images/list.png" alt=""> Instructions in the Arabic, Persian languages and literature and other religious subjects. For the time being this department is functioning upto the secondary level.</p><br>
+                        <p>  <img src="assets/images/list.png" alt=""> Department of children's education (both religious and modern).</p><br>
+                        <p>   <img src="assets/images/list.png" alt=""> Department of Women's Education (both religious and contemporary).</p><br>
                         <!-- <a href="about.html" class="btn btn-style btn-primary mt-lg-5 mt-4">View Courses</a> -->
                     </div>
                     <div class="HomeAboutImages col-lg-6 mt-lg-0 mt-5 pl-lg-5">
