@@ -6,6 +6,7 @@
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="icon" href="assets/images/logo.png">
   <title>Edukator - Education Category Bootstrap Responsive Template | Contact :: W3layouts</title>
   <!-- google fonts -->
   <link href="//fonts.googleapis.com/css2?family=Jost:wght@300;400;600;700&display=swap" rel="stylesheet">
@@ -15,75 +16,10 @@
 
 <body>
   <!--header-->
-  <header id="site-header" class="fixed-top">
-    <div class="container">
-      <nav class="navbar navbar-expand-lg navbar-dark stroke">
-        <h1>
-          <a class="navbar-brand" href="index.html">
-            <i class="fas fa-chalkboard-teacher"></i> Kid Zee</a>
-        </h1>
-        <!-- if logo is image enable this   
-  <a class="navbar-brand" href="#index.html">
-      <img src="image-path" alt="Your logo" title="Your logo" style="height:35px;" />
-  </a> -->
-        <button class="navbar-toggler  collapsed bg-gradient" type="button" data-toggle="collapse"
-          data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false"
-          aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon fa icon-expand fa-bars"></span>
-          <span class="navbar-toggler-icon fa icon-close fa-times"></span>
-          </span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
-          <ul class="navbar-nav ml-lg-auto">
-            <li class="nav-item">
-              <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="about.html">About</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="courses.html">Department </a>
-          </li>
-          <li class="nav-item">
-              <a class="nav-link" href="courses.html">Gallery</a>
-          </li>
-          <li class="nav-item">
-              <a class="nav-link" href="courses.html">News</a>
-          </li>
-            <li class="nav-item mr-lg-1 active">
-              <a class="nav-link" href="contact.html">Contact</a>
-            </li>
-            <!--/search-right-->
-            <li class="header-search mr-lg-2 mt-lg-0 mt-4 position-relative">
-              <div class="search-right">
-                <a href="#search" class="btn btn-style search-btn" title="search"><span class="fas fa-search mr-2"
-                    aria-hidden="true"></span> Search</a>
+  
+  
+  <?php     include 'header.html' ?>
 
-              </div>
-            </li>
-            <!--//search-right-->
-          </ul>
-        </div>
-
-
-        <!-- toggle switch for light and dark theme -->
-        <div class="mobile-position">
-          <nav class="navigation">
-            <div class="theme-switch-wrapper">
-              <label class="theme-switch" for="checkbox">
-                <input type="checkbox" id="checkbox">
-                <div class="mode-container py-1">
-                  <i class="gg-sun"></i>
-                  <i class="gg-moon"></i>
-                </div>
-              </label>
-            </div>
-          </nav>
-        </div>
-        <!-- //toggle switch for light and dark theme -->
-      </nav>
-    </div>
-  </header>
   <!--/header-->
   <!-- breadcrumb -->
   <section class="w3l-about-breadcrumb text-center">
@@ -183,85 +119,12 @@
         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d387193.305935303!2d-74.25986548248684!3d40.69714941932609!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sin!4v1563262564932!5m2!1sen!2sin"
         style="border:0" allowfullscreen></iframe>
 </div>
-  <!--/footer-->
-  <footer class="w3l-footer-22 position-relative">
-    <div class="footer-sub py-5">
-      <div class="container py-md-5">
-        <div class="row sub-columns">
+ 
 
-          <div class="col-lg-4 col-md-6 sub-one-left ab-right-cont pr-lg-5 mb-md-0  mb-4">
-            <h6>About </h6>
-            <p>Lorem ipsum dolor sit amet elit. Velit beatae rem ullam dolore nisi esse quasi, sit amet.
-              Lorem ipsum dolor sit amet elit.voluptatem accusantium
-              doloremque.</p>
-            <div class="columns-2">
-              <ul class="social">
-                <li><a href="#facebook"><span class="fab fa-facebook-f" aria-hidden="true"></span></a>
-                </li>
-                <li><a href="#linkedin"><span class="fab fa-linkedin-in" aria-hidden="true"></span></a>
-                </li>
-                <li><a href="#twitter"><span class="fab fa-twitter" aria-hidden="true"></span></a>
-                </li>
-                <li><a href="#google"><span class="fab fa-google-plus-g" aria-hidden="true"></span></a>
-                </li>
-                <li><a href="#pinterest"><span class="fab fa-pinterest-p" aria-hidden="true"></span></a>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <div class="col-lg-2 col-md-6 sub-two-right pl-lg-5">
-            <h6>Useful Links</h6>
-            <ul>
-              <li><a href="index.html"><span class="fas fa-chevron-right mr-2"></span>Home</a>
-              </li>
-              <li><a href="about.html"><span class="fas fa-chevron-right mr-2"></span>About</a>
-              </li>
-              <li><a href="courses.html"><span class="fas fa-chevron-right mr-2"></span>Courses</a></li>
-              <li><a href="contact.html"><span class="fas fa-chevron-right mr-2"></span>Contact</a></li>
-            </ul>
-          </div>
-          <div class="col-lg-3 col-md-6 sub-two-right pl-lg-5 mt-md-0 mt-4">
-            <h6>Help & Support</h6>
-            <ul>
-              <li><a href="#live"><span class="fas fa-chevron-right mr-2"></span>Live
-                  Chart</a></li>
-              <li><a href="#faq"><span class="fas fa-chevron-right mr-2"></span>Faq</a>
-              </li>
-              <li><a href="#support"><span class="fas fa-chevron-right mr-2"></span>Support</a>
-              </li>
-              <li><a href="#terms"><span class="fas fa-chevron-right mr-2"></span>Terms
-                  of Services</a></li>
-            </ul>
-          </div>
-          <div class="col-lg-3 col-md-6 sub-two-right mt-md-0 mt-4">
-            <h6>Research</h6>
-            <ul>
-              <li><a href="#"><span class="fas fa-chevron-right mr-2"></span> Academic Divisions</a>
-              </li>
-              <li><a href="#"><span class="fas fa-chevron-right mr-2"></span> Student Research</a>
-              </li>
-              <li><a href="#"><span class="fas fa-chevron-right mr-2"></span> Centers & Institutes</a>
-              </li>
-              <li><a href="#"><span class="fas fa-chevron-right mr-2"></span> Research Facilities</a></li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
-    </div>
-    <!-- copyright -->
-    <div class="copyright-footer text-center">
-      <div class="container">
-        <div class="columns">
-          <p>© 2021 Edukator. All rights reserved.Design by<a href="https://w3layouts.com/" target="_blank">
-              W3layouts</a>
-          </p>
-        </div>
-      </div>
-    </div>
-    <!-- //copyright -->
-  </footer>
+  <!--/footer-->
+  <?php include 'footer.html' ?>
   <!-- //footer -->
+  
 
   <!-- Js scripts -->
   <!-- move top -->

@@ -162,8 +162,11 @@
       <div class="row main-cont-wthree-2 align-items-center">
         <div class="col-lg-6 feature-grid-left pr-lg-5">
           <!-- <h5 class="title-subw3hny">Why Choose Us</h5> -->
-          <h3 class="title-w3l mb-4">Aims and Objectives</a></h3>
-          <p class="text-para"><b>Spreading</b> the right call of the religion of Islam based purely on the teachings of Quran and Sunnah as understood by the Prophets Companions and their pious successors.Adorning the Muslim women with the essentials of the religious knowledge and endeavoring to create an Islamic awakening in them.
+          <h3 class="title-w3l mb-4">Aims and Objectives</h3>
+          <p class="text-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+            incididunt ut labore et dolore magna aliqua. Fusce eget ex fermentum, ultricies nisi ac sed,
+            lacinia est. Quisque ut lectus consequat, venenatis eros et, sed commodo risus. Nullam sit
+            amet laoreet elit. Suspendisse non init magnaa velit efficitur.
           </p>
           <a href="about.html" class="btn btn-style btn-primary mt-lg-5 mt-4">Read More</a>
         </div>
@@ -309,7 +312,7 @@
   <!--//team-sec-->
   <!--/progress-->
   <section class="w3l-servicesblock w3l-servicesblock1 py-5" id="progress">
-    <div class="container py-lg-5 py-md-4 py-2" style="text-align: center;"><h3><b>Aims and Objectives</b></h3>
+    <div class="container py-lg-5 py-md-4 py-2">
       <div class="row">
         <!-- <div class="col-lg-6 align-self pr-lg-4">
           <div class="progress-info info1">
@@ -347,37 +350,28 @@
           </div>
          
         </div> -->
-        
-          <div class="col-lg-6 mt-lg-0 mt-5 pl-lg-5">
-            <!-- <h5 class="title-subw3hny mb-1">Progress Bars</h5>-->
-            <!-- <h3 class="title-w3l">What you have in our Popular <span class="inn-text">Online Courses</span></h3> -->
-            <p class="mt-md-4 mt-3"><b>To reform</b> and reconstruct the socially and religiously rotten Muslim society along the lines of the true Islamic teachings of Islam.To raise a wave of religious learning in Muslims and prepare them for religious service in such a way as to meet the challenges of the changing states of the modern age.</p>
-          
-          </div>
-          <div class="col-lg-6 mt-lg-0 mt-5 pl-lg-5">
-            <!-- <h5 class="title-subw3hny mb-1">Progress Bars</h5>
-            <h3 class="title-w3l">What you have in our Popular <span class="inn-text">Online Courses</span></h3> -->
-            <p class="mt-md-4 mt-3"><b>Taking</b> every possible step for the good and welfare of all the country-fellows, cutting across all the barriers of caste, religion and social affiliations. Preparation of useful, constructive literature on Islam, its teachings and the areas of the Islamic learning and their translation into national and international languages.</p>
-          
-          </div>
-          <div class="col-lg-6 mt-lg-0 mt-5 pl-lg-5" >
-            <!-- <h5 class="title-subw3hny mb-1">Progress Bars</h5>
-            <h3 class="title-w3l">What you have in our Popular <span class="inn-text">Online Courses</span></h3> -->
-            <p class="mt-md-4 mt-3" ><b>Awakening</b> the Muslims towards the growing importance of the useful modern secular learning and taking the required initiatives for the purpose.Preparation of competent and virtuous men of Islamic learning in the perspective of the modern times. To revive and rediscover the scholarship of the pious precursors, making sustained endeavour to keep the Muslims associated and enlightened with it.</p>
-          
-          </div> 
-          <div class="col-lg-6 mt-lg-0 mt-5 pl-lg-5" >
-            <!-- <h5 class="title-subw3hny mb-1">Progress Bars</h5>
-            <h3 class="title-w3l">What you have in our Popular <span class="inn-text">Online Courses</span></h3> -->
-            <p class="mt-md-4 mt-3" ><b>Adorning</b> the Muslim women with the essentials of the religious knowledge and endeavoring to create an Islamic awakening in them.To revive and rediscover the scholarship of the pious precursors, making sustained endeavour to keep the Muslims associated and enlightened with it.</p>
-          
-          </div>     
+        <div class="col-lg-6 mt-lg-0 mt-5 pl-lg-5">
+          <h5 class="title-subw3hny mb-1">Progress Bars</h5>
+          <h3 class="title-w3l">What you have in our Popular <span class="inn-text">Online Courses</span></h3>
+          <p class="mt-md-4 mt-3">Lorem ipsum viverra feugiat. Pellen tesque libero ut justo,
+            ultrices in ligula. Semper at. Lorem ipsum dolor sit amet
+            elit. Non quae, fugiat nihil ad. Lorem ipsum dolor sit amet. Lorem ipsum init
+            dolor sit, amet elit. Dolor ipsum non velit, culpa! elit ut et.</p>
+         
+        </div>
+        <div class="col-lg-6 mt-lg-0 mt-5 pl-lg-5">
+          <h5 class="title-subw3hny mb-1">Progress Bars</h5>
+          <h3 class="title-w3l">What you have in our Popular <span class="inn-text">Online Courses</span></h3>
+          <p class="mt-md-4 mt-3">Lorem ipsum viverra feugiat. Pellen tesque libero ut justo,
+            ultrices in ligula. Semper at. Lorem ipsum dolor sit amet
+            elit. Non quae, fugiat nihil ad. Lorem ipsum dolor sit amet. Lorem ipsum init
+            dolor sit, amet elit. Dolor ipsum non velit, culpa! elit ut et.</p>
+         
+        </div>
+      </div>
     </div>
   </section>
   <!--//progress-->
-
-
-  
   <!--/w3l-project-->
   <section class="w3l-join-main py-5">
     <div class="container py-md-5 py-2">
@@ -386,17 +380,18 @@
           <div class="col-lg-7">
             <div class="bottom-info">
               <div class="header-section pr-lg-5">
-                <!-- <h5 class="title-subw3hny mb-3">Join With Us</h5> -->
-                <h3 class="title-w3l mb-3">Features of the Jamia</span>
+                <h5 class="title-subw3hny mb-3">Join With Us</h5>
+                <h3 class="title-w3l mb-3">Want to Join?</span>
                 </h3>
-                <p>Following are the salient features of the educational scheme the Jamia offers to its students and beneficiaries given below:</p>
+                <p>Lorem ipsum dolor sit amet elit. Velit beatae rem ullam dolore nisi esse quasi, sit amet. Lorem ipsum
+                  dolor sit amet elit.</p>
               </div>
             </div>
           </div>
           <div class="col-lg-5 align-self mt-lg-0 mt-sm-5 mt-4">
-            <div class="d-sm-flex justify-content-center">
-              <!-- <a href="#" class="btn btn-primary btn-style mr-sm-2"> Became a Teacher</a> -->
-              <a href="#" class="btn btn-secondary btn-style" > Contact Now </a>
+            <div class="d-sm-flex justify-content-end">
+              <a href="#" class="btn btn-primary btn-style mr-sm-2"> Became a Teacher</a>
+              <a href="#" class="btn btn-secondary btn-style"> Contact Now </a>
             </div>
           </div>
         </div>
@@ -404,42 +399,6 @@
     </div>
   </section>
   <!--//w3l-project-->
-
-<section class="w3l-servicesblock w3l-servicesblock1 py-5" id="progress">
-    <div class="container py-lg-5 py-md-4 py-2" style="text-align: center;"><h3><b>Distinguishing features of the Jamia Rabbani</b></h3>
-      <div class="row">
-
-            <div class="col-lg-6 mt-lg-0 mt-5 pl-lg-5">
-              <!-- <h5 class="title-subw3hny mb-1">Progress Bars</h5>-->
-              <!-- <h3 class="title-w3l">What you have in our Popular <span class="inn-text">Online Courses</span></h3> -->
-              <p class="mt-md-4 mt-3">
-                <b>In addition</b> to education and academic activities, special care is given to the students upbringing and their moral orientation.
-              </p>
-            </div>
-            <div class="col-lg-6 mt-lg-0 mt-5 pl-lg-5" >
-              <!-- <h5 class="title-subw3hny mb-1">Progress Bars</h5>
-              <h3 class="title-w3l">What you have in our Popular <span class="inn-text">Online Courses</span></h3> -->
-              <p class="mt-md-4 mt-3" ><b>In order to</b> develop the literary potentials of the learners and to cultivate a good taste for the general and artistic use of the language, the Anjuman Tahzibul Bayan has been established, which has been working for years.
-              </p>
-               
-            </div> 
-            <div class="col-lg-6 mt-lg-0 mt-5 pl-lg-5" >
-              <!-- <h5 class="title-subw3hny mb-1">Progress Bars</h5>
-              <h3 class="title-w3l">What you have in our Popular <span class="inn-text">Online Courses</span></h3> -->
-              <p class="mt-md-4 mt-3" >
-              <b>In the teaching</b> of the Holy Quran the learners are taught, from the very beginning, the rules of the Quranic phonetics (terminologically called tajweed), and great care is given to the correct pronunciation of the Quranic words.</p>
-            </div>
-            <div class="col-lg-6 mt-lg-0 mt-5 pl-lg-5" >
-              <!-- <h5 class="title-subw3hny mb-1">Progress Bars</h5>
-              <h3 class="title-w3l">What you have in our Popular <span class="inn-text">Online Courses</span></h3> -->
-              <p class="mt-md-4 mt-3" >
-              <b>Side by side</b> the religious education and learning, the students of the Jamia are enlightened with the demands of the age we are living in, thereby to enable them keep abreast of the fast changing world.
-                </p>
-            </div>
-      </div>     
-    </div>
-</section>
-
   <!--/footer-->
   <footer class="w3l-footer-22 position-relative">
     <div class="footer-sub py-5">
@@ -448,7 +407,9 @@
 
           <div class="col-lg-4 col-md-6 sub-one-left ab-right-cont pr-lg-5 mb-md-0  mb-4">
             <h6>About </h6>
-            <p>"Jamia Rabbani is renowned for its commitment to preserving and disseminating Islamic knowledge, offering a comprehensive curriculum that integrates traditional scholarship with contemporary understanding."</p>
+            <p>Lorem ipsum dolor sit amet elit. Velit beatae rem ullam dolore nisi esse quasi, sit amet.
+              Lorem ipsum dolor sit amet elit.voluptatem accusantium
+              doloremque.</p>
             <div class="columns-2">
               <ul class="social">
                 <li><a href="#facebook"><span class="fab fa-facebook-f" aria-hidden="true"></span></a>
@@ -467,12 +428,11 @@
           <div class="col-lg-2 col-md-6 sub-two-right pl-lg-5">
             <h6>Useful Links</h6>
             <ul>
-              <li><a href="index.html"><span class="fas fa-chevron-right mr-2"></span>Home</a></li>
-              <li><a href="about.html"><span class="fas fa-chevron-right mr-2"></span>About</a></li>
-              <li><a href="about.html"><span class="fas fa-chevron-right mr-2"></span>Department</a></li>
-              <li><a href="about.html"><span class="fas fa-chevron-right mr-2"></span>Gallery</a></li>
-              <li><a href="about.html"><span class="fas fa-chevron-right mr-2"></span>Requirements</a></li>
-              <li><a href="about.html"><span class="fas fa-chevron-right mr-2"></span>Visitors</a></li>
+              <li><a href="index.html"><span class="fas fa-chevron-right mr-2"></span>Home</a>
+              </li>
+              <li><a href="about.html"><span class="fas fa-chevron-right mr-2"></span>About</a>
+              </li>
+              <li><a href="courses.html"><span class="fas fa-chevron-right mr-2"></span>Courses</a></li>
               <li><a href="contact.html"><span class="fas fa-chevron-right mr-2"></span>Contact</a></li>
             </ul>
           </div>
