@@ -14,11 +14,6 @@
 
 <body>
     <!--header-->
-<<<<<<< HEAD
-
-    <?php include 'header.html' ?>
-
-=======
     <header id="site-header" class="fixed-top">
         <div class="container">
             <nav class="navbar navbar-expand-lg navbar-dark stroke">
@@ -92,7 +87,6 @@
 
         </div>
     </header>
->>>>>>> 53fd1e9e8479629e712ee9c7cf2881cfcd49caa7
     <!--/header-->
     <!--/Banner-Start-->
     <section class="bannerw3l-hnyv">
