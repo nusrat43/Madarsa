@@ -6,8 +6,7 @@
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <link rel="icon" href="assets/images/logo.png">
-  <title>About | Jamia Rabbani</title>
+  <title>Edukator - Education Category Bootstrap Responsive Template | About :: W3layouts</title>
   <!-- google fonts -->
   <link href="//fonts.googleapis.com/css2?family=Jost:wght@300;400;600;700&display=swap" rel="stylesheet">
   <!-- Template CSS -->
@@ -16,21 +15,17 @@
 
 <body>
   <!--header-->
-
-
-  
-  <?php     include 'header.html' ?> 
-  <!-- <header id="site-header" class="fixed-top">
+  <header id="site-header" class="fixed-top">
     <div class="container">
       <nav class="navbar navbar-expand-lg navbar-dark stroke">
         <h1>
           <a class="navbar-brand" href="index.html">
             Jamia Rabbani</a>
         </h1>
-        <!- if logo is image enable this   
+        <!-- if logo is image enable this   
   <a class="navbar-brand" href="#index.html">
       <img src="image-path" alt="Your logo" title="Your logo" style="height:35px;" />
-  </a> ->
+  </a> -->
         <button class="navbar-toggler  collapsed bg-gradient" type="button" data-toggle="collapse"
           data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false"
           aria-label="Toggle navigation">
@@ -47,12 +42,20 @@
               <a class="nav-link" href="about.html">About</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="courses.html">Courses</a>
-            </li>
-            <li class="nav-item mr-lg-1">
+              <a class="nav-link" href="courses.html">Department </a>
+          </li>
+          <li class="nav-item">
+              <a class="nav-link" href="courses.html">Gallery</a>
+          </li>
+          <li class="nav-item">
+              <a class="nav-link" href="courses.html">Requirements</a>
+          </li> <li class="nav-item">
+              <a class="nav-link" href="courses.html">Visitors</a>
+          </li>
+          <li class="nav-item mr-lg-1">
               <a class="nav-link" href="contact.html">Contact</a>
-            </li>
-            <!-/search-right-->
+          </li>
+            <!--/search-right-->
             <!-- <li class="header-search mr-lg-2 mt-lg-0 mt-4 position-relative">
               <div class="search-right">
                 <a href="#search" class="btn btn-style search-btn" title="search"><span class="fas fa-search mr-2"
@@ -60,12 +63,12 @@
                
               </div>
             </li> -->
-            <!--//search-right->
+            <!--//search-right-->
           </ul>
         </div>
 
 
-        <!- toggle switch for light and dark theme ->
+        <!-- toggle switch for light and dark theme -->
         <div class="mobile-position">
           <nav class="navigation">
             <div class="theme-switch-wrapper">
@@ -79,10 +82,10 @@
             </div>
           </nav>
         </div>
-        <!- //toggle switch for light and dark theme ->
+        <!-- //toggle switch for light and dark theme -->
       </nav>
     </div>
-  </header> -->
+  </header>
   <!--/header-->
   <!-- breadcrumb -->
   <section class="w3l-about-breadcrumb text-center">
@@ -92,9 +95,9 @@
           <div class="w3breadcrumb-left text-left">
             <h2 class="title AboutPageBanner">
               About Us </h2>
-            <p class="inner-page-para mt-2">
+            <!-- <p class="inner-page-para mt-2">
               Learn Anytime, Anywhere.
-              Accelerate Your Future.</p>
+              Accelerate Your Future.</p> -->
           </div>
           <div class="w3breadcrumb-right">
             <ul class="breadcrumbs-custom-path">
@@ -113,15 +116,12 @@
       <div class="container py-lg-5 py-md-4 py-2">
         <div class="row">
           <div class="col-lg-8 left-wthree-img pr-lg-5">
-            <h5 class="title-subw3hny mb-1">About Us</h5>
-            <h3 class="title-w3l">Improving lives through Learning.
-              We are always inspired by the world and people around us.</h3>
+            <h5 class="title-subw3hny mb-1">Haz. Maulana Ataur Rahman</h5>
+            <h3 class="title-w3l">Haz. Maulana Ataur Rahman Mazahiri younger brother of Haz. Maulana Hakim Ahmad Hasan (d. 1971).</h3>
           </div>
           <div class="col-lg-4 mt-lg-0 mt-5 about-right-faq align-self">
 
-            <p class="">Lorem ipsum viverra feugiat. Pellen tesque libero ut justo,
-              ultrices in ligula. Semper at tempufddfel. Lorem ipsum dolor sit amet consectetur adipisicing
-              elit. Non quae, fugiat consequatur voluptatem ad.</p>
+            <p class="">Haz. Maulana Mahfoozur Rahman the spiritual successor of the late Haz. Maulana Ahmad Hasan. This way this centre of religious learning and spiritualism is satisfying the religious and spiritual needs of a larger area, with its benefits reaching, directly or otherwise, even to the distant areas, let alone those lying nearby.. </p>
 
           </div>
         </div>
@@ -129,14 +129,40 @@
     </div>
   </section>
   <!--//w3l-aboutblock1-->
+
+<!--/w3l-aboutblock1-->
+<section class="w3l-aboutblock1" id="about">
+  <div class="midd-w3 py-5">
+    <div class="container py-lg-5 py-md-4 py-2">
+      <div class="row">
+        <div class="col-lg-4 mt-lg-0 mt-5 about-right-faq align-self">
+
+          <p class=""><b>Majaze bai'at</b> is a term of the Islamic Spiritualism. The term denotes the person who has duly attained the necessary training and competence in Islamic Spiritualism under a recognized spiritual mentor and is permitted to admit others wishing to taste Islamic Spiritualism into his care and accept of bai'at of shariat from then at his hand.</p>
+
+        </div>
+        <div class="col-lg-4 mt-lg-0 mt-5 about-right-faq align-self">
+
+          <p class=""><b>At the same</b> historic habitation and under the aegis of the Khanqah Naqshband Maulana Mufti Akhtar Imam Adil Qasmi took the venture to lay the foundation stone of the Jamia Rabbani on Thursday in 8 Jamadial Thaniya 1419, corresponding to October 1st 1998.By laying the foundation stone of this religious institution in fact a great movement for the educational development of the area and around was launched.</p>
+
+        </div>
+        <div class="col-lg-4 mt-lg-0 mt-5 about-right-faq align-self">
+
+          <p class=""><b>Although</b> the work was commenced in a state of almost utter resourcelessness, yet, thanks to the unseen Divine support, the institution began to march ahead unhindered, making progress visible at all spheres , education and construction of new building structures and the academic performance of its beneficiary students of the religious learning. Praise to Allah Ta'ala, today this institution stands for a noted religious seminary of Bihar.</p>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!--//w3l-aboutblock1-->
+
   <!-- features-section -->
   <section class="w3l-features py-5" id="work">
     <div class="container py-lg-5 py-md-4 py-2">
       <div class="row main-cont-wthree-2 align-items-center">
         <div class="col-lg-6 feature-grid-left pr-lg-5">
-          <h5 class="title-subw3hny">Why Choose Us</h5>
-          <h3 class="title-w3l mb-4">Our Mission is to Provide a World‑class <span class="inn-text">Education</span>
-          </h3>
+          <!-- <h5 class="title-subw3hny">Why Choose Us</h5> -->
+          <h3 class="title-w3l mb-4">Aims and Objectives</h3>
           <p class="text-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
             incididunt ut labore et dolore magna aliqua. Fusce eget ex fermentum, ultricies nisi ac sed,
             lacinia est. Quisque ut lectus consequat, venenatis eros et, sed commodo risus. Nullam sit
@@ -177,7 +203,7 @@
   </section>
   <!-- features section -->
   <!--/team-sec-->
-  <section class="w3l-team-main team py-5" id="team">
+  <!-- <section class="w3l-team-main team py-5" id="team">
     <div class="container py-lg-5">
       <h5 class="title-subw3hny mb-1 text-center">Our Team</h5>
       <h3 class="title-w3l text-center">Meet Our <span class="inn-text">Teachers</span></h3>
@@ -206,7 +232,7 @@
             <p>Director</p>
           </div>
         </div>
-        <!-- end team member -->
+        <!- end team member ->
         <div class="col-lg-3 col-6 team-wrap mt-5">
           <div class="team-member text-center">
             <div class="team-img">
@@ -231,7 +257,7 @@
             <p>Managing Director</p>
           </div>
         </div>
-        <!-- end team member -->
+        <!- end team member ->
         <div class="col-lg-3 col-6 team-wrap mt-5">
           <div class="team-member text-center">
             <div class="team-img">
@@ -256,7 +282,7 @@
             <p>Teacher</p>
           </div>
         </div>
-        <!-- end team member -->
+        <!- end team member ->
         <div class="col-lg-3 col-6 team-wrap mt-5">
           <div class="team-member last text-center">
             <div class="team-img">
@@ -282,7 +308,7 @@
           </div>
         </div>
       </div>
-  </section>
+  </section> -->
   <!--//team-sec-->
   <!--/progress-->
   <section class="w3l-servicesblock w3l-servicesblock1 py-5" id="progress">
@@ -372,12 +398,85 @@
       </div>
     </div>
   </section>
-  
- 
+  <!--//w3l-project-->
   <!--/footer-->
-  
-  <?php include 'footer.html' ?>
+  <footer class="w3l-footer-22 position-relative">
+    <div class="footer-sub py-5">
+      <div class="container py-md-5">
+        <div class="row sub-columns">
 
+          <div class="col-lg-4 col-md-6 sub-one-left ab-right-cont pr-lg-5 mb-md-0  mb-4">
+            <h6>About </h6>
+            <p>Lorem ipsum dolor sit amet elit. Velit beatae rem ullam dolore nisi esse quasi, sit amet.
+              Lorem ipsum dolor sit amet elit.voluptatem accusantium
+              doloremque.</p>
+            <div class="columns-2">
+              <ul class="social">
+                <li><a href="#facebook"><span class="fab fa-facebook-f" aria-hidden="true"></span></a>
+                </li>
+                <li><a href="#linkedin"><span class="fab fa-linkedin-in" aria-hidden="true"></span></a>
+                </li>
+                <li><a href="#twitter"><span class="fab fa-twitter" aria-hidden="true"></span></a>
+                </li>
+                <li><a href="#google"><span class="fab fa-google-plus-g" aria-hidden="true"></span></a>
+                </li>
+                <li><a href="#pinterest"><span class="fab fa-pinterest-p" aria-hidden="true"></span></a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-lg-2 col-md-6 sub-two-right pl-lg-5">
+            <h6>Useful Links</h6>
+            <ul>
+              <li><a href="index.html"><span class="fas fa-chevron-right mr-2"></span>Home</a>
+              </li>
+              <li><a href="about.html"><span class="fas fa-chevron-right mr-2"></span>About</a>
+              </li>
+              <li><a href="courses.html"><span class="fas fa-chevron-right mr-2"></span>Courses</a></li>
+              <li><a href="contact.html"><span class="fas fa-chevron-right mr-2"></span>Contact</a></li>
+            </ul>
+          </div>
+          <div class="col-lg-3 col-md-6 sub-two-right pl-lg-5 mt-md-0 mt-4">
+            <h6>Help & Support</h6>
+            <ul>
+              <li><a href="#live"><span class="fas fa-chevron-right mr-2"></span>Live
+                  Chart</a></li>
+              <li><a href="#faq"><span class="fas fa-chevron-right mr-2"></span>Faq</a>
+              </li>
+              <li><a href="#support"><span class="fas fa-chevron-right mr-2"></span>Support</a>
+              </li>
+              <li><a href="#terms"><span class="fas fa-chevron-right mr-2"></span>Terms
+                  of Services</a></li>
+            </ul>
+          </div>
+          <div class="col-lg-3 col-md-6 sub-two-right mt-md-0 mt-4">
+            <h6>Research</h6>
+            <ul>
+              <li><a href="#"><span class="fas fa-chevron-right mr-2"></span> Academic Divisions</a>
+              </li>
+              <li><a href="#"><span class="fas fa-chevron-right mr-2"></span> Student Research</a>
+              </li>
+              <li><a href="#"><span class="fas fa-chevron-right mr-2"></span> Centers & Institutes</a>
+              </li>
+              <li><a href="#"><span class="fas fa-chevron-right mr-2"></span> Research Facilities</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+    <!-- copyright -->
+    <div class="copyright-footer text-center">
+      <div class="container">
+        <div class="columns">
+          <p>© 2021 Edukator. All rights reserved.Design by<a href="https://w3layouts.com/" target="_blank">
+              W3layouts</a>
+          </p>
+        </div>
+      </div>
+    </div>
+    <!-- //copyright -->
+  </footer>
   <!-- //footer -->
 
   <!-- Js scripts -->
