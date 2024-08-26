@@ -29,9 +29,9 @@
           <div class="w3breadcrumb-left text-left">
             <h2 class="title AboutPageBanner">
             Educational department </h2>
-            <p class="inner-page-para mt-2">
+            <!-- <p class="inner-page-para mt-2">
             The educational department of the Jamia includes the following:
-</p>
+</p> -->
           </div>
           <div class="w3breadcrumb-right">
             <ul class="breadcrumbs-custom-path">
@@ -66,7 +66,7 @@
                         <div class="cwp23-text-cols row">
                             <div class="column col-6 mt-lg-4 pt-lg-1">
                                 <div class="column-w3-img position-relative">
-                                    <a href="#"><img src="assets\images\education1.jpg"alt=""
+                                    <a href="#"><img src="assets\images\education1.jpg" alt="" 
                                     class="radius-image img-fluid"></a> 
                                     <!-- <div class="edu-info">
                                         <h4 class="edu-heading-title"><a href="#">Personal Development</a></h4>
@@ -75,9 +75,11 @@
                             
 
                             </div>
+                            
+                            
                             <div class="column col-6">
                                 <div class="column-w3-img position-relative">
-                                    <a href="#"><img src="assets\images\education2.jpg" height="200px" width="250px" alt=""
+                                    <a href="#"><img src="assets\images\education2.jpg"  alt=""
                                             class="radius-image img-fluid"></a>
                                     <!-- <div class="edu-info">
                                         <h4 class="edu-heading-title"><a href="#">Entrepreneurship</a></h4>
