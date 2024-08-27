@@ -14,6 +14,7 @@
     <link href="//fonts.googleapis.com/css2?family=Jost:wght@300;400;600;700&display=swap" rel="stylesheet">
     <!-- Template CSS -->
     <link rel="stylesheet" href="assets/css/style-starter.css">
+
 </head>
 <body>
 
@@ -46,7 +47,34 @@
     </div>
   </section>
 
-
+    <div class="container" style=" margin: 0;font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;font-size: 1rem;font-weight: 400;line-height: 1.5;color: #212529;text-align: left;background-color: #fff;">
+        <div class="box" style="max: width 400px; background: #ffffff;padding: 20px;margin: 0 auto; border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);align-items: center;">
+            <h3 class="title-w3l mb-4" style="text-align:center;">Some important personalities who have visited Jamia</h3>
+            <ul  style="padding-left: 100px;margin: 0;">
+                <li style="font-size: 18px;color: #555;margin-bottom: 10px; list-style-type: circle;">Haz. Maulana Mufti Md. Zafirul Din Miftahi, member of the Ifta Council, Darul Uloom Deoband, and president Islamic Fiqh Academy, India.</li>
+                <li style="font-size: 18px;color: #555;margin-bottom: 10px;list-style-type: circle;">Haz. Maulana Sayyed Nizamu Din (Ex- Amir Shariat Bihar, Urisa and Jharkhand, Ex-General Secretary All India Muslim Personal Law Board.)</li>
+                <li style="font-size: 18px;color: #555;margin-bottom: 10px;list-style-type: circle;">Hazrat Moulana Md. Salim Qasmi ,Mohtamim Darul uloom Deoband ,Vice Prcedent All India Muslim prsnol Law Board .</li>
+                <li style="font-size: 18px;color: #555;margin-bottom: 10px;list-style-type: circle;">Haz. Maulan Qari Md. Usman Mansurpuri Prcedent of Jamiat ul ulamae Hind .(Ex-vice principal, Darul Uloom Deoband).</li>
+                <li style="font-size: 18px;color: #555;margin-bottom: 10px;list-style-type: circle;">Haz. Maulana Syyed Wali Rahmani Sharine Superior Khanqahe Rahmani, Monger, Bihar, Ameer Shariat the Imarat Sharaiya Bihar, Urisa, Jharkhand, Secretary to the Muslim Personal Law Board.</li>
+                <li style="font-size: 18px;color: #555;margin-bottom: 10px;list-style-type: circle;">Hzrat Ml. Md. Asrarul Haque Qasmi . Prcedent of All India Milli Talimi Foundation Delhi.</li>
+                <li style="font-size: 18px;color: #555;margin-bottom: 10px;list-style-type: circle;">Moulana Azizul Hasan Siddiqi .Mohtamim Madarsa Dinia Ghazipur U P .</li>
+                <li style="font-size: 18px;color: #555;margin-bottom: 10px;list-style-type: circle;">Maulana Ahmad Nasar of (Banaras) Founder and Principal Madrasa Arabiyah Imdadiyah, Banaras, Khalifa and Majaz Haz. Maulana Safiullah, Jalalabad, U.P.</li>
+                <li style="font-size: 18px;color: #555;margin-bottom: 10px;list-style-type: circle;">Maulana Ammar Ahmad Qasmi, Founder and Principal Madrasa Afzalul Maarif, Allahabad.</li>
+                <li style="font-size: 18px;color: #555;margin-bottom: 10px;list-style-type: circle;">Maulana Mufti Nimat Allah Qasmi, formerly chief Mufti Ifta Council, Amarat e Sharaiyyah, Patna.</li>
+                <li style="font-size: 18px;color: #555;margin-bottom: 10px;list-style-type: circle;">Haz. Maulana Qari Md. Usman Qasmi (Bar Gaun, Darbhanga, Khalifa, Majaz Late Haz). Maulana Shah Ahamd Hasan Manorawi.</li>
+                <li style="font-size: 18px;color: #555;margin-bottom: 10px;list-style-type: circle;">Haz. Ali Ahmad Nazir, (Siwan, Bihar) Khalifa, Majaz. Hazrat Maulana Shah Ahamd Hasan Manorawi.</li>
+                <li style="font-size: 18px;color: #555;margin-bottom: 10px;list-style-type: circle;">Maulana Anisurrahman Qasmi, Nazim at the Imarate Sharaiyah, Phulwari Sharif, Patna.</li>
+                <li style="font-size: 18px;color: #555;margin-bottom: 10px;list-style-type: circle;">Ml.Md. Eisa Mansoori ,Charman World Islamic Form.London U K .</li>
+                <li style="font-size: 18px;color: #555;margin-bottom: 10px;list-style-type: circle;">Ml. Mufti Md. Zahid Ali Khan Nazim Diniat Aligarh Muslim university Aligarh U P .</li>
+                <li style="font-size: 18px;color: #555;margin-bottom: 10px;list-style-type: circle;">Hazrat Ml. Ejaz Ahmad Azmi. Azamgarh U P.</li>
+                <li style="font-size: 18px;color: #555;margin-bottom: 10px;list-style-type: circle;">Hazrat Ml. Abdurrab Azmi .Nazim Madarsa Anwarul uloom Jahanaganj ,Azamgarh ,U P .</li>
+                <li style="font-size: 18px;color: #555;margin-bottom: 10px;list-style-type: circle;">Ml. Alauddin Nadwi .Teacher Darululoom Nadwatul ulama Lucknow U P .</li>
+                <li style="font-size: 18px;color: #555;margin-bottom: 10px;list-style-type: circle;">Ml. Ubaidullah Asadi ,Shaikhul Hadis Jamia Arabia Hathora Banda.U P.</li>
+                <li style="font-size: 18px;color: #555;margin-bottom: 10px;list-style-type: circle;">Item 4</li>
+            </ul>
+        </div>
+    </div>
 
    <!--/footer-->
    <?php include 'footer.html' ?>
