@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html lang="en">
 
@@ -16,9 +15,9 @@
 
 <body>
   <!--header-->
-  
-  
-  <?php     include 'header.html' ?>
+
+
+  <?php include 'header.html' ?>
 
   <!--/header-->
   <!-- breadcrumb -->
@@ -44,87 +43,114 @@
     </div>
   </section>
   <!--//breadcrumb-->
-  <!-- contacts-5-grid -->
-<div class="w3l-contact-10 py-5" id="contact">
-    <div class="form-41-mian pt-lg-4 pt-md-3 pb-lg-4">
-        <div class="container">
-            <div class="heading text-center mx-auto">
-              <h5 class="title-subw3hny text-center">Contact our team</h5>
-              <h3 class="title-w3l">Got any <span class="inn-text">Questions? </span></h3>
-            </div>
-            <div class="contacts-5-grid-main mt-5">
-                <div class="contacts-5-grid">
-                    <div class="map-content-5">
-                        <div class="d-grid grid-col-2">
-                            <div class="contact-type">
-                                <div class="address-grid">
-                                    <h6><span class="fas fa-map-marked-alt"></span> Address</h6>
-                                    <p>#302, 5th Floor, VHLY-2247 ek, Settlers Lane, New York.</p>
-                                    
-                                </div>
-                                <div class="address-grid">
-                                    <h6><span class="fas fa-envelope-open-text"></span> Email</h6>
-                                    <a href="mailto:mailone@example.com" class="link1">mailone@example.com</a>
-                                    <a href="mailto:mailtwo@example.com"
-                                        class="link1">mailtwo@example.com</a>
-                                        
-                                </div>
-                                <div class="address-grid">
-                                    <h6><span class="fas fa-phone-alt"></span> Phone</h6>
-                                    <a href="tel:+12 324-016-695" class="link1">+12 324-016-695</a>
-                                    <a href="tel:+44 224-058-545" class="link1">+44 224-058-545</a>
-                                    
-                                </div>
-                            </div>
-                        </div>
+
+  <!-- bank info -->
+  <section class="w3l-project" id="subscribe">
+        <div class="container-fluid mx-lg-0">
+            <div class="row">
+                <div class="col-lg-6 bottom-info">
+                    <div class="project-header-section text-left">
+                      <h3 style="color:#50B498"><b><u>Bank Details</u></b></h3>
+                      <p>Account Holder: <b>JAMIA RABBANI MADRSA</b></p>
+                       <h3>Donation in India:</h3>
+                       <p>(1) A/c No.: 11892908559, 33234317780, State Bank of India, Bithan, Micr Code - 848002514, IFSC CODE - SBIN0006017</p>
+                       <p>(2) A/c.No.52920200000004 Bank of Baroda ,Bithan ,IFSC CODE :BARB0BITHAN</p>
+
+                       <h3>For Foreign Donations :</h3>
+                       <p>Jamia Rabbani Education and Welfare Trust SB/CA A/C.No 33366868772 . State Bank of India, Bithan , Micr Code 848002514 ,IFSC CODE. SBIN0006017 , SWIFT BIC COD. SBININBB156</p>
+                        
                     </div>
                 </div>
-            </div>
-            <div class="form-inner-cont mt-5">
-                <form action="#" method="post" class="signin-form">
-                    <div class="form-grids">
-                        <div class="form-input">
-                            <input type="text" name="Name"  placeholder="Enter your name *"
-                                required="" />
-                        </div>
-                        <div class="form-input">
-                            <input type="text" name="Subject" placeholder="Enter subject "
-                                required />
-                        </div>
-                        <div class="form-input">
-                            <input type="email" name="Sender"  placeholder="Enter your email *"
-                                required />
-                        </div>
-                        <div class="form-input">
-                            <input type="text" name="Phone" placeholder="Enter your Phone Number *"
-                                required />
-                        </div>
-                    </div>
-                    <div class="form-input">
-                        <textarea name="Message" placeholder="Type your query here"
-                            required=""></textarea>
-                    </div>
-                    <div class="text-right">
-                        <button class="btn btn-style btn-primary">Send Message</button>
-                    </div>
-                </form>
+                <div class="col-lg-6 ">
+                  <img src="assets/images/whatsApp.jpg" alt="">
+                </div>
             </div>
         </div>
+    </section>
+  <!-- bank info end -->
+
+
+  <!-- contacts-5-grid -->
+  <div class="w3l-contact-10 py-5" id="contact">
+    <div class="form-41-mian pt-lg-4 pt-md-3 pb-lg-4">
+      <div class="container">
+        <div class="heading text-center mx-auto">
+          <h5 class="title-subw3hny text-center">Contact Us</h5>
+          <h3 class="title-w3l">Got any <span class="inn-text">Questions? </span></h3>
+        </div>
+        <div class="contacts-5-grid-main mt-5">
+          <div class="contacts-5-grid">
+            <div class="map-content-5">
+              <div class="d-grid grid-col-2">
+                <div class="contact-type">
+                  <div class="address-grid">
+                    <h6><span class="fas fa-map-marked-alt"></span> Address</h6>
+                    <p>JAMIA RABBANI MANORWA SHARIF
+                      P.O.: Sohma, Via, Bithan, Distt.- Samastipur
+                      Pin � 848207, Bihar (INDIA)</p>
+
+                  </div>
+                  <div class="address-grid">
+                    <h6><span class="fas fa-envelope-open-text"></span> Email</h6>
+                    <a href="mailto:mailone@example.com" class="link1">jamia.rabbani@gmail.com</a>
+                    <a href="mailto:mailtwo@example.com"
+                      class="link1">jamiarabbani@rediffmail.com</a>
+
+                  </div>
+                  <div class="address-grid">
+                    <h6><span class="fas fa-phone-alt"></span> Phone</h6>
+                    <a href="tel:+12 324-016-695" class="link1">0091-9934082422(office)</a>
+                    <a href="tel:+44 224-058-545" class="link1">9473136822(Mohtamim)</a>
+
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="form-inner-cont mt-5">
+          <form action="#" method="post" class="signin-form">
+            <div class="form-grids">
+              <div class="form-input">
+                <input type="text" name="Name" placeholder="Enter your name *"
+                  required="" />
+              </div>
+              <div class="form-input">
+                <input type="text" name="Subject" placeholder="Enter subject "
+                  required />
+              </div>
+              <div class="form-input">
+                <input type="email" name="Sender" placeholder="Enter your email *"
+                  required />
+              </div>
+              <div class="form-input">
+                <input type="text" name="Phone" placeholder="Enter your Phone Number *"
+                  required />
+              </div>
+            </div>
+            <div class="form-input">
+              <textarea name="Message" placeholder="Type your message here..."
+                required=""></textarea>
+            </div>
+            <div class="text-right">
+              <button class="btn btn-style btn-primary">Send Message</button>
+            </div>
+          </form>
+        </div>
+      </div>
     </div>
     <!-- //contacts-5-grid -->
-</div>
+  </div>
 
-<div class="contacts-sub-5">
-    <iframe
-        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d387193.305935303!2d-74.25986548248684!3d40.69714941932609!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sin!4v1563262564932!5m2!1sen!2sin"
-        style="border:0" allowfullscreen></iframe>
-</div>
- 
+  <div class="contacts-sub-5">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3595.0375512257415!2d86.31316919999999!3d25.703180699999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39ee0136c4f36f5b%3A0x17cacb96cf35c2ef!2sJAMIA%20RABBANI%20MANORWA%20SHARIF!5e0!3m2!1sen!2sin!4v1724758155191!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  </div>
+
 
   <!--/footer-->
   <?php include 'footer.html' ?>
   <!-- //footer -->
-  
+
 
   <!-- Js scripts -->
   <!-- move top -->
@@ -133,7 +159,7 @@
   </button>
   <script>
     // When the user scrolls down 20px from the top of the document, show the button
-    window.onscroll = function () {
+    window.onscroll = function() {
       scrollFunction()
     };
 
@@ -158,8 +184,8 @@
   <script src="assets/js/theme-change.js"></script>
   <!-- disable body scroll which navbar is in active -->
   <script>
-    $(function () {
-      $('.navbar-toggler').click(function () {
+    $(function() {
+      $('.navbar-toggler').click(function() {
         $('body').toggleClass('noscroll');
       })
     });
@@ -168,7 +194,7 @@
 
   <!--/MENU-JS-->
   <script>
-    $(window).on("scroll", function () {
+    $(window).on("scroll", function() {
       var scroll = $(window).scrollTop();
 
       if (scroll >= 80) {
@@ -179,14 +205,14 @@
     });
 
     //Main navigation Active Class Add Remove
-    $(".navbar-toggler").on("click", function () {
+    $(".navbar-toggler").on("click", function() {
       $("header").toggleClass("active");
     });
-    $(document).on("ready", function () {
+    $(document).on("ready", function() {
       if ($(window).width() > 991) {
         $("header").removeClass("active");
       }
-      $(window).on("resize", function () {
+      $(window).on("resize", function() {
         if ($(window).width() > 991) {
           $("header").removeClass("active");
         }

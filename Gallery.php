@@ -38,7 +38,7 @@
             bottom: -10px;
             width: 50px;
             height: 3px;
-            background-color: teal;
+            background-color:teal;
         }
 
         .portfolio-item {
@@ -56,18 +56,18 @@
             width: 300px;
             height: 200px;
             background-color: teal;
-            
+
 
         }
 
         .portfolio-item:hover .portfolio-btn {
             opacity: 0.5;
         }
-        .text-center ul li{
-            color:#ffc107;
+
+        .text-center ul li {
+            color: #ffc107;
             background-color: teal;
         }
-       
     </style>
 </head>
 
@@ -92,6 +92,14 @@
                         <p class="inner-page-para mt-2">Madarsa ki yaadon se bhari yeh gallery, taleem aur tarbiyat ka safar dikhati hai.</p>
 
                     </div>
+                </div>
+            </div>
+            <div class="container py-lg-5 py-md-4" style="float: right; margin-top:300px">
+                <div class="w3breadcrumb-gids">
+                    <ul class="breadcrumbs-custom-path" >
+                        <li><a href="index.php">Home</a></li>
+                        <li class="active"><span class="fas fa-angle-double-right mx-2"></span> Gallery</li>
+                    </ul>
                 </div>
             </div>
         </div>
@@ -216,7 +224,7 @@
                         </div>
                     </div>
                 </div>
-                
+
                 <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
                     <div class="position-relative overflow-hidden mb-2">
                         <img class="img-fluid w-100" src="assets/images/pic1.jpg" alt="" />
@@ -228,8 +236,8 @@
                         </div>
                     </div>
                 </div>
-                
-               
+
+
                 <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
                     <div class="position-relative overflow-hidden mb-2">
                         <img class="img-fluid w-100" src="assets/images/pic12.jpg" alt="" />
@@ -274,7 +282,7 @@
                         </div>
                     </div>
                 </div>
-                
+
                 <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
                     <div class="position-relative overflow-hidden mb-2">
                         <img class="img-fluid w-100" src="assets/images/lib_pic1.jpg" alt="" />
@@ -396,7 +404,7 @@
                         </div>
                     </div>
                 </div>
-               
+
                 <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
                     <div class="position-relative overflow-hidden mb-2">
                         <img class="img-fluid w-100" src="assets/images/mpic.jpg" alt="" />
@@ -419,7 +427,7 @@
                         </div>
                     </div>
                 </div>
-                
+
                 <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
                     <div class="position-relative overflow-hidden mb-2">
                         <img class="img-fluid w-100" src="assets/images/pic8.jpg" alt="" />
@@ -453,7 +461,7 @@
                         </div>
                     </div>
                 </div>
-               
+
                 <div class="col-lg-4 col-md-6 mb-4 portfolio-item third">
                     <div class="position-relative overflow-hidden mb-2">
                         <img class="img-fluid w-100" src="assets/images/s-pic7.jpg" alt="" />

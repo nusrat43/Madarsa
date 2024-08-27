@@ -30,7 +30,7 @@
         <div class="w3breadcrumb-gids">
           <div class="w3breadcrumb-left text-left">
             <h2 class="title AboutPageBanner">
-              About Us </h2>
+              Library </h2>
             <p class="inner-page-para mt-2">
               Learn Anytime, Anywhere.
               Accelerate Your Future.</p>
@@ -38,7 +38,7 @@
           <div class="w3breadcrumb-right">
             <ul class="breadcrumbs-custom-path">
               <li><a href="index.html">Home</a></li>
-              <li class="active"><span class="fas fa-angle-double-right mx-2"></span> About Us</li>
+              <li class="active"><span class="fas fa-angle-double-right mx-2"></span> Library</li>
             </ul>
           </div>
         </div>
