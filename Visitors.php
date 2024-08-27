@@ -49,8 +49,8 @@
 
     <div class="container" style=" margin: 0;font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;font-size: 1rem;font-weight: 400;line-height: 1.5;color: #212529;text-align: left;background-color: #fff;">
         <div class="box" style="max: width 400px; background: #ffffff;padding: 20px;margin: 0 auto; border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);align-items: center;">
-            <h3 class="title-w3l mb-4" style="text-align:center;">Some important personalities who have visited Jamia</h3>
+            align-items: center;margin: top 100px;">
+            <h3 class="title-w3l mb-4" style="text-align:center; color: 4b545f;filter:drop-shadow(2px 2px 2px #17202a);">Some important personalities who have visited Jamia</h3>
             <ul  style="padding-left: 100px;margin: 0;">
                 <li style="font-size: 18px;color: #555;margin-bottom: 10px; list-style-type: circle;">Haz. Maulana Mufti Md. Zafirul Din Miftahi, member of the Ifta Council, Darul Uloom Deoband, and president Islamic Fiqh Academy, India.</li>
                 <li style="font-size: 18px;color: #555;margin-bottom: 10px;list-style-type: circle;">Haz. Maulana Sayyed Nizamu Din (Ex- Amir Shariat Bihar, Urisa and Jharkhand, Ex-General Secretary All India Muslim Personal Law Board.)</li>
@@ -75,6 +75,9 @@
             </ul>
         </div>
     </div>
+
+
+    
 
    <!--/footer-->
    <?php include 'footer.html' ?>
