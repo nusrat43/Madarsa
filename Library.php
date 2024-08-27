@@ -33,7 +33,7 @@
               Library </h2>
             <p class="inner-page-para mt-2">
               Learn Anytime, Anywhere.
-              Accelerate Your Future.</p>
+              Accelerate Your Future.</p> -->
           </div>
           <div class="w3breadcrumb-right">
             <ul class="breadcrumbs-custom-path">
@@ -47,6 +47,36 @@
   </section>
 
 
+  <section class="w3l-services2" id="services">
+    <div id="cwp23-block" class="py-5">
+      <div class="container py-lg-5">
+        <div class="row cwp23-content mt-lg-5 mt-4">
+          <div class="col-lg-6 cwp23-img">
+            <!-- <h6 class="title-subhny mb-2"><span>Library:</span></h6> -->
+            <h3 class="title-w3l mb-4"> <img src="assets/images/open-book.png" height="45px">  Our Library:-</h3>
+            <p class="mt-4">The library is an essential wing of an institution launched for academic purposes and the service of learning. In the case of the religious seats of higher Islamic learning it assumes an importance greater still. Indeed the library constitutes the backbone of Islamic religious seminaries. With a comprehensive, precious collection of thousands of books on religious in the Arabic, Persian, English, Urdu and Hindi languages on various Islamic subjects such as Tafseer, Hadith, Fiqh, Usool Fiqh, Seerat, Fatawa, Aqaid, Kalam, History, biographies, morality, Islamic mysticism etc, the library holds an unmatched status especially in northern Bihar. The collection is augmenting every year.
+
+
+            </p>
+            <p class="mt-4">Further, to enhance the knowledge and current information of the beneficiaries of this library, the library possesses a well-managed section of periodicals and journals, which receives a large number of important research journals periodicals from within the country and outside.</p>
+            <!-- <div class="w3l-button mt-lg-5 mt-4">
+              <a href="services.html" class="btn btn-style btn-primary mt-2">Read More </a>
+            </div> -->
+          </div>
+          <div class="col-lg-6 cwp23-text mt-lg-0 mt-5 pl-lg-5">
+            <div class="imgw3l-ab w3l-news">
+              <div class="grids5-info">
+                <a href="#" class="d-block zoom"><img src="assets/images/lib_pic4.jpg"alt="" class="img-fluid news-image"></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+ 
  
 
 
