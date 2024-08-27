@@ -28,15 +28,15 @@
         <div class="w3breadcrumb-gids">
           <div class="w3breadcrumb-left text-left">
             <h2 class="title AboutPageBanner">
-              Courses </h2>
-            <p class="inner-page-para mt-2">
-              Learn Anytime, Anywhere.
-              Accelerate Your Future.</p>
+            Educational department </h2>
+            <!-- <p class="inner-page-para mt-2">
+            The educational department of the Jamia includes the following:
+</p> -->
           </div>
           <div class="w3breadcrumb-right">
             <ul class="breadcrumbs-custom-path">
               <li><a href="index.html">Home</a></li>
-              <li class="active"><span class="fas fa-angle-double-right mx-2"></span> Courses</li>
+              <li class="active"><span class="fas fa-angle-double-right mx-2"></span>Educational department</li>
             </ul>
           </div>
         </div>
@@ -50,38 +50,47 @@
             <div class="container py-lg-5 py-md-3">
                 <div class="row cwp23-grids align-items-center">
                     <div class="col-lg-6">
-                        <h5 class="title-subw3hny">Find Courses</h5>
-                        <h3 class="title-w3l">Find courses on almost any <span class="inn-text">Topic</span></h3>
-                        <h6 class="mt-md-4 mt-md-5 mt-4">Build your library for your career
-                            <br>and personal growth</h6>
-                        <a href="about.html" class="btn btn-style btn-primary mt-lg-5 mt-4">View Courses</a>
+                        <h5 class="title-subw3hny">The educational department</h5>
+                        <h3 class="title-w3l"> Jamia includes the following:</h3> <span class="inn-text"></span></h3>
+                        <br>
+                        <p> ❖ Teaching of the Qur'an by eye-sight (with tajweed).</p><br>
+                        <p> ❖ Memorization of the Quran.</p><br>
+                        <p> ❖ Quranic phonetics.</p><br>
+                        <p> ❖ Junior-level religious education with instructions in indispensable areas of the contemporary learning.</p><br>
+                        <p> ❖ Instructions in the Arabic, Persian languages and literature and other   religious subjects. For the time being this department is functioning upto the secondary level.</p><br>
+                        <p> ❖ Department of children's education (both religious and modern).</p><br>
+                        <p> ❖ Department of Women's Education (both religious and contemporary).</p><br>
+                        <!-- <a href="about.html" class="btn btn-style btn-primary mt-lg-5 mt-4">View Courses</a> -->
                     </div>
                     <div class="HomeAboutImages col-lg-6 mt-lg-0 mt-5 pl-lg-5">
                         <div class="cwp23-text-cols row">
                             <div class="column col-6 mt-lg-4 pt-lg-1">
                                 <div class="column-w3-img position-relative">
-                                    <a href="#"><img src="assets/images/ab3.jpg" alt=""
-                                            class="radius-image img-fluid"></a>
-                                    <div class="edu-info">
+                                    <a href="#"><img src="assets\images\education1.jpg" alt="" 
+                                    class="radius-image img-fluid"></a> 
+                                    <!-- <div class="edu-info">
                                         <h4 class="edu-heading-title"><a href="#">Personal Development</a></h4>
-                                    </div>
+                                    </div> -->
                                 </div>
+                            
 
                             </div>
+                            
+                            
                             <div class="column col-6">
                                 <div class="column-w3-img position-relative">
-                                    <a href="#"><img src="assets/images/banner1.jpg" alt=""
+                                    <a href="#"><img src="assets\images\education2.jpg"  alt=""
                                             class="radius-image img-fluid"></a>
-                                    <div class="edu-info">
+                                    <!-- <div class="edu-info">
                                         <h4 class="edu-heading-title"><a href="#">Entrepreneurship</a></h4>
-                                    </div>
+                                    </div> -->
                                 </div>
                                 <div class="column-w3-img position-relative mt-4">
-                                    <a href="#"><img src="assets/images/banner2.jpg" alt=""
+                                    <a href="#"><img src="assets\images\education3.jpg" alt=""
                                             class="radius-image img-fluid"></a>
-                                    <div class="edu-info">
+                                    <!-- <div class="edu-info">
                                         <h4 class="edu-heading-title"><a href="#">Photography</a></h4>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                         </div>
@@ -92,7 +101,7 @@
     </section>
     <!--//-->
   <!--/popular-Courses-->
-  <section class="w3l-courses" id="courses">
+  <!-- <section class="w3l-courses" id="courses">
     <div class="blog py-5">
       <div class="container py-md-5 py-2">
         <h5 class="title-subw3hny text-center">Featured Courses</h5>
@@ -362,7 +371,7 @@
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
   <!--//popular-Courses-->
 
   <!--/footer-->

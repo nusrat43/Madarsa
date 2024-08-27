@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html lang="en">
 
@@ -6,7 +5,8 @@
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>Edukator - Education Category Bootstrap Responsive Template | About :: W3layouts</title>
+  <link rel="icon" href="assets/images/logo.png">
+  <title>About | Jamia Rabbani</title>
   <!-- google fonts -->
   <link href="//fonts.googleapis.com/css2?family=Jost:wght@300;400;600;700&display=swap" rel="stylesheet">
   <!-- Template CSS -->
@@ -15,8 +15,8 @@
 
 <body>
   <!--header-->
- <?php include 'header.html' ?>
-  
+  <?php include 'header.html' ?>
+
   <!--/header-->
   <!-- breadcrumb -->
   <section class="w3l-about-breadcrumb text-center">
@@ -61,31 +61,31 @@
   </section>
   <!--//w3l-aboutblock1-->
 
-<!--/w3l-aboutblock1-->
-<section class="w3l-aboutblock1" id="about">
-  <div class="midd-w3 py-5">
-    <div class="container py-lg-5 py-md-4 py-2">
-      <div class="row">
-        <div class="col-lg-4 mt-lg-0 mt-5 about-right-faq align-self">
+  <!--/w3l-aboutblock1-->
+  <section class="w3l-aboutblock1" id="about">
+    <div class="midd-w3 py-5">
+      <div class="container py-lg-5 py-md-4 py-2">
+        <div class="row">
+          <div class="col-lg-4 mt-lg-0 mt-5 about-right-faq align-self">
 
-          <p class=""><b>Majaze bai'at</b> is a term of the Islamic Spiritualism. The term denotes the person who has duly attained the necessary training and competence in Islamic Spiritualism under a recognized spiritual mentor and is permitted to admit others wishing to taste Islamic Spiritualism into his care and accept of bai'at of shariat from then at his hand.A Majaze Bai'at is a spiritual guide authorized to accept pledges of adherence in Islam.</p>
+          <p class=""><b>Majaze bai'at</b> is a term of the Islamic Spiritualism. The term denotes the person who has duly attained the necessary training and competence in Islamic Spiritualism under a recognized spiritual mentor and is permitted to admit others wishing to taste Islamic Spiritualism into his care and accept of bai'at of shariat from then at his hand.</p>
 
-        </div>
-        <div class="col-lg-4 mt-lg-0 mt-5 about-right-faq align-self">
+          </div>
+          <div class="col-lg-4 mt-lg-0 mt-5 about-right-faq align-self">
 
-          <p class=""><b>At the same</b> historic habitation and under the aegis of the Khanqah Naqshband Maulana Mufti Akhtar Imam Adil Qasmi took the venture to lay the foundation stone of the Jamia Rabbani on Thursday in 8 Jamadial Thaniya 1419, corresponding to October 1st 1998.By laying the foundation stone of this religious institution in fact a great movement for the educational development of the area and around was launched.</p>
+            <p class=""><b>At the same</b> historic habitation and under the aegis of the Khanqah Naqshband Maulana Mufti Akhtar Imam Adil Qasmi took the venture to lay the foundation stone of the Jamia Rabbani on Thursday in 8 Jamadial Thaniya 1419, corresponding to October 1st 1998.By laying the foundation stone of this religious institution in fact a great movement for the educational development of the area and around was launched.</p>
 
-        </div>
-        <div class="col-lg-4 mt-lg-0 mt-5 about-right-faq align-self">
+          </div>
+          <div class="col-lg-4 mt-lg-0 mt-5 about-right-faq align-self">
 
-          <p class=""><b>Although</b> the work was commenced in a state of almost utter resourcelessness, yet, thanks to the unseen Divine support, the institution began to march ahead unhindered, making progress visible at all spheres , education and construction of new building structures and the academic performance of its beneficiary students of the religious learning. Praise to Allah Ta'ala, today this institution stands for a noted religious seminary of Bihar.</p>
+            <p class=""><b>Although</b> the work was commenced in a state of almost utter resourcelessness, yet, thanks to the unseen Divine support, the institution began to march ahead unhindered, making progress visible at all spheres , education and construction of new building structures and the academic performance of its beneficiary students of the religious learning. Praise to Allah Ta'ala, today this institution stands for a noted religious seminary of Bihar.</p>
 
+          </div>
         </div>
       </div>
     </div>
-  </div>
-</section>
-<!--//w3l-aboutblock1-->
+  </section>
+  <!--//w3l-aboutblock1-->
 
   <!-- features-section -->
   <section class="w3l-features py-5" id="work">
@@ -319,15 +319,21 @@
          
         </div>
         <div class="col-lg-6 mt-lg-0 mt-5 pl-lg-5">
-          <!-- <h5 class="title-subw3hny mb-1">Progress Bars</h5>
-          <h3 class="title-w3l">What you have in our Popular <span class="inn-text">Online Courses</span></h3> -->
-          <p class="mt-md-4 mt-3"><b>Adorning</b> the Muslim women with the essentials of the religious knowledge and endeavoring to create an Islamic awakening in them.</p>
+          <h5 class="title-subw3hny mb-1">Progress Bars</h5>
+          <h3 class="title-w3l">What you have in our Popular <span class="inn-text">Online Courses</span></h3>
+          <p class="mt-md-4 mt-3">Lorem ipsum viverra feugiat. Pellen tesque libero ut justo,
+            ultrices in ligula. Semper at. Lorem ipsum dolor sit amet
+            elit. Non quae, fugiat nihil ad. Lorem ipsum dolor sit amet. Lorem ipsum init
+            dolor sit, amet elit. Dolor ipsum non velit, culpa! elit ut et.</p>
          
         </div>
         <div class="col-lg-6 mt-lg-0 mt-5 pl-lg-5">
-          <!-- <h5 class="title-subw3hny mb-1">Progress Bars</h5>
-          <h3 class="title-w3l">What you have in our Popular <span class="inn-text">Online Courses</span></h3> -->
-          <p class="mt-md-4 mt-3"><b>Taking</b> every possible step for the good and welfare of all the country-fellows, cutting across all the barriers of caste, religion and social affiliations. Preparation of useful, constructive literature on Islam, its teachings and the areas of the Islamic learning and their translation into national and international languages.</p>
+          <h5 class="title-subw3hny mb-1">Progress Bars</h5>
+          <h3 class="title-w3l">What you have in our Popular <span class="inn-text">Online Courses</span></h3>
+          <p class="mt-md-4 mt-3">Lorem ipsum viverra feugiat. Pellen tesque libero ut justo,
+            ultrices in ligula. Semper at. Lorem ipsum dolor sit amet
+            elit. Non quae, fugiat nihil ad. Lorem ipsum dolor sit amet. Lorem ipsum init
+            dolor sit, amet elit. Dolor ipsum non velit, culpa! elit ut et.</p>
          
         </div>
       </div>
@@ -478,7 +484,7 @@
   </button>
   <script>
     // When the user scrolls down 20px from the top of the document, show the button
-    window.onscroll = function () {
+    window.onscroll = function() {
       scrollFunction()
     };
 
@@ -503,8 +509,8 @@
   <script src="assets/js/theme-change.js"></script>
   <!-- disable body scroll which navbar is in active -->
   <script>
-    $(function () {
-      $('.navbar-toggler').click(function () {
+    $(function() {
+      $('.navbar-toggler').click(function() {
         $('body').toggleClass('noscroll');
       })
     });
@@ -513,7 +519,7 @@
 
   <!--/MENU-JS-->
   <script>
-    $(window).on("scroll", function () {
+    $(window).on("scroll", function() {
       var scroll = $(window).scrollTop();
 
       if (scroll >= 80) {
@@ -524,14 +530,14 @@
     });
 
     //Main navigation Active Class Add Remove
-    $(".navbar-toggler").on("click", function () {
+    $(".navbar-toggler").on("click", function() {
       $("header").toggleClass("active");
     });
-    $(document).on("ready", function () {
+    $(document).on("ready", function() {
       if ($(window).width() > 991) {
         $("header").removeClass("active");
       }
-      $(window).on("resize", function () {
+      $(window).on("resize", function() {
         if ($(window).width() > 991) {
           $("header").removeClass("active");
         }
