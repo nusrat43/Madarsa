@@ -53,7 +53,7 @@
         <div class="row cwp23-content mt-lg-5 mt-4">
           <div class="col-lg-6 cwp23-img">
             <!-- <h6 class="title-subhny mb-2"><span>Library:</span></h6> -->
-            <h3 class="title-w3l mb-4"> Our Library:</h3>
+            <h3 class="title-w3l mb-4"> <img src="assets/images/open-book.png" height="45px">  Our Library:-</h3>
             <p class="mt-4">The library is an essential wing of an institution launched for academic purposes and the service of learning. In the case of the religious seats of higher Islamic learning it assumes an importance greater still. Indeed the library constitutes the backbone of Islamic religious seminaries. With a comprehensive, precious collection of thousands of books on religious in the Arabic, Persian, English, Urdu and Hindi languages on various Islamic subjects such as Tafseer, Hadith, Fiqh, Usool Fiqh, Seerat, Fatawa, Aqaid, Kalam, History, biographies, morality, Islamic mysticism etc, the library holds an unmatched status especially in northern Bihar. The collection is augmenting every year.
 
 
