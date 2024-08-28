@@ -75,8 +75,48 @@
     </div>
   </section>
 
-
- 
+  <section class="w3-gallery py-5" id="portfolio">
+        <div class="container py-lg-5 py-md-4 py-2">
+        <div class="title-content text-center">
+                    <!-- <h6 class="title-subw3hny text-center">Gallery</h6> -->
+                    <h3 class="title-w3l mb-5 text-center">Library Photos</h3>
+                </div>
+            <div class="row portfolio-area clearfix p-0 m-0">
+                <div class="col-lg-4 col-md-6 portfolio-item2 content" data-id="id-1" data-type="cat-item-1">
+                    <span class="image-block">
+                        <!-- <a class="image-zoom" href="assets/images/lib_pic5.jpg" data-gal="prettyPhoto[gallery]"> -->
+                            <div class="content-overlay"></div>
+                            <img src="assets/images/lib_pic5.jpg" class="img-fluid w3layouts agileits" alt="portfolio-img">
+                            
+                        </a>
+                    </span>
+                </div>
+                <div class="col-lg-4 col-md-6 portfolio-item2 content mt-md-0 mt-4" data-id="id-2" data-type="cat-item-2">
+                    <span class="image-block">
+                        <!-- <a class="image-zoom" href="assets/images/lib_pic3.jpg" data-gal="prettyPhoto[gallery]"> -->
+                            <div class="content-overlay"></div>
+                            <img src="assets/images/lib_pic3.jpg" class="img-fluid w3layouts agileits" alt="portfolio-img">
+                            
+                        </a>
+                    </span>
+                </div>
+                <div class="col-lg-4 col-md-6 portfolio-item2 content mt-lg-0 mt-4" data-id="id-3" data-type="cat-item-3">
+                    <span class="image-block">
+                        <!-- <a class="image-zoom" href="assets/images/lib_pic2.jpg" data-gal="prettyPhoto[gallery]"> -->
+                            <div class="content-overlay"></div>
+                            <img src="assets/images/lib_pic2.jpg" class="img-fluid w3layouts agileits" alt="portfolio-img">
+                           
+                        </a>
+                    </span>
+                </div>
+                
+              
+                
+            </div>
+            <!--end portfolio-area -->
+        </div>
+        <!-- //gallery container -->
+    </section>
  
 
 
