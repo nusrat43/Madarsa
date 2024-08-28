@@ -1,12 +1,12 @@
-
 <?php
 
 ?>
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-     <!-- Required meta tags -->
-     <meta charset="utf-8">
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="icon" href="assets/images/logo.png">
     <title>Research | Jamia Rabbani</title>
@@ -15,42 +15,43 @@
     <!-- Template CSS -->
     <link rel="stylesheet" href="assets/css/style-starter.css">
 </head>
+
 <body>
 
     <!-- header -->
 
-    
-    <?php     include 'header.html' ?>
+
+    <?php include 'header.html' ?>
 
     <!--/header-->
 
     <section class="w3l-about-breadcrumb text-center">
-    <div class="breadcrumb-bg breadcrumb-bg-about py-5">
-      <div class="container py-lg-5 py-md-4">
-        <div class="w3breadcrumb-gids">
-          <div class="w3breadcrumb-left text-left">
-            <h2 class="title AboutPageBanner">
-              About Us </h2>
-            <p class="inner-page-para mt-2">
-              Learn Anytime, Anywhere.
-              Accelerate Your Future.</p>
-          </div>
-          <div class="w3breadcrumb-right">
-            <ul class="breadcrumbs-custom-path">
-              <li><a href="index.html">Home</a></li>
-              <li class="active"><span class="fas fa-angle-double-right mx-2"></span> About Us</li>
-            </ul>
-          </div>
+        <div class="breadcrumb-bg breadcrumb-bg-about py-5">
+            <div class="container py-lg-5 py-md-4">
+                <div class="w3breadcrumb-gids">
+                    <div class="w3breadcrumb-left text-left">
+                        <h2 class="title AboutPageBanner">
+                            Research</h2>
+                        <p class="inner-page-para mt-2">
+                            Learn Anytime, Anywhere.
+                            Accelerate Your Future.</p>
+                    </div>
+
+                    <ul class="breadcrumbs-custom-path">
+                        <li><a href="index.php">Home</a></li>
+                        <li class="active"><span class="fas fa-angle-double-right mx-2"></span> Research</li>
+                    </ul>
+                </div>
+            </div>
         </div>
-      </div>
-    </div>
-  </section>
+        
+    </section>
 
 
 
-   <!--/footer-->
-   <?php include 'footer.html' ?>
-  <!-- //footer -->
+    <!--/footer-->
+    <?php include 'footer.html' ?>
+    <!-- //footer -->
 
 
 
@@ -61,7 +62,7 @@
     </button>
     <script>
         // When the user scrolls down 20px from the top of the document, show the button
-        window.onscroll = function () {
+        window.onscroll = function() {
             scrollFunction()
         };
 
@@ -85,8 +86,8 @@
     <script src="assets/js/theme-change.js"></script>
     <!-- disable body scroll which navbar is in active -->
     <script>
-        $(function () {
-            $('.navbar-toggler').click(function () {
+        $(function() {
+            $('.navbar-toggler').click(function() {
                 $('body').toggleClass('noscroll');
             })
         });
@@ -95,7 +96,7 @@
 
     <!--/MENU-JS-->
     <script>
-        $(window).on("scroll", function () {
+        $(window).on("scroll", function() {
             var scroll = $(window).scrollTop();
 
             if (scroll >= 80) {
@@ -106,14 +107,14 @@
         });
 
         //Main navigation Active Class Add Remove
-        $(".navbar-toggler").on("click", function () {
+        $(".navbar-toggler").on("click", function() {
             $("header").toggleClass("active");
         });
-        $(document).on("ready", function () {
+        $(document).on("ready", function() {
             if ($(window).width() > 991) {
                 $("header").removeClass("active");
             }
-            $(window).on("resize", function () {
+            $(window).on("resize", function() {
                 if ($(window).width() > 991) {
                     $("header").removeClass("active");
                 }
@@ -124,4 +125,5 @@
     <script src="assets/js/bootstrap.min.js"></script>
 
 </body>
+
 </html>
