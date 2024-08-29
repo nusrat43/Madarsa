@@ -26,7 +26,9 @@
         }
         .para{
           text-align: justify;
+          padding: 20px;
         }
+      
   </style>
 </head>
 
@@ -299,10 +301,10 @@
          
         </div> -->
 
-        <div class="col-lg-6 mt-lg-0 mt-5 pl-lg-5 aims">
+        <div class="col-lg-6 mt-lg-0 mt-5 pl-lg-5 aims bg">
           <!-- <h5 class="title-subw3hny mb-1">Progress Bars</h5>
           <h3 class="title-w3l">What you have in our Popular <span class="inn-text">Online Courses</span></h3> -->
-          <p class="mt-md-4 mt-3"><b>Spreading</b> the right call of the religion of Islam based purely on the teachings of Quran and Sunnah as understood by the Prophets Companions and their pious successors. </p>
+          <p class="mt-md-4 mt-3 para "><b>Spreading</b> the right call of the religion of Islam based purely on the teachings of Quran and Sunnah as understood by the Prophets Companions and their pious successors. </p>
          
         </div>
         <div class="col-lg-6 mt-lg-0 mt-5 pl-lg-5 aims">
@@ -314,18 +316,18 @@
         <div class="col-lg-6 mt-lg-0 mt-5 pl-lg-5 aims" >
           <!-- <h5 class="title-subw3hny mb-1">Progress Bars</h5>
           <h3 class="title-w3l">What you have in our Popular <span class="inn-text">Online Courses</span></h3> -->
-          <p class="mt-md-4 mt-3 para"><b>To raise</b> a wave of religious learning in Muslims and prepare them for religious service in such a way as to meet the challenges of the changing states of the modern age.</p>        
+          <p class="mt-md-4 mt-3 para "><b>To raise</b> a wave of religious learning in Muslims and prepare them for religious service in such a way as to meet the challenges of the changing states of the modern age.</p>        
         </div>
-        <div class="col-lg-6 mt-lg-0 mt-5 pl-lg-5 aims">
+        <div class="col-lg-6 mt-lg-0 mt-5 pl-lg-5 aims bg">
           <!-- <h5 class="title-subw3hny mb-1">Progress Bars</h5>
           <h3 class="title-w3l">What you have in our Popular <span class="inn-text">Online Courses</span></h3> -->
-          <p class="mt-md-4 mt-3 para"><b>Preparation</b> of competent and virtuous men of Islamic learning in the perspective of the modern times.</p>
+          <p class="mt-md-4 mt-3 para "><b>Preparation</b> of competent and virtuous men of Islamic learning in the perspective of the modern times.</p>
          
         </div>
-        <div class="col-lg-6 mt-lg-0 mt-5 pl-lg-5 aims">
+        <div class="col-lg-6 mt-lg-0 mt-5 pl-lg-5 aims bg">
           <!-- <h5 class="title-subw3hny mb-1">Progress Bars</h5>
           <h3 class="title-w3l">What you have in our Popular <span class="inn-text">Online Courses</span></h3> -->
-          <p class="mt-md-4 mt-3 para"><b>To revive</b> and rediscover the scholarship of the pious precursors, making sustained endeavour to keep the Muslims associated and enlightened with it.</p>
+          <p class="mt-md-4 mt-3 para "><b>To revive</b> and rediscover the scholarship of the pious precursors, making sustained endeavour to keep the Muslims associated and enlightened with it.</p>
          
         </div>
         <div class="col-lg-6 mt-lg-0 mt-5 pl-lg-5 aims">
