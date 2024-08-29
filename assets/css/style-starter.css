@@ -20650,3 +20650,172 @@ p.inner-page-para {
 /*--//contact--*/
 /*# sourceMappingURL=style-freedom.css.map */
 
+/*--/services--*/
+.w3l-services2 {
+  background: var(--bg-color);
+}
+
+.w3l-grids-3 {
+  background: var(--bg-light);
+}
+
+.w3l-services2 .d-grid {
+  display: grid;
+}
+
+.w3l-services2 .column span {
+  color: var(--primary-color);
+  font-size: 35px;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.w3l-services2 .column:hover span {
+  transform: translate3d(0, -5px, 0);
+  -webkit-transform: translate3d(0, -5px, 0);
+  transition: 0.3s ease-out;
+}
+.w3l-services2 .cwp23-text-cols a {
+  margin-bottom: 10px;
+  font-size: 20px;
+  line-height: 25px;
+  color: var(--heading-color);
+  display: inline-block;
+  font-weight: 600;
+  transition: 0.3s ease-in;
+}
+
+.w3l-services2 .cwp23-text-cols a:hover {
+  opacity: .8;
+}
+
+@media all and (max-width: 1080px) {
+  .w3l-services2 .cwp23-text-cols {
+    grid-row-gap: 40px;
+    grid-column-gap: 40px;
+  }
+}
+
+@media all and (max-width: 900px) {
+  .w3l-services2 .cwp23-text-cols {
+    grid-gap: 30px;
+  }
+}
+
+@media all and (max-width: 440px) {
+  .w3l-services2 .cwp23-title h3 {
+    margin-bottom: 30px;
+  }
+
+  .w3l-services2 .cwp23-text-cols {
+    grid-gap: 25px;
+  }
+}
+
+@media all and (max-width: 480px) {
+  .w3l-services2 .cwp23-text-cols {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media all and (max-width: 320px) {
+
+}
+
+/*--/w3l-services3--*/
+
+.w3l-services3 .new-block {
+  background: url(../images/banner3.jpg) no-repeat center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -ms-background-size: cover;
+  position: relative;
+  z-index: 1;
+}
+
+.w3l-services3 .new-block:before {
+  content: "";
+  background: var(--bg-layer);
+  position: absolute;
+  top: 0;
+  min-height: 100%;
+  left: 0;
+  right: 0;
+  z-index: -1;
+}
+
+.w3l-services3 .middle-section {
+  max-width: 620px;
+}
+
+.w3l-services3 .new-block p {
+  color: #fff;
+  opacity: 0.9;
+}
+
+/*--/w3l-services3--*/
+/*--/grids-3--*/
+.w3l-grids-3 .grid-block {
+  background-color: var(--bg-color);
+  position: relative;
+  padding: 50px 30px;
+  -webkit-box-shadow: 0 3px 53px rgba(40, 40, 40, .05);
+  -khtml-box-shadow: 0 3px 53px rgba(40, 40, 40, .05);
+  -moz-box-shadow: 0 3px 53px rgba(40, 40, 40, .05);
+  -ms-box-shadow: 0 3px 53px rgba(40, 40, 40, .05);
+  -o-box-shadow: 0 3px 53px rgba(40, 40, 40, .05);
+  box-shadow: 0 3px 53px rgba(40, 40, 40, .05);
+  border-radius: var(--border-radius);
+}
+
+.w3l-grids-3 .grid-block:hover {
+  transition: 0.3s ease-in;
+  background-color: var(--primary-color);
+}
+
+.w3l-grids-3 .grid-block h4 {
+  color: var(--heading-color);
+  font-size: 24px;
+  line-height: 32px;
+}
+
+.grid-block span {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+.grid-block:hover span {
+  transition: 0.3s ease-in;
+  color: #fff;
+}
+
+.w3l-grids-3 .grid-block:hover p {
+  color: #fff;
+  transition: 0.3s ease-in;
+}
+
+@media all and (max-width:767px) {
+  .w3l-grids-3 .grid-block {
+    padding: 30px 20px;
+  }
+}
+
+@media all and (max-width:480px) {
+
+  .w3l-3-grids .w3-grids3-info,
+  .w3l-3-grids .w3-grids3-info.second {
+    padding: 2em;
+    width: 92%;
+  }
+
+  .w3l-3-grids .w3-grids3-info h4 a {
+    font-size: 22px;
+    line-height: 32px;
+  }
+}
+
+
+
+

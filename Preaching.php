@@ -24,7 +24,7 @@
 
     <!--/header-->
 
-    <section class="w3l-about-breadcrumb text-center">
+     <section class="w3l-about-breadcrumb text-center">
     <div class="breadcrumb-bg breadcrumb-bg-about py-5">
       <div class="container py-lg-5 py-md-4">
         <div class="w3breadcrumb-gids">
@@ -47,6 +47,164 @@
   </section>
 
 
+  <main>
+        <section class="department-info">
+            <h1>Tabligh and Preaching Department</h1>
+            <p>Focused on religious and social reform, combating moral evils in Muslim societies. The ulama and orators regularly visit different areas for reform and guidance.</p>
+            
+            <div class="card-container">
+                <div class="card">
+                    <img src="assets/images/s-pic2.jpg" alt="Darul Quran">
+                    <div class="card-content">
+                        <h3>Darul Quran of Jamia Rabbani</h3>
+                        <p>This is where students learn the Quran and religious studies, focusing on spiritual growth and education.</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <img src="assets/images/pic15.jpg" alt="Jamia at Night">
+                    <div class="card-content">
+                        <h3>Jamia at Night</h3>
+                        <p>The serene and peaceful atmosphere of the Jamia at night, ideal for evening prayers and reflection.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+<style>
+main {
+    padding: 40px 20px;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.department-info {
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+    text-align: center;
+}
+
+.department-info h1 {
+    color: black;
+    margin-bottom: 15px;
+    font-size: 2.5em;
+    position: relative;
+    display: inline-block;
+    padding-bottom: 5px;
+}
+
+.department-info h1::after {
+    content: '';
+    position: absolute;
+    width: 50px;
+    height: 3px;
+    background-color: #1abc9c;
+    left: 50%;
+    bottom: 0;
+    transform: translateX(-50%);
+}
+
+.department-info p {
+    color: #666;
+    margin-bottom: 30px;
+    font-size: 1.1em;
+}
+
+.card-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.card {
+    background: skyblue;
+    border-radius: 12px;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    width: 48%;
+    text-align: left;
+    transition: transform 0.3s, box-shadow 0.3s;
+    position: relative;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.card-content {
+    padding: 20px;
+}
+
+.card-content h3 {
+    margin: 0 0 10px;
+    color: #333;
+    font-size: 1.5em;
+}
+
+.card-content p {
+    margin: 0;
+    color: #777;
+    font-size: 1em;
+    line-height: 1.6;
+}
+@media (max-width: 768px) {
+    .card {
+        width: 100%;
+    }
+
+    .department-info h1 {
+        font-size: 2em;
+    }
+
+    .department-info p {
+        font-size: 1em;
+    }
+}
+
+@media (max-width: 480px) {
+    nav ul li {
+        display: block;
+        margin: 10px 0;
+    }
+
+    nav ul li a {
+        font-size: 1.2em;
+    }
+
+    .card-content h3 {
+        font-size: 1.3em;
+    }
+
+    .card-content p {
+        font-size: 0.9em;
+    }
+
+    .department-info h1 {
+        font-size: 1.8em;
+    }
+
+    .department-info p {
+        font-size: 0.9em;
+    }
+}
+</style>
+
+  
+
+   
+
+
+    
 
    <!--/footer-->
    <?php include 'footer.html' ?>
