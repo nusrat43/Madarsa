@@ -28,68 +28,56 @@
         <div class="w3breadcrumb-gids">
           <div class="w3breadcrumb-left text-left">
             <h2 class="title AboutPageBanner">
-            Requirements </h2>
-            <p class="inner-page-para mt-2">
-              Learn Anytime, Anywhere.
-              Accelerate Your Future.</p>
+            Other Department </h2>
+          
           </div>
           <div class="w3breadcrumb-right">
             <ul class="breadcrumbs-custom-path">
-              <li><a href="index.php">Home</a></li>
-              <li class="active"><span class="fas fa-angle-double-right mx-2"></span>Requirements</li>
+              <li><a href="index.html">Home</a></li>
+              <li class="active"><span class="fas fa-angle-double-right mx-2"></span>Preaching</li>
             </ul>
           </div>
         </div>
       </div>
     </div>
   </section>
-  
 
-  <main>
+    <main>
         <section class="departments">
-            <!-- <h2 class="dept">Other Departments at Jamia</h2><br> -->
+            <h2 class="dept">Other Departments at Jamia</h2><br>
 
             <div class="department">
                 <center>
                     <h3>
-                    ✷  Requirements and Future Plans  ✷</h3><center><br>
-                
+                        <img src="assets/images/darul.png" height="40px" width="40px"> Darul Ifta   </h3><center><br>
+                <p>For the religious guidance of the Muslim masses in every-day problems, the Jamia has established the Darul-Ifta. The Darul-Ifta offers solutions to the queries of the Muslims in the light of the Islamic Shariat.</p>
             </div>
 
             <div class="department with-image">
                 <div class="content">
                 <div>
-                <h3>Darul Iqamah (Hostel):</h3>
-                        <p>A three-storey, spacious building. The firststorey is almost complete. To accommodate the increasing number of the students the work on the erection of rest two stories has to be completed at the earliest.
-Masjid of the Jamia (three-storied): spacious enough where at least 1500 worshippers may offer theirs prayers collectively. For the time being the students and the staff personnel have to offer their prayers inside different halls and verandas. The Masjid has to be erected on the basis of priority.
-</p>
+                <h3>Matbakh (Kitchen System)</h3>
+                        <p>Since the Jamia is a residential institution of the religious learning it has a well-managed kitchen system which is responsible for the preparation and provision of the food for a number of three hundred odd hostler students and the members of the teaching and non-teaching staff. The food, lodging and education are provided free of cost. Also, the Jamia offers monthly stipends to the ready students as well.</p>
                     </div>
-                    <img src="assets/images/pic4.jpg" alt="Tahzibul-Bayan">
+                    <img src="assets/images/WhatsApp Image 2024-08-23 at 23.54.14_793fd6ac.jpg" alt="Tahzibul-Bayan">
                     
                 </div>
             </div>
 
             <div class="department with-image">
                 <div class="content">
-                    <img src="assets/images/pic8.jpg" alt="Tahzibul-Bayan">
+                    <img src="assets/images/s-pic3.jpg" alt="Tahzibul-Bayan">
                     <div>
-                        <h3>Darul Talim Wal-Mutala'a:</h3>
-                        <p>In order to provide the students the facility of study, reading the writing with complete devotion and concentration, a better educational and academic environment is indisputably required. Due to the non-absence of a separate set of rooms for the purpose of study the students have no option other than doing the total job of study in their residential rooms.</p>
+                        <h3>Tahzibul-Bayan</h3>
+                        <p>In order to prepare the students for a better service of the Muslim Community and the country at large, and to improve and sharpen their literary taste, the Jamia has established the Anjuman Tahzeebul Bayan. Under the care of the Anjuman, the students take part in weekly programs of orations in Urdu, Arabic, Persian, English Languages, verse-recitation, Naat (Praising the Holy Prophet in verse), and Quranic and Hadith words of God-remembrance. The Anjuman also holds its yearly cultural and informative programs in which the students of the Jamia are given opportunities to demonstrate their writing and orational capabilities before the general Muslims attending the programs.</p>
                     </div>
                 </div>
             </div>
-            <div class="department with-image">
-                <div class="content">
-                <div>
-                <!-- <h3>Matbakh (Kitchen System)</h3> -->
-                        <p>Separate building for library, A number of staff quarters, Computer section (at least a set of two rooms) Tailoring Centre (only for women) Centre for Medical Assistance (for needy patients) Administration Some pieces of land are also to be purchased.
-                        We earnestly ask Allah subhanahu wa taala to provide the required means for the completion of all the needs and requirements of the Jamia. The people blessed by Allah with lawful wealth are asked to pay their attention to the appeal of the Jamia made in this respect.</p>
-                    </div>
-                    <img src="assets/images/pic7.jpg" alt="Tahzibul-Bayan">
-                    
-                </div>
+
+            <div class="department">
+                <h3>Imdadul Muslimin</h3>
+                <p>This department is intended to solve the financial problems of the needy Muslims and widows. It offers monthly assistance to a number of poor, disabled, and indigent local Muslims and widows. It also offers assistance, within the range of its limited scope of means, at the occasion of the marriage of poor Muslim girls. This department is proving very useful for general Muslims.</p>
             </div>
-            
         </section>
     </main>
 
@@ -205,9 +193,7 @@ p {
 
 </style>
  
-
  
-
 
    <!--/footer-->
    <?php include 'footer.html' ?>
