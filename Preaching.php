@@ -47,6 +47,20 @@
   </section>
 
 
+    <main>
+        <section class="department-info">
+            <h1>Tabligh and Preaching Department</h1>
+            <p>Focused on religious and social reform, combating moral evils in Muslim societies. The ulama and orators regularly visit different areas for reform and guidance.</p>
+            
+            <div class="images">
+                <img src="darul-quran.jpg" alt="Darul Quran">
+                <img src="jamia-night.jpg" alt="Jamia at Night">
+            </div>
+        </section>
+    </main>
+
+<style>
+    </style>
 
    <!--/footer-->
    <?php include 'footer.html' ?>
