@@ -113,6 +113,7 @@ h2 {
 }
 
 h3 {
+    font-family:  serif;
     font-size: 2em;
     margin-bottom: 10px;
     color: #2c3e50;
