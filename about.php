@@ -105,10 +105,10 @@
   <section class="w3l-features py-5" id="work">
     <div class="container py-lg-5 py-md-4 py-2">
       <div class="row main-cont-wthree-2 align-items-center">
-        <div class="col-lg-6 feature-grid-left pr-lg-5">
+        <div class="col-lg-6 feature-grid-left pr-lg-5 container border py-3 my-3">
           <!-- <h5 class="title-subw3hny">Why Choose Us</h5> -->
           <h3 class="title-w3l mb-4">Aims and Objectives</h3>
-          <p class="text-para" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">Jamia Rabbani is dedicated to promoting the true teachings of Islam as outlined in the Quran and Sunnah, following the understanding of the Prophet’s Companions and their successors. It aims to reform and reconstruct society according to Islamic principles, addressing modern challenges with a blend of traditional and contemporary education.  Jamia Rabbani emphasizes the importance of religious education for Muslim women to foster Islamic awakening. 
+          <p class="text-para" style="text-align: justify;">Jamia Rabbani is dedicated to promoting the true teachings of Islam as outlined in the Quran and Sunnah, following the understanding of the Prophet’s Companions and their successors. It aims to reform and reconstruct society according to Islamic principles, addressing modern challenges with a blend of traditional and contemporary education.  Jamia Rabbani emphasizes the importance of religious education for Muslim women to foster Islamic awakening. 
           </p>
           <a href="about.html" class="btn btn-style btn-primary mt-lg-5 mt-4">Read More</a>
         </div>
@@ -383,7 +383,7 @@
 
 <section class="w3l-servicesblock w3l-servicesblock1 py-5" id="progress">
     <div class="container py-lg-5 py-md-4 py-2" >
-    <h3 class="title-w3l mb-4" style="text-align:center; filter:drop-shadow(2px 2px 2px grey)" >Distinguishing features of the Jamia Rabbani</h3>
+    <h3 class="title-w3l mb-4" style="text-align:center; filter:drop-shadow(2px 2px 2px #7b8ca1)" >Distinguishing features of the Jamia Rabbani</h3>
       <div class="row" >
   <div class="col-lg-6 mt-lg-0 mt-5 pl-lg-5 aims">
           <!-- <h5 class="title-subw3hny mb-1">Progress Bars</h5>

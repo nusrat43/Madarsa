@@ -30,8 +30,8 @@
         <div class="w3breadcrumb-gids">
           <div class="w3breadcrumb-left text-left">
             <h2 class="title AboutPageBanner">
-            Library </h2>
-            <!-- <p class="inner-page-para mt-2">
+              Library </h2>
+            <p class="inner-page-para mt-2">
               Learn Anytime, Anywhere.
               Accelerate Your Future.</p> -->
           </div>
