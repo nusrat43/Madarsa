@@ -14,6 +14,34 @@
     <link href="//fonts.googleapis.com/css2?family=Jost:wght@300;400;600;700&display=swap" rel="stylesheet">
     <!-- Template CSS -->
     <link rel="stylesheet" href="assets/css/style-starter.css">
+    <style>
+        .img{
+            width: 400px;
+            height: auto;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        .pub {
+            flex: 1;
+            margin-right: 20px;
+        }
+        .pub h2{
+            font-size: 24px;
+            color: #333;
+            margin-bottom: 10px;
+        }
+        .content-box{
+            display: flex;
+            background: #ffffff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            align-items: center;
+            max-width: 1350px;
+            width: 100%;
+        }
+    </style>
 </head>
 <body>
 
@@ -46,7 +74,15 @@
     </div>
   </section>
 
-
+  <div class="content-box">
+        <div class="pub">
+            <h2>Title Goes Here</h2>
+            <p>This is some sample text content that is displayed on the left side of the box. You can add any description or content here.</p>
+        </div>
+        <div class="image-content">
+            <img src="assets/images/pic12.jpg" alt="" class="img">
+        </div>
+    </div>
 
    <!--/footer-->
    <?php include 'footer.html' ?>

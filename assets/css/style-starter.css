@@ -8738,20 +8738,20 @@ button.bg-dark:focus {
   padding: 3rem !important;
 }
 
-.pt-5,
+/* .pt-5,
 .py-5 {
   padding-top: 3rem !important;
-}
+} */
 
 .pr-5,
 .px-5 {
   padding-right: 3rem !important;
 }
 
-.pb-5,
+/* .pb-5,
 .py-5 {
   padding-bottom: 3rem !important;
-}
+} */
 
 .pl-5,
 .px-5 {

@@ -17,6 +17,20 @@
 <style>
     .hover-image {
             transition: transform 0.3s ease, opacity 0.3s ease;
+            /* display: inline-block; */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.8);
+            display: block;
+            border-radius: 8px;
+        }
+        .hover-image:hover {
+            transform: scale(1.1);
+            opacity: 0.8;
+        }
+        .list{
+            text-align: justify;
+        }
+        .para{
+            text-align: justify;
         }
 </style>
 </head>
@@ -37,8 +51,7 @@
             <h2 class="title AboutPageBanner">
             Visitors </h2>
             <p class="inner-page-para mt-2">
-              Learn Anytime, Anywhere.
-              Accelerate Your Future.</p>
+            "Empowering Minds with Islamic Wisdom"</p>
           </div>
           <div class="w3breadcrumb-right">
             <ul class="breadcrumbs-custom-path">
@@ -55,7 +68,7 @@
         <div class="box" style="max: width 400px; background: #ffffff;padding: 20px; border-radius: 10px;
             align-items: center;">
             <h3 class="title-w3l mb-4" style="text-align:center; color: 4b545f;filter:drop-shadow(2px 2px 2px #17202a);">Some important personalities who have visited Jamia</h3>
-            <ul  style="padding-left: 100px;margin: 0;">
+            <ul class="list" style="padding-left: 100px;margin: 0;">
                 <li style="font-size: 18px;color: #555;margin-bottom: 10px; list-style-type: circle;">Haz. Maulana Mufti Md. Zafirul Din Miftahi, member of the Ifta Council, Darul Uloom Deoband, and president Islamic Fiqh Academy, India.</li>
                 <li style="font-size: 18px;color: #555;margin-bottom: 10px;list-style-type: circle;">Haz. Maulana Sayyed Nizamu Din (Ex- Amir Shariat Bihar, Urisa and Jharkhand, Ex-General Secretary All India Muslim Personal Law Board).</li>
                 <li style="font-size: 18px;color: #555;margin-bottom: 10px;list-style-type: circle;">Hazrat Moulana Md. Salim Qasmi ,Mohtamim Darul uloom Deoband ,Vice Prcedent All India Muslim prsnol Law Board .</li>
@@ -110,7 +123,7 @@
       <div class="row main-cont-wthree-2 align-items-center">
         <div class="col-lg-6 feature-grid-left pr-lg-5">
           <h4 class="title-w3l mb-4">The Jamia is approved and certified by the following noted seats of Islamic learning:</h4>
-          <ul>
+          <ul class="list">
                 <li style="font-size: 18px;color: #555;margin-bottom: 10px;list-style-type: circle;">Darul Uloom, Deoband</li>
                 <li style="font-size: 18px;color: #555;margin-bottom: 10px;list-style-type: circle;">Darul Loom, Deoband (waqf)</li>
                 <li style="font-size: 18px;color: #555;margin-bottom: 10px;list-style-type: circle;">Mazahire Uloom Saharanpur (new)</li>
@@ -124,11 +137,11 @@
                 <li style="font-size: 18px;color: #555;margin-bottom: 10px;list-style-type: circle;">Jamiyyat-al-Shaikh Abdullah Noori (Kuwait)</li>
                 <li style="font-size: 18px;color: #555;margin-bottom: 10px;list-style-type: circle;">Jamia Islamiya Akkal Kuwwa, Maharashter. Jamia Rabbani is a formal member of the League of the Islamic Arabic Madrasas (Rabitae Madarise Islamiya Arabiya), constituted by the Darul Uloom Deoband. Its membership No. is 768</li>
           </ul>
-            <p>Also, the Jamia has the membership of the Federation of Islamic Madrasas constituted by the Imarate Shariyya, Phulwari Sharif, Patna, Bihar.</p>
+            <p class="para">Also, the Jamia has the membership of the Federation of Islamic Madrasas constituted by the Imarate Shariyya, Phulwari Sharif, Patna, Bihar.</p>
         </div>
         <div class="col-lg-6 feature-grid-right mt-lg-0 mt-5 pl-lg-5">
           <div class="call-grids-w3 d-grid">
-            <img src="assets/images/gate2.jpg" alt="" height="750px" width="550px"  class="hover-image">
+            <img src="assets/images/gate2.jpg" alt="" height="750px" width="600px"  class="hover-image">
           </div>
         </div>
       </div>
