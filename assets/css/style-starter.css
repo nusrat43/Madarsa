@@ -569,7 +569,9 @@ mark,
 .img-fluid {
   max-width: 100%;
   height: auto;
+  
 }
+
 
 .img-thumbnail {
   padding: 0.25rem;
@@ -20729,6 +20731,7 @@ p.inner-page-para {
   background-size: cover;
   -webkit-background-size: cover;
   -o-background-size: cover;
+  
   -moz-background-size: cover;
   -ms-background-size: cover;
   position: relative;
