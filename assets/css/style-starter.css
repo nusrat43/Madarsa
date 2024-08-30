@@ -8740,20 +8740,20 @@ button.bg-dark:focus {
   padding: 3rem !important;
 }
 
-.pt-5,
+/* .pt-5,
 .py-5 {
   padding-top: 3rem !important;
-}
+} */
 
 .pr-5,
 .px-5 {
   padding-right: 3rem !important;
 }
 
-.pb-5,
+/* .pb-5,
 .py-5 {
   padding-bottom: 3rem !important;
-}
+} */
 
 .pl-5,
 .px-5 {
@@ -20050,7 +20050,7 @@ button.owl-next {
 
 /*--//search--*/
 .breadcrumb-bg-about {
-  background: url(../images/banner3.jpg) no-repeat 0px 0px;
+  background: url(../images/banner.jpg) no-repeat 0px 0px;
   background-size: cover;
   background-size: cover;
   position: relative;
