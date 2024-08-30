@@ -113,7 +113,6 @@ Masjid of the Jamia (three-storied): spacious enough where at least 1500 worship
 h2 {
     font-size: 2.5em;
     margin-bottom: 40px;
-    text-align: center;
     color: #444;
    
     padding-bottom: 10px;

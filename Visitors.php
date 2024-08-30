@@ -181,9 +181,7 @@
 h2 {
     font-size: 2.5em;
     margin-bottom: 40px;
-    text-align: center;
     color: #444;
-   
     padding-bottom: 10px;
     letter-spacing: 2px;
 }

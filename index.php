@@ -22,10 +22,11 @@
     <!--/Banner-Start-->
     <section class="bannerw3l-hnyv">
         <div class="banner-layer">
-            <video autoplay muted loop id="myVideo">
-                <source src="assets/images/line-edu.mp4" type="video/mp4">
+            <a href="assets/images/back-video.mp4"><video autoplay muted loop id="myVideo">
+                <source src="assets/images/back-video.mp4" type="video/mp4">
                 Your browser does not support HTML5 video.
-            </video>
+            </video></a>
+            
             <div class="main-content-top">
                 <div class="container">
                     <div class="main-content">
@@ -44,7 +45,7 @@
             <div class="apply-admission-wrap">
                 <div class="apply-admission-inner">
                     <h4 class="title text-center">
-                        <span>Apply for admission</span>
+                        <span>Get in touch</span>
                     </h4>
                     <!-- <div class="caption text-center mb-2">
                         Make it more simple!
@@ -161,7 +162,7 @@
 
                     <div class="stats_info counter_grid1 text-left mt-lg-5 mt-4">
                         <div class="icon stat-icon">
-                        <p id="counter">0</p>
+                            <p id="counter">0</p>
                         </div>
                         <div class="stat-icon-des">
 
@@ -173,7 +174,7 @@
                     </div>
                     <div class="stats_info counter_grid text-left mt-lg-5 mt-4">
                         <div class="icon stat-icon">
-                        <p id="counter1">0</p>
+                            <p id="counter1">0</p>
                         </div>
                         <div class="stat-icon-des">
 
@@ -184,7 +185,7 @@
                     </div>
                     <div class="stats_info counter_grid text-left mt-lg-5 mt-4">
                         <div class="icon stat-icon">
-                        <p id="counter2">0</p>
+                            <p id="counter2">0</p>
                         </div>
                         <div class="stat-icon-des">
 
@@ -280,41 +281,32 @@
     <section class="w3l-courses" id="courses">
         <div class="blog py-5">
             <div class="container py-md-5 py-2">
-                <h5 class="title-subw3hny text-center">Featured Courses</h5>
-                <h3 class="title-w3l text-center">Popular <span class="inn-text">Courses</span></h3>
+                <h5 class="title-subw3hny text-center">Madarsa</h5>
+                <h3 class="title-w3l text-center">Some capture of Jamia Rabbani</h3>
 
                 <div class="row">
                     <div class="col-lg-3 col-md-6 item mt-5">
                         <div class="card">
                             <div class="card-header p-0 position-relative">
-                                <a href="#course-single" class="zoom d-block">
-                                    <img class="card-img-bottom d-block" src="assets/images/b1.jpg"
+                                <a href="assets/images/back-video.mp4" class="zoom d-block">
+                                    <img class="card-img-bottom d-block" src="assets/images/background video.jpeg"
                                         alt="Card image cap">
+                                    <video  autoplay muted loop id="myVideo">
+                                        <source src="assets/images/back-video.mp4" type="video/mp4">
+                                        Your browser does not support HTML5 video.
+                                    </video>
                                 </a>
-                                <div class="post-pos">
+                                <!-- <div class="post-pos">
                                     <a href="#popular" class="receipe blue">Beginner</a>
                                     <a href="#popular" class="receipe yellow ml-2">New</a>
-                                </div>
+                                </div> -->
                             </div>
                             <div class="card-body course-details">
-                                <div class="price-review d-flex justify-content-between mb-1align-items-center">
-                                    <p>$53.00</p>
-                                    <ul class="rating-star">
-                                        <li><span class="fas fa-star"></span></li>
-                                        <li><span class="fas fa-star"></span></li>
-                                        <li><span class="fas fa-star"></span></li>
-                                        <li><span class="fas fa-star"></span></li>
-                                        <li><span class="fas fa-star-o"></span></li>
-                                    </ul>
-                                </div>
-                                <a href="#course-single" class="course-desc">The Essential Guide to Entrepreneurship
+                               
+                                <div><hr></div>
+                                <a href="assets/images/back-video.mp4" class="course-desc">journey of Madarsa Jamia Rabbani
                                 </a>
-                                <div class="course-meta mt-4">
-                                    <div class="meta-item course-lesson">
-                                        <span class="fas fa-users"></span>
-                                        <span class="meta-value"> 68 Students enrolled</span>
-                                    </div>
-                                </div>
+                                
                             </div>
 
                         </div>
@@ -323,31 +315,21 @@
                     <div class="col-lg-3 col-md-6 item mt-5">
                         <div class="card">
                             <div class="card-header p-0 position-relative">
-                                <a href="#course-single" class="zoom d-block">
-                                    <img class="card-img-bottom d-block" src="assets/images/b2.jpg"
+                                <a href="assets/images/night view of jamia rabbani.mp4" class="zoom d-block">
+                                    <img class="card-img-bottom d-block" src="assets/images/background video.jpeg"
                                         alt="Card image cap">
+                                        <video  autoplay muted loop id="myVideo">
+                                        <source src="assets/images/night view of jamia rabbani.mp4" type="video/mp4">
+                                        Your browser does not support HTML5 video.
+                                    </video>
                                 </a>
 
 
                             </div>
                             <div class="card-body course-details">
-                                <div class="price-review d-flex justify-content-between mb-1align-items-center">
-                                    <p>$70.00</p>
-                                    <ul class="rating-star">
-                                        <li><span class="fas fa-star"></span></li>
-                                        <li><span class="fas fa-star"></span></li>
-                                        <li><span class="fas fa-star"></span></li>
-                                        <li><span class="fas fa-star"></span></li>
-                                        <li><span class="fas fa-star-o"></span></li>
-                                    </ul>
-                                </div>
-                                <a href="#course-single" class="course-desc">Sounds True’s Freedom to Choose Different</a>
-                                <div class="course-meta mt-4">
-                                    <div class="meta-item course-lesson">
-                                        <span class="fas fa-users"></span>
-                                        <span class="meta-value"> 44 Students enrolled</span>
-                                    </div>
-                                </div>
+                                <div><hr></div>
+                                <a href="assets/images/night view of jamia rabbani.mp4" class="course-desc">Night View of Jamia Rabbani</a>
+                              
                             </div>
 
                         </div>
@@ -356,78 +338,55 @@
                     <div class="col-lg-3 col-md-6 item mt-5">
                         <div class="card">
                             <div class="card-header p-0 position-relative">
-                                <a href="#course-single" class="zoom d-block">
-                                    <img class="card-img-bottom d-block" src="assets/images/b3.jpg"
+                                <a href="assets/images/speech.mp4" class="zoom d-block">
+                                    <img class="card-img-bottom d-block" src="assets/images/background video.jpeg"
                                         alt="Card image cap">
+                                        <video  autoplay muted loop id="myVideo">
+                                        <source src="assets/images/speech.mp4" type="video/mp4">
+                                        Your browser does not support HTML5 video.
+                                    </video>
                                 </a>
-                                <div class="post-pos">
-                                    <a href="#reciepe" class="receipe blue">Beginner</a>
-                                    <a href="#popular" class="receipe yellow ml-2">Free</a>
-                                </div>
+                               
                             </div>
-                            <div class="card-body course-details">
-                                <div class="price-review d-flex justify-content-between mb-1align-items-center">
-                                    <p>$69.00</p>
-                                    <ul class="rating-star">
-                                        <li><span class="fas fa-star"></span></li>
-                                        <li><span class="fas fa-star"></span></li>
-                                        <li><span class="fas fa-star"></span></li>
-                                        <li><span class="fas fa-star"></span></li>
-                                        <li><span class="fas fa-star-o"></span></li>
-                                    </ul>
-                                </div>
-                                <a href="#course-single" class="course-desc">Learn Master JQuery in a Short Period of
+                            <div class="card-body course-details" style="text-align: center;">
+                                <div><hr></div>
+                                <a href="assets/images/speech.mp4" class="course-desc">Events in Jamia Rabbani
                                     Time</a>
-                                <div class="course-meta mt-4">
-                                    <div class="meta-item course-lesson">
-                                        <span class="fas fa-users"></span>
-                                        <span class="meta-value"> 74 Students enrolled</span>
-                                    </div>
-                                </div>
+                               
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 item mt-5">
                         <div class="card">
                             <div class="card-header p-0 position-relative">
-                                <a href="#course-single" class="zoom d-block">
-                                    <img class="card-img-bottom d-block" src="assets/images/b4.jpg"
+                                <a href="assets/images/dinner.mp4" class="zoom d-block">
+                                    <img class="card-img-bottom d-block" src="assets/images/background video.jpeg"
                                         alt="Card image cap">
+                                        <video  autoplay muted loop id="myVideo">
+                                        <source src="assets/images/dinner.mp4" type="video/mp4">
+                                        Your browser does not support HTML5 video.
+                                    </video>
                                 </a>
 
 
                             </div>
-                            <div class="card-body course-details">
-                                <div class="price-review d-flex justify-content-between mb-1align-items-center">
-                                    <p>$90.00</p>
-                                    <ul class="rating-star">
-                                        <li><span class="fas fa-star"></span></li>
-                                        <li><span class="fas fa-star"></span></li>
-                                        <li><span class="fas fa-star"></span></li>
-                                        <li><span class="fas fa-star"></span></li>
-                                        <li><span class="fas fa-star-o"></span></li>
-                                    </ul>
-                                </div>
-                                <a href="#course-single" class="course-desc">Business Analysis: Working with Use Cases</a>
-                                <div class="course-meta mt-4">
-                                    <div class="meta-item course-lesson">
-                                        <span class="fas fa-users"></span>
-                                        <span class="meta-value"> 64 Students enrolled</span>
-                                    </div>
-                                </div>
+                            <div class="card-body course-details" style="text-align: center;">
+                                <div><hr></div>
+                                <a href="assets/images/dinner.mp4" class="course-desc">Children at the madrasa having dinner</a>
+                               
                             </div>
 
                         </div>
                     </div>
-                    <div class="mt-5 mx-auto text-more text-center pt-lg-4">
+                    <!-- <div class="mt-5 mx-auto text-more text-center pt-lg-4">
                         <a href="courses.html" class="btn btn-style btn-primary">View All Courses</a>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
     </section>
     <!--//popular-Courses-->
-    
+
     <!--/subscribe-->
     <!-- <section class="w3l-project" id="subscribe">
         <div class="container-fluid mx-lg-0">
@@ -555,7 +514,7 @@
 
         incrementCounter1();
     </script>
-     <script>
+    <script>
         let counter2 = 0;
         const maxNumber2 = 22;
         const counter2Element = document.getElementById('counter2');

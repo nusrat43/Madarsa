@@ -5055,8 +5055,8 @@ input[type="button"].btn-block {
   flex: 1 1 auto;
   min-height: 1px;
   padding: 1.25rem;
+  text-align: center;
 }
-
 .card-title {
   margin-bottom: 0.75rem;
 }
@@ -20051,6 +20051,7 @@ button.owl-next {
 /*--//search--*/
 .breadcrumb-bg-about {
   background: url(../images/banner.jpg) no-repeat 0px 0px;
+  height: 500px;
   background-size: cover;
   background-size: cover;
   position: relative;
@@ -20073,7 +20074,7 @@ button.owl-next {
   grid-template-columns: 2fr 1fr;
   grid-gap: 30px;
   align-items: center;
-  padding: 5em 0 0 0;
+  padding: 15em 0 0 0;
 }
 
 .w3breadcrumb-right {

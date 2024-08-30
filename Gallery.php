@@ -38,7 +38,7 @@
             bottom: -10px;
             width: 50px;
             height: 3px;
-            background-color:teal;
+            background-color: teal;
         }
 
         .portfolio-item {
@@ -68,6 +68,13 @@
             color: #ffc107;
             background-color: teal;
         }
+
+        .w3breadcrumb-gids1 {
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            grid-gap: 30px;
+            align-items: center;
+        }
     </style>
 </head>
 
@@ -95,8 +102,8 @@
                 </div>
             </div>
             <div class="container py-lg-5 py-md-4" style="float: right; margin-top:300px">
-                <div class="w3breadcrumb-gids">
-                    <ul class="breadcrumbs-custom-path" >
+                <div class="w3breadcrumb-gids1">
+                    <ul class="breadcrumbs-custom-path">
                         <li><a href="index.php">Home</a></li>
                         <li class="active"><span class="fas fa-angle-double-right mx-2"></span> Gallery</li>
                     </ul>
