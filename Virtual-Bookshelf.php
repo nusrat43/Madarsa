@@ -137,7 +137,7 @@
                 <h3>Book No-85</h3>
                 <p>Updated On(2024-01-12)</p>
                 <div class="social-icons">
-                    <a href="#">Tazkira Fiqh al-Asr Qazi al-Qadat</a>
+                    <a href="assets/images/books/TazkiraFiqhal-AsrQazial-Qadat (1).pdf">Tazkira Fiqh al-Asr Qazi al-Qadat</a>
                 </div>
             </div>
         </div>
@@ -148,7 +148,7 @@
                 <h3>Book No-84</h3>
                 <p>Updated On(2024-01-12)</p>
                 <div class="social-icons">
-                    <a href="#">Tazkira Maulana Ijaz Ahmad Azmi</a>
+                    <a href="assets/images/books/TazkiraMaulanaIjazAhmadAzmi.pdf">Tazkira Maulana Ijaz Ahmad Azmi</a>
                    
                 </div>
             </div>
@@ -160,7 +160,7 @@
                 <h3>Book No-83</h3>
                 <p>Updated On(2023-12-02)</p>
                 <div class="social-icons">
-                    <a href="#">Nawazal Fiqh Volume VI</a>
+                    <a href="assets/images/books/NawazalFiqhVolumeVI.pdf">Nawazal Fiqh Volume VI</a>
                 </div>
             </div>
         </div>
@@ -171,7 +171,7 @@
                 <h3>Book No-82</h3>
                 <p>Updated On(2023-12-02)</p>
                 <div class="social-icons">
-                    <a href="#">Nawazal Fiqh Volume V</i></a>
+                    <a href="assets/images/books/NawazalFiqhVolumeV.pdf">Nawazal Fiqh Volume V</i></a>
                 </div>
             </div>
         </div>
@@ -185,7 +185,7 @@
                 <h3>Book No-81</h3>
                 <p>Updated On(2023-12-02)</p>
                 <div class="social-icons">
-                    <a href="#">Nawazal Fiqh Volume IV</a>
+                    <a href="assets/images/books/NawazalFiqhVolumeIV.pdf">Nawazal Fiqh Volume IV</a>
                 </div>
             </div>
         </div>
@@ -196,7 +196,7 @@
                 <h3>Book No-80</h3>
                 <p>Updated On(2023-12-02)</p>
                 <div class="social-icons">
-                    <a href="#">Nawazal Fiqh Volume III</a>
+                    <a href="assets/images/books/NawazalFiqhVolumeIII.pdf">Nawazal Fiqh Volume III</a>
                 </div>
             </div>
         </div>
@@ -207,7 +207,7 @@
                 <h3>Book No-79</h3>
                 <p>Updated On(2023-12-02)</p>
                 <div class="social-icons">
-                    <a href="#">Nawazal Fiqh Volume II</a>
+                    <a href="assets/images/books/NawazalFiqhVolumeII (1).pdf">Nawazal Fiqh Volume II</a>
                    
                 </div>
             </div>
@@ -219,7 +219,7 @@
                 <h3>Book No-78</h3>
                 <p>Updated On(2023-12-02)</p>
                 <div class="social-icons">
-                    <a href="#">Nawazal Fiqh Volume I</a>
+                    <a href="assets/images/books/NawazalFiqhVolumeI.pdf">Nawazal Fiqh Volume I</a>
                   
                 </div>
             </div>
@@ -234,7 +234,7 @@
                 <h3>Book No-77</h3>
                 <p>Updated On(2023-12-02)</p>
                 <div class="social-icons">
-                    <a href="#">Tazkira Fiqh al-Asr Qazi al-Qadat</a>
+                    <a href="assets/images/books/TazkiraFiqhal-AsrQazial-Qadat (1).pdf">Tazkira Fiqh al-Asr Qazi al-Qadat</a>
                     
                 </div>
             </div>
@@ -246,7 +246,7 @@
                 <h3>Book No-76</h3>
                 <p>Updated On(05-01-2023)</p>
                 <div class="social-icons">
-                    <a href="#">Maszarat Sahabah</a>
+                    <a href="assets/images/books/Maszarat-Sahabah.pdf">Maszarat Sahabah</a>
                     
                 </div>
             </div>
@@ -258,7 +258,7 @@
                 <h3>Book No-75</h3>
                 <p>Updated On(2022-11-08)</p>
                 <div class="social-icons">
-                    <a href="#">Fikha Maquaran aur Fikha Mazhabi</a>
+                    <a href="assets/images/books/Fikha-Maquaran.pdf">Fikha Maquaran aur Fikha Mazhabi</a>
                    
                 </div>
             </div>
@@ -270,7 +270,7 @@
                 <h3>Book No-74</h3>
                 <p>Updated On(2022-11-08)</p>
                 <div class="social-icons">
-                    <a href="#">Khwateen ki Ala Deeni Wa Asri Taaleem</a>
+                    <a href="assets/images/books/Khwateen-ki-Ala-Deeni.pdf">Khwateen ki Ala Deeni Wa Asri Taaleem</a>
                    
                 </div>
             </div>
@@ -285,7 +285,7 @@
                 <h3>Book No-80</h3>
                 <p>Updated On(2022-11-08)</p>
                 <div class="social-icons">
-                    <a href="#">Fikhi Ekhtelafat ki Sharii Haisiyat</a>
+                    <a href="assets/images/books/Fikhi-Ekhtelafat.pdf">Fikhi Ekhtelafat ki Sharii Haisiyat</a>
                     
                 </div>
             </div>
@@ -297,7 +297,7 @@
                 <h3>Book No-72</h3>
                 <p>Updated On(2021-07-31)</p>
                 <div class="social-icons">
-                    <a href="#">HAYAT-E- QUTBUL HIND</a>
+                    <a href="assets/images/books/HAYAT_E_QUTBUL_HIND.pdf">HAYAT-E- QUTBUL HIND</a>
                     
                 </div>
             </div>
@@ -309,7 +309,7 @@
                 <h3>Book No-71</h3>
                 <p>Updated On(2021-05-29)</p>
                 <div class="social-icons">
-                    <a href="#">Tazkira</a>
+                    <a href="assets/images/books/Tazkira.pdf">Tazkira</a>
                   
                 </div>
             </div>
@@ -321,7 +321,7 @@
                 <h3>Book No-70</h3>
                 <p>Updated On(2021-01-02)</p>
                 <div class="social-icons">
-                    <a href="#">Kulyat Aah</a>
+                    <a href="assets/images/books/KulyatAah.pdf">Kulyat Aah</a>
                 </div>
             </div>
         </div>
@@ -335,7 +335,7 @@
                 <h3>Book No-69</h3>
                 <p>Updated On(2020-11-06)</p>
                 <div class="social-icons">
-                    <a href="#">Nakshbandya Muzaddidya Mazhariya</a>
+                    <a href="assets/images//books/06_11_3.pdf">Nakshbandya Muzaddidya Mazhariya</a>
                 </div>
             </div>
         </div>
@@ -346,7 +346,7 @@
                 <h3>Book No-68</h3>
                 <p>Updated On(2020-11-06)</p>
                 <div class="social-icons">
-                    <a href="#">Chist Ahle Behist</a>
+                    <a href="assets/images/books/06_11_2.pdf">Chist Ahle Behist</a>
                 </div>
             </div>
         </div>
@@ -356,7 +356,7 @@
                 <h3>Book No-67</h3>
                 <p>Updated On(2020-11-06)</p>
                 <div class="social-icons">
-                    <a href="#">Mozaddid Alif Saani Shekh Ahmad Sarhind</a>
+                    <a href="assets/images/books/06_11_1.pdf">Mozaddid Alif Saani Shekh Ahmad Sarhind</a>
                 </div>
             </div>
         </div>
@@ -366,7 +366,7 @@
                 <h3>Book No-66</h3>
                 <p>Updated On(2020-10-08)</p>
                 <div class="social-icons">
-                    <a href="#">Maqam-e-Mahmud</a>
+                    <a href="assets/images/books/Maqame-E-Mahmud.pdf">Maqam-e-Mahmud</a>
                    
                 </div>
             </div>
@@ -379,7 +379,7 @@
                 <h3>Book No-65</h3>
                 <p>Updated On(2020-06-04)</p>
                 <div class="social-icons">
-                    <a href="#">Yaadon ke Nakoos</a>
+                    <a href="assets/images/books/Yaadon_ke_Nakoos.pdf">Yaadon ke Nakoos</a>
                    
                 </div>
             </div>
@@ -390,7 +390,7 @@
                 <h3>Book No-64</h3>
                 <p>Updated On(2019-12-24)</p>
                 <div class="social-icons">
-                    <a href="#">HAYAT_E_ ABUL_MAHASIN</a>
+                    <a href="assets/images/books/HAYAT_E_ABUL_MAHASIN.pdf">HAYAT_E_ ABUL_MAHASIN</a>
                 </div>
             </div>
         </div>
@@ -400,7 +400,7 @@
                 <h3>Book No-63</h3>
                 <p>Updated On(2019-06-19)</p>
                 <div class="social-icons">
-                    <a href="#">Tazkira_Abul_Mahasin</a>
+                    <a href="assets/images/books/TAZKIRA_ABUL_MAHASIN-1.pdf">Tazkira_Abul_Mahasin</a>
                 </div>
             </div>
         </div>
@@ -410,7 +410,7 @@
                 <h3>Book No-62</h3>
                 <p>Updated On(2017-12-27)</p>
                 <div class="social-icons">
-                    <a href="#">NIKAH-O-TALAQ-AUR-SAMAJI-MASAIL</a>
+                    <a href="assets/images/books/NIKAH-O-TALAQ-AUR-SAMAJI-MASAIL.pdf">NIKAH-O-TALAQ-AUR-SAMAJI-MASAIL</a>
                     
                 </div>
             </div>
@@ -424,7 +424,7 @@
                 <h3>Book No-61</h3>
                 <p>Updated On(2017-12-27)</p>
                 <div class="social-icons">
-                    <a href="#">Maholiyati_Aaloodgi_Ahkam</a>
+                    <a href="assets/images/books/maholiyati-aaloodgi-ahkam-o-masael.pdf">Maholiyati_Aaloodgi_Ahkam</a>
                    
                 </div>
             </div>
@@ -435,7 +435,7 @@
                 <h3>Book No-59</h3>
                 <p>Updated On(2017-12-27)</p>
                 <div class="social-icons">
-                    <a href="#">SHAH-WALIULLAH-KI-FIQHI-NAZRIYAT</a>
+                    <a href="assets/images/books/SHAH-WALIULLAH-KI-FIQHI-NAZRIYAT.pdf">SHAH-WALIULLAH-KI-FIQHI-NAZRIYAT</a>
                 </div>
             </div>
         </div>
@@ -445,7 +445,7 @@
                 <h3>Book No-58</h3>
                 <p>Updated On(2017-12-27)</p>
                 <div class="social-icons">
-                    <a href="#">HUQOOQ-E-INSANI-KA-ISLAMI-MANSHOOR</a>
+                    <a href="assets/images/books/HUQOOQ-E-INSANI-KA-ISLAMI-MANSHOOR.pdf">HUQOOQ-E-INSANI-KA-ISLAMI-MANSHOOR</a>
                 </div>
             </div>
         </div>
@@ -455,7 +455,7 @@
                 <h3>Book No-57</h3>
                 <p>Updated On(2017-12-27)</p>
                 <div class="social-icons">
-                    <a href="#">Islamic-solutions-to-the-muslims-Ideolog</a>
+                    <a href="assets/images/books/ISLAMIC-SOLUTIONS.pdf">Islamic-solutions-to-the-muslims-Ideolog</a>
                 </div>
             </div>
         </div>
@@ -467,7 +467,7 @@
                 <h3>Book No-56</h3>
                 <p>Updated On(2017-12-27)</p>
                 <div class="social-icons">
-                    <a href="#">FAQEEH-E-ASAR-MEER-E-KARWAN.</a>
+                    <a href="assets/images/books/FAQEEH-E-ASAR-MEER-E-KARWAN.pdf">FAQEEH-E-ASAR-MEER-E-KARWAN.</a>
                 </div>
             </div>
         </div>
@@ -477,7 +477,7 @@
                 <h3>Book No-55</h3>
                 <p>Updated On(2017-12-27)</p>
                 <div class="social-icons">
-                    <a href="#">AHD-E-ZAWAL-MEIN-MUSALMANON-KAY-LIYE-ISLAMI-HIDAYAAT</a>
+                    <a href="assets/images/books/AHD-E-ZAWAL-MEIN-MUSALMANON-KAY-LIYE-ISLAMI-HIDAYAAT.pdf">AHD-E-ZAWAL-MEIN-MUSALMANON-KAY-LIYE-ISLAMI-HIDAYAAT</a>
                 </div>
             </div>
         </div>
@@ -487,7 +487,7 @@
                 <h3>Book No-54</h3>
                 <p>Updated On(2017-12-27)</p>
                 <div class="social-icons">
-                    <a href="#">QAWANEEN-ALAM-MAIN-ISLAMI-QANOON-KA-IMTEYAZ-VOL-01</a>
+                    <a href="assets/images/books/QAWANEEN-ALAM-MAIN-ISLAMI-QANOON-KA-IMTEYAZ-VOL-01.pdf">QAWANEEN-ALAM-MAIN-ISLAMI-QANOON-KA-IMTEYAZ-VOL-01</a>
                 </div>
             </div>
         </div>
@@ -497,7 +497,7 @@
                 <h3>Book No-53</h3>
                 <p>Updated On(2019-01-30)</p>
                 <div class="social-icons">
-                    <a href="#">mali-jurmana-ka-sharyee-hukm-tahqeeq-o-t</a>
+                    <a href="assets/images/books/mali-jurmana-ka-sharyee-hukm.pdf">mali-jurmana-ka-sharyee-hukm-tahqeeq-o-t</a>
                     
                 </div>
             </div>
@@ -510,7 +510,7 @@
                 <h3>Book No-52</h3>
                 <p>Updated On(2017-12-27)</p>
                 <div class="social-icons">
-                    <a href="#">TAZKIRA_HAZRAT_AAH_MUZAFFARPURI</a>
+                    <a href="assets/images/books/TAZKIRA_HAZRAT_AAH_MUZAFFARPURI.pdf">TAZKIRA_HAZRAT_AAH_MUZAFFARPURI</a>
                 </div>
             </div>
         </div>
@@ -520,7 +520,7 @@
                 <h3>Book No-51</h3>
                 <p>Updated On(2017-10-11)</p>
                 <div class="social-icons">
-                    <a href="#">MUQAM-E-MAHMOOD</a>
+                    <a href="assets/images/books/MUQAM-E-MAHMOOD.pdf">MUQAM-E-MAHMOOD</a>
                 </div>
             </div>
         </div>
@@ -530,7 +530,7 @@
                 <h3>Book No-50</h3>
                 <p>Updated On(2017-09-22)</p>
                 <div class="social-icons">
-                    <a href="#">dawat-o-tabligh-khadshat-aour-haqaeiq</a>
+                    <a href="assets/images/books/dawat-o-tabligh-khadshat-aour-haqaeiq.pdf">dawat-o-tabligh-khadshat-aour-haqaeiq</a>
                 </div>
             </div>
         </div>
@@ -540,7 +540,7 @@
                 <h3>Book No-49</h3>
                 <p>Updated On(2017-12-27)</p>
                 <div class="social-icons">
-                    <a href="#">Hurmate-Musahrat-Ilmi-Tanqeeh</a>
+                    <a href="assets/images/books/Hurmate-Musahrat-Ilmi-Tanqeeh.pdf">Hurmate-Musahrat-Ilmi-Tanqeeh</a>
                 </div>
             </div>
         </div>
@@ -552,7 +552,7 @@
                 <h3>Book No-48</h3>
                 <p>Updated On(2017-10-10)</p>
                 <div class="social-icons">
-                    <a href="#">MANSAB-E-SAHABA</a>
+                    <a href="assets/images/books/MANSAB-E-SAHABAR.A.pdf">MANSAB-E-SAHABA</a>
                 </div>
             </div>
         </div>
@@ -562,7 +562,7 @@
                 <h3>Book No-47</h3>
                 <p>Updated On(2019-01-30)</p>
                 <div class="social-icons">
-                    <a href="#">bai-wa-ijarah-ke-baz-naye-masael</a>
+                    <a href="assets/images/books/Bai-wa-ijarah-ke-baz-naye-masaael.pdf">bai-wa-ijarah-ke-baz-naye-masael</a>
                 </div>
             </div>
         </div>
@@ -572,7 +572,7 @@
                 <h3>Book No-46</h3>
                 <p>Updated On(2017-01-21)</p>
                 <div class="social-icons">
-                    <a href="#">Khulas-e-seerat-e-paak</a>
+                    <a href="assets/images/books/Khulas-e-seerat-e-paak.pdf">Khulas-e-seerat-e-paak</a>
                     
                 </div>
             </div>
@@ -583,7 +583,7 @@
                 <h3>Book No-45</h3>
                 <p>Updated On(2017-12-27)</p>
                 <div class="social-icons">
-                    <a href="#">Hazrat-Hakimul-ummat-ml.Md</a>
+                    <a href="assets/images/books/Hazrat-Hakimul-ummat-ml.Md.pdf">Hazrat-Hakimul-ummat-ml.Md</a>
                     
                 </div>
             </div>
@@ -597,7 +597,7 @@
                 <h3>Book No-44</h3>
                 <p>Updated On(2017-01-06)</p>
                 <div class="social-icons">
-                    <a href="#">Qabza-not-sona-chandi-on-lin-tijarat</a>
+                    <a href="assets/images/books/Qabza-not-sona-chandi-on-lin-tijarat.pdf">Qabza-not-sona-chandi-on-lin-tijarat</a>
                 </div>
             </div>
         </div>
@@ -608,7 +608,7 @@
                 <h3>Book No-43</h3>
                 <p>Updated On(2016-12-06)</p>
                 <div class="social-icons">
-                    <a href="#">hindustan.me-tadrise-fiqah-wa-usoole-fiqah</a>
+                    <a href="assets/images/books/hindustan.me-tadrise-fiqah-wa-usoole-fiqah.pdf">hindustan.me-tadrise-fiqah-wa-usoole-fiqah</a>
                 </div>
             </div>
         </div>
@@ -619,7 +619,7 @@
                 <h3>Book No-42</h3>
                 <p>Updated On(2016-12-06)</p>
                 <div class="social-icons">
-                    <a href="#">moulana-aejaz-ahmad-aazmi</a>
+                    <a href="assets/images/books/moulana-aejaz-ahmad-aazmi.pdf">moulana-aejaz-ahmad-aazmi</a>
                 </div>
             </div>
         </div>
@@ -630,7 +630,7 @@
                 <h3>Book No-41</h3>
                 <p>Updated On(2016-12-21)</p>
                 <div class="social-icons">
-                    <a href="#">Ghezaee-masnooaat-me-hillat-o-hurmat-ke-usool</a>
+                    <a href="assets/images/books/Ghezaee-masnooaat-me-hillat-o-hurmat-ke-usool.pdf">Ghezaee-masnooaat-me-hillat-o-hurmat-ke-usool</a>
                 </div>
             </div>
         </div>
@@ -643,7 +643,7 @@
                 <h3>Book No-40</h3>
                 <p>Updated On(2016-12-21)</p>
                 <div class="social-icons">
-                    <a href="#">Hindustan-me-adris-e-Hadis-tarikhi-aor-fanni-nuqtae-nazar-se</a>
+                    <a href="assets/images/books/Hindustan-me-adris-e-Hadis-tarikhi-aor-fanni-nuqtae-nazar-se.pdf">Hindustan-me-adris-e-Hadis-tarikhi-aor-fanni-nuqtae-nazar-se</a>
                    
                 </div>
             </div>
@@ -655,7 +655,7 @@
                 <h3>Book No-39</h3>
                 <p>Updated On(2017-12-27)</p>
                 <div class="social-icons">
-                    <a href="#">GHAIR-MUSLIM-MULKON-MAIN-MUSALMANON-KAY-MASAIL</a>  
+                    <a href="assets/images/books/GHAIR-MUSLIM-MULKON-MAIN-MUSALMANON-KAY-MASAIL.pdf">GHAIR-MUSLIM-MULKON-MAIN-MUSALMANON-KAY-MASAIL</a>  
                 </div>
             </div>
         </div>
@@ -666,7 +666,7 @@
                 <h3>Book No-39</h3>
                 <p>Updated On(2016-12-21)</p>
                 <div class="social-icons">
-                    <a href="#">quran-ki-roshni-me-afrad-sazi</a>
+                    <a href="assets/images/books/quran-ki-roshni-me-afrad-sazi.pdf">quran-ki-roshni-me-afrad-sazi</a>
                 </div>
             </div>
         </div>
@@ -677,7 +677,7 @@
                 <h3>Book No-38</h3>
                 <p>Updated On(2016-12-06)</p>
                 <div class="social-icons">
-                    <a href="#">imam-aouzaee</a>
+                    <a href="assets/images/books/imam-aouzaee.pdf">imam-aouzaee</a>
                 </div>
             </div>
         </div>
@@ -690,7 +690,7 @@
                 <h3>Book No-37</h3>
                 <p>Updated On(2016-12-22)</p>
                 <div class="social-icons">
-                    <a href="#">aqd-e-Istisna-Tahqiq-o-Tatbiq</a>
+                    <a href="assets/images/books/aqd-e-Istisna-Tahqiq-o-Tatbiq.pdf">aqd-e-Istisna-Tahqiq-o-Tatbiq</a>
                 </div>
             </div>
         </div>
@@ -701,7 +701,7 @@
                 <h3>Book No-36</h3>
                 <p>Updated On(2016-12-22)</p>
                 <div class="social-icons">
-                    <a href="#">walid-ke-sath-karobari-shirkat</a>
+                    <a href="assets/images/books/walid-ke-sath-karobari-shirkat.pdf">walid-ke-sath-karobari-shirkat</a>
                 </div>
             </div>
         </div>
@@ -712,7 +712,7 @@
                 <h3>Book No-35</h3>
                 <p>Updated On(2016-12-22)</p>
                 <div class="social-icons">
-                    <a href="#">Medical-Inshorence</a>
+                    <a href="assets/images/books/Medical-Inshorence.pdf">Medical-Inshorence</a>
                 </div>
             </div>
         </div>
@@ -723,7 +723,7 @@
                 <h3>Book No-34</h3>
                 <p>Updated On(2016-12-22)</p>
                 <div class="social-icons">
-                    <a href="#">Mushtarkah-khandani-nezam</a>
+                    <a href="assets/images/books/Mushtarkah-khandani-nezam.pdf">Mushtarkah-khandani-nezam</a>
                 </div>
             </div>
         </div>
@@ -736,7 +736,7 @@
                 <h3>Book No-33</h3>
                 <p>Updated On(2016-12-22)</p>
                 <div class="social-icons">
-                    <a href="#">Ahle-Kitab-se-muta-alliq-baz-Ahkam</a>
+                    <a href="assets/images/books/Ahle-Kitab-se-muta-alliq-baz-Ahkam.pdf">Ahle-Kitab-se-muta-alliq-baz-Ahkam</a>
                 </div>
             </div>
         </div>
@@ -747,7 +747,7 @@
                 <h3>Book No-32</h3>
                 <p>Updated On(2016-12-22)</p>
                 <div class="social-icons">
-                    <a href="#">Islami-inshorens(Nezam-e-Takaful)</a>
+                    <a href="assets/images/books/Islami-inshorens(Nezam-e-Takaful).pdf">Islami-inshorens(Nezam-e-Takaful)</a>
                 </div>
             </div>
         </div>
@@ -758,7 +758,7 @@
                 <h3>Book No-31</h3>
                 <p>Updated On(2016-12-09)</p>
                 <div class="social-icons">
-                    <a href="#">Distinguishing-Features-of-the-Islamic-L</a>
+                    <a href="assets/images/books/Distinguishing-Features-of-the-Islamic-Law-as-Compared-with-the-the-un-Islamic-legal-Systems-of-the-World.pdf">Distinguishing-Features-of-the-Islamic-L</a>
                 </div>
             </div>
         </div>
@@ -769,7 +769,7 @@
                 <h3>Book No-30</h3>
                 <p>Updated On(2016-12-07)</p>
                 <div class="social-icons">
-                    <a href="#">Bain-Mazhabi-Muzakrat</a>
+                    <a href="assets/images/books/Bain-Mazhabi-Muzakrat.pdf">Bain-Mazhabi-Muzakrat</a>
                 </div>
             </div>
         </div>
@@ -782,7 +782,7 @@
                 <h3>Book No-29</h3>
                 <p>Updated On(2016-12-05)</p>
                 <div class="social-icons">
-                    <a href="#">al-yamin-o-walyasar-fil-aamal</a>
+                    <a href="assets/images/books/al-yamin-o-walyasar-fil-aamal.pdf">al-yamin-o-walyasar-fil-aamal</a>
                 </div>
             </div>
         </div>
@@ -793,7 +793,7 @@
                 <h3>Book No-08</h3>
                 <p>Updated On(2016-12-03)</p>
                 <div class="social-icons">
-                    <a href="#">Age of Decline and Islamic Directives fo</a>
+                    <a href="assets/images/books/Age-of-Decline-and-Islamic-Directives-for-Muslims.pdf">Age of Decline and Islamic Directives fo</a>
                 </div>
             </div>
         </div>
@@ -804,7 +804,7 @@
                 <h3>Book No-07</h3>
                 <p>Updated On(2016-12-22)</p>
                 <div class="social-icons">
-                    <a href="#">Resala-Dawat-e-Haque</a>
+                    <a href="assets/images/books/RESALA-Dawat-e-Haque.pdf">Resala-Dawat-e-Haque</a>
                 </div>
             </div>
         </div>
@@ -815,7 +815,7 @@
                 <h3>Book No-06</h3>
                 <p>Updated On(2016-09-15)</p>
                 <div class="social-icons">
-                    <a href="#">Haz-Shah-Waliullah-in-the-Mirror-of-his-</a>
+                    <a href="assets/images/books/HAZRAT-SHAH-WALIULLAH-in-the-mirror-of-his-juristic.pdf">Haz-Shah-Waliullah-in-the-Mirror-of-his-</a>
                 </div>
             </div>
         </div>
@@ -827,7 +827,7 @@
                 <h3>Book No-5</h3>
                 <p>Updated On(2016-12-03)</p>
                 <div class="social-icons">
-                    <a href="#">islamic-statement-on-human-rights(Englis)</a>
+                    <a href="assets/images/books/The-Islamic-Statement-On-Human-Rights.pdf">islamic-statement-on-human-rights(Englis)</a>
                 </div>
             </div>
         </div>
