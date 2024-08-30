@@ -21,7 +21,7 @@
     <!-- header -->
 
 
-    <?php include 'header.html' ?>
+    <?php include 'header.php' ?>
 
     <!--/header-->
 
@@ -50,7 +50,7 @@
 
 
     <!--/footer-->
-    <?php include 'footer.html' ?>
+    <?php include 'footer.php' ?>
     <!-- //footer -->
 
 

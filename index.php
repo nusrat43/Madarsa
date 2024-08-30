@@ -16,7 +16,7 @@
 <body>
     <!--header-->
 
-    <?php include 'header.html' ?>
+    <?php include 'header.php' ?>
 
     <!--/header-->
     <!--/Banner-Start-->
@@ -413,7 +413,7 @@
     <!--//subscribe-->
     <!--/footer-->
 
-    <?php include 'footer.html' ?>
+    <?php include 'footer.php' ?>
 
     <!-- //footer -->
 
