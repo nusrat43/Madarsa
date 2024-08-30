@@ -83,11 +83,11 @@
 
 <style>
 
-main {
+.departments{
     max-width: 1100px;
     margin: 40px auto;
     padding: 20px;
-    background: #fff;
+    /* background: #fff; */
     box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
     border-radius: 12px;
 }
@@ -106,6 +106,7 @@ h2 {
     margin-bottom: 0px;
     padding: 40px;
     border-bottom: 1px solid #ddd;
+
 }
 
 .department:last-child {

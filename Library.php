@@ -33,7 +33,7 @@
               Library </h2>
             <p class="inner-page-para mt-2">
               Learn Anytime, Anywhere.
-              Accelerate Your Future.</p> -->
+              Accelerate Your Future.</p> 
           </div>
           <div class="w3breadcrumb-right">
             <ul class="breadcrumbs-custom-path">
@@ -118,7 +118,7 @@
         <!-- //gallery container -->
     </section>
  
-
+ 
 
    <!--/footer-->
    <?php include 'footer.html' ?>

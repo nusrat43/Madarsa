@@ -45,7 +45,7 @@
   </section>
   
 
-  <main>
+ 
         <section class="departments">
             <!-- <h2 class="dept">Other Departments at Jamia</h2><br> -->
 
@@ -91,18 +91,24 @@ Masjid of the Jamia (three-storied): spacious enough where at least 1500 worship
             </div>
             
         </section>
-    </main>
-
+    
 <style>
-
-main {
+.departments{
+    max-width: 1100px;
+    margin: 40px auto;
+    padding: 20px;
+    /* background: #fff; */
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+}
+/* main {
     max-width: 1100px;
     margin: 40px auto;
     padding: 20px;
     background: #fff;
     box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
     border-radius: 12px;
-}
+} */
 
 h2 {
     font-size: 2.5em;

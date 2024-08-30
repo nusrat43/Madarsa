@@ -68,7 +68,7 @@
     </div>
   </section>
 
-  <main>
+ 
         <section class="departments">
             <!-- <h2 class="dept">Other Departments at Jamia</h2><br> -->
             
@@ -157,18 +157,26 @@
                 </div>
             </div>
         </section>
-    </main>
+    
 
 <style>
+    .departments{
+    max-width: 1100px;
+    margin: 40px auto;
+    padding: 20px;
+    /* background: #fff; */
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+}
 
-main {
+/* main {
     max-width: 1100px;
     margin: 40px auto;
     padding: 20px;
     background: #fff;
     box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
     border-radius: 12px;
-}
+} */
 
 h2 {
     font-size: 2.5em;
