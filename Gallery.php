@@ -88,10 +88,10 @@
 
     <section class="bannerw3l-hnyv">
         <div class="banner-layer">
-            <video autoplay muted loop id="myVideo">
-                <source src="assets/images/line-edu.mp4" type="video/mp4">
+        <a href="assets/images/back-video.mp4"><video autoplay muted loop id="myVideo">
+                <source src="assets/images/night view of jamia rabbani.mp4" type="video/mp4">
                 Your browser does not support HTML5 video.
-            </video>
+            </video></a>
             <div class="main-content-top">
                 <div class="container">
                     <div class="main-content">
