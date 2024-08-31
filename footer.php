@@ -44,11 +44,14 @@
                 <div class="col-lg-2 col-md-6 sub-two-right pl-lg-5">
                     <h6>Useful Links</h6>
                     <ul>
-                        <li><a href="index.html"><span class="fas fa-chevron-right mr-2"></span>Home</a>
+                        <li><a href="index.php"><span class="fas fa-chevron-right mr-2"></span>Home</a>
                         </li>
-                        <li><a href="about.html"><span class="fas fa-chevron-right mr-2"></span>About</a>
+                        <li><a href="about.php"><span class="fas fa-chevron-right mr-2"></span>About</a>
                         </li>
-                        <li><a href="courses.html"><span class="fas fa-chevron-right mr-2"></span>Courses</a></li>
+                        <li><a href="Department.php"><span class="fas fa-chevron-right mr-2"></span>Courses</a></li>
+                        <li><a href="Virtual-Bookshelf.php"><span class="fas fa-chevron-right mr-2"></span>Courses</a></li>
+                        <li><a href="Gallery.php"><span class="fas fa-chevron-right mr-2"></span>Courses</a></li>
+                        <li><a href="Visitors.php"><span class="fas fa-chevron-right mr-2"></span>Courses</a></li>
                         <li><a href="contact.html"><span class="fas fa-chevron-right mr-2"></span>Contact</a></li>
                     </ul>
                 </div>

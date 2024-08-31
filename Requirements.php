@@ -18,7 +18,7 @@
     <!-- header -->
 
     
-    <?php     include 'header.html' ?>
+    <?php     include 'header.php' ?>
 
     <!--/header-->
 
@@ -216,7 +216,7 @@ p {
 
 
    <!--/footer-->
-   <?php include 'footer.html' ?>
+   <?php include 'footer.php' ?>
   <!-- //footer -->
 
 

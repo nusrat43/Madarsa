@@ -48,7 +48,7 @@
     <!-- header -->
 
     
-    <?php     include 'header.html' ?>
+    <?php     include 'header.php' ?>
 
     <!--/header-->
 
@@ -85,7 +85,7 @@
     </div>
 
    <!--/footer-->
-   <?php include 'footer.html' ?>
+   <?php include 'footer.php' ?>
   <!-- //footer -->
 
 
