@@ -50,7 +50,7 @@
   <main>
         <section class="department-info">
             <h1>Tabligh and Preaching Department</h1>
-            <p>Focused on religious and social reform, combating moral evils in Muslim societies. The ulama and orators regularly visit different areas for reform and guidance.</p>
+            <p>This department is intended to effect religious and social reform to the Muslim society and to fight the social and moral evils gaining foothold into the Muslim societies. This department gets notice of such evils. The ulama and the orators of the Jamia, from time to time, undertake visits to different areas for the purpose of reform and admonition.</p>
             
             <div class="card-container">
                 <div class="card">
