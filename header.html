@@ -40,42 +40,36 @@
                     <span class="navbar-toggler-icon fa icon-close fa-times"></span>
                     </span>
                 </button>
+                
+                
                 <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
                     <ul class="navbar-nav ml-lg-auto">
-                        <li class="nav-item active">
+                        <li class="nav-item <?php if (basename($_SERVER['PHP_SELF']) == 'index.php') echo 'active'; ?>">
                             <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
                         </li>
-                        <li class="nav-item">
+                        <li class="nav-item <?php if (basename($_SERVER['PHP_SELF']) == 'about.php') echo 'active'; ?>">
                             <a class="nav-link" href="about.php">About</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="Department.php">Department </a>
+                        <li class="nav-item <?php if (basename($_SERVER['PHP_SELF']) == 'Department.php') echo 'active'; ?>">
+                            <a class="nav-link" href="Department.php">Department</a>
                         </li>
-                        <li class="nav-item">
+                        <li class="nav-item <?php if (basename($_SERVER['PHP_SELF']) == 'Gallery.php') echo 'active'; ?>">
                             <a class="nav-link" href="Gallery.php">Gallery</a>
                         </li>
-                        <li class="nav-item">
+                        <li class="nav-item <?php if (basename($_SERVER['PHP_SELF']) == 'Requirements.php') echo 'active'; ?>">
                             <a class="nav-link" href="Requirements.php">Requirements</a>
                         </li>
-                        <li class="nav-item">
+                        <li class="nav-item <?php if (basename($_SERVER['PHP_SELF']) == 'Visitors.php') echo 'active'; ?>">
                             <a class="nav-link" href="Visitors.php">Visitors</a>
                         </li>
-                        <li class="nav-item mr-lg-1">
+                        <li class="nav-item mr-lg-1 <?php if (basename($_SERVER['PHP_SELF']) == 'contact.php') echo 'active'; ?>">
                             <a class="nav-link" href="contact.php">Contact</a>
                         </li>
-                        <!-- /search-right-->
-                        <!-- <li class="header-search mr-lg-2 mt-lg-0 mt-4 position-relative">
-                            <div class="search-right">
-                                <a href="#search" class="btn btn-style search-btn" title="search"><span
-                                        class="fas fa-search mr-2" aria-hidden="true"></span> Search</a>
-                              
-                            </div>
-                        </li> -->
-                        <!--//search-right-->
                     </ul>
                 </div>
 
 
+ 
                 <!-- toggle switch for light and dark theme -->
                 <div class="mobile-position">
                     <nav class="navigation">

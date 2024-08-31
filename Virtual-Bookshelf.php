@@ -94,7 +94,38 @@
             color: white;
         }
 
-        @media (max-width: 415px) {}
+
+        @media (min-width: 840px) {
+    .team-container {
+        justify-content: space-between; /* Adjust to evenly distribute items */
+        margin: 40px;
+    }
+
+    .team-card {
+        width: 350px; /* Increase the size of the card */
+        height: 450px;
+        padding: 35px;
+        box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.4); /* Slightly larger shadow */
+    }
+
+    .team-card img {
+        width: 220px; /* Adjust image size */
+        height: 270px;
+    }
+
+    .team-card h3 {
+        font-size: 20px; /* Increase font size for larger screens */
+    }
+
+    .team-card p {
+        font-size: 16px;
+    }
+
+    .social-icons a {
+        font-size: 20px; /* Make icons slightly larger */
+    }
+}
+
     </style>
 </head>
 
@@ -130,7 +161,7 @@
     </section>
 
 
-    <div class="team-container">
+    <!-- <div class="team-container"> -->
         <div class="team-member">
             <div class="team-card">
                 <img src="assets/images/book1.png" alt="Madison" class="team-photo">
@@ -175,10 +206,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    <!-- </div> -->
 
 
-    <div class="team-container">
+    <!-- <div class="team-container"> -->
         <div class="team-member">
             <div class="team-card">
                 <img src="assets/images/book5.png" alt="Madison" class="team-photo">
@@ -224,10 +255,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    <!-- </div> -->
 
 
-    <div class="team-container">
+    <!-- <div class="team-container"> -->
         <div class="team-member">
             <div class="team-card">
                 <img src="assets/images/book9.png" alt="Madison" class="team-photo">
@@ -275,10 +306,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    <!-- </div>
 
 
-    <div class="team-container">
+    <div class="team-container"> -->
         <div class="team-member">
             <div class="team-card">
                 <img src="assets/images/book13.png" alt="Madison" class="team-photo">
@@ -325,10 +356,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    <!-- </div>
 
 
-    <div class="team-container">
+    <div class="team-container"> -->
         <div class="team-member">
             <div class="team-card">
                 <img src="assets/images/book17.png" alt="Madison" class="team-photo">
@@ -371,8 +402,8 @@
                 </div>
             </div>
         </div>
-    </div>
-    <div class="team-container">
+    <!-- </div>
+    <div class="team-container"> -->
         <div class="team-member">
             <div class="team-card">
                 <img src="assets/images/book21.png" alt="Harper" class="team-photo">
@@ -416,8 +447,8 @@
             </div>
         </div>
 
-    </div>
-    <div class="team-container">
+    <!-- </div>
+    <div class="team-container"> -->
         <div class="team-member">
             <div class="team-card">
                 <img src="assets/images/book25.png" alt="Harper" class="team-photo">
@@ -459,8 +490,8 @@
                 </div>
             </div>
         </div>
-    </div>
-    <div class="team-container">
+    <!-- </div>
+    <div class="team-container"> -->
         <div class="team-member">
             <div class="team-card">
                 <img src="assets/images/book29.png" alt="Harper" class="team-photo">
@@ -502,8 +533,8 @@
                 </div>
             </div>
         </div>
-    </div>
-    <div class="team-container">
+    <!-- </div>
+    <div class="team-container"> -->
         <div class="team-member">
             <div class="team-card">
                 <img src="assets/images/book33.png" alt="Harper" class="team-photo">
@@ -544,8 +575,8 @@
                 </div>
             </div>
         </div>
-    </div>
-    <div class="team-container">
+    <!-- </div>
+    <div class="team-container"> -->
         <div class="team-member">
             <div class="team-card">
                 <img src="assets/images/book37.png" alt="Harper" class="team-photo">
@@ -588,9 +619,9 @@
                 </div>
             </div>
         </div>
-    </div>
+    <!-- </div>
 
-    <div class="team-container">
+    <div class="team-container"> -->
         <div class="team-member">
             <div class="team-card">
                 <img src="assets/images/book41.png" alt="Madison" class="team-photo">
@@ -634,9 +665,9 @@
                 </div>
             </div>
         </div>
-    </div>
+    <!-- </div>
 
-    <div class="team-container">
+    <div class="team-container"> -->
         <div class="team-member">
             <div class="team-card">
                 <img src="assets/images/book45.png" alt="Madison" class="team-photo">
@@ -681,9 +712,9 @@
                 </div>
             </div>
         </div>
-    </div>
+    <!-- </div>
 
-    <div class="team-container">
+    <div class="team-container"> -->
         <div class="team-member">
             <div class="team-card">
                 <img src="assets/images/book49.png" alt="Madison" class="team-photo">
@@ -727,9 +758,9 @@
                 </div>
             </div>
         </div>
-    </div>
+    <!-- </div>
 
-    <div class="team-container">
+    <div class="team-container"> -->
         <div class="team-member">
             <div class="team-card">
                 <img src="assets/images/book53.png" alt="Madison" class="team-photo">
@@ -773,9 +804,9 @@
                 </div>
             </div>
         </div>
-    </div>
+    <!-- </div>
 
-    <div class="team-container">
+    <div class="team-container"> -->
         <div class="team-member">
             <div class="team-card">
                 <img src="assets/images/book57.png" alt="Madison" class="team-photo">
@@ -819,8 +850,8 @@
                 </div>
             </div>
         </div>
-    </div>
-    <div class="team-container">
+    <!-- </div>
+    <div class="team-container"> -->
         <div class="team-member">
             <div class="team-card">
                 <img src="assets/images/book61.png" alt="Madison" class="team-photo">
@@ -831,7 +862,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    <!-- </div> -->
 
 
 
