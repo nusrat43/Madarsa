@@ -9,26 +9,30 @@
     <!-- google fonts -->
     <link href="//fonts.googleapis.com/css2?family=Jost:wght@300;400;600;700&display=swap" rel="stylesheet">
     <!-- Template CSS -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
 
     <link rel="stylesheet" href="assets/css/style-starter.css">
 
     <style>
-        .columns-2  img {
+        .columns-2 img {
             width: 100px;
             height: 100px;
         }
-        .columns-2 .two img{
+
+        .columns-2 .two img {
             width: 60px;
             height: 60px;
             margin: 5px;
         }
-        .columns-2 .three img{
+
+        .columns-2 .three img {
             width: 70px;
             height: 70px;
             margin: 5px;
         }
-        .image img{
-            margin-left: -20px ;
+
+        .image img {
+            margin-left: -20px;
         }
     </style>
 </head>
@@ -48,9 +52,9 @@
                         <div class="columns-2">
                             <div class="image">
                                 <a href="news.php" class="one"><img src="assets/images/news logo.png" alt=""></a>
-                               <a href="assets/images/books/ishtehar.pdf" class="two"><img src="assets/images/poster.png" alt=""></a>
-                               <a href="assets/images/books/apeel.pdf" class="three"><img src="assets/images/appeal.png" alt=""></a>
-                               <a href="calendar.php" class="one"><img src="assets/images/calendar.png" alt=""></a>
+                                <a href="assets/images/books/ishtehar.pdf" class="two"><img src="assets/images/poster.png" alt=""></a>
+                                <a href="assets/images/books/apeel.pdf" class="three"><img src="assets/images/appeal.png" alt=""></a>
+                                <a href="calendar.php" class="one"><img src="assets/images/calendar.png" alt=""></a>
 
                             </div>
                         </div>
@@ -70,20 +74,19 @@
                         </ul>
                     </div>
                     <div class="col-lg-3 col-md-6 sub-two-right pl-lg-5 mt-md-0 mt-4">
-                        <h6>Help & Support</h6>
+                        <h6>Get In Touch</h6>
                         <ul>
-                            <li><a href="#live"><span class="fas fa-chevron-right mr-2"></span>Live
-                                    Chart</a></li>
-                            <li><a href="#faq"><span class="fas fa-chevron-right mr-2"></span>Faq</a>
+                            <li><a href="#live"><span class="material-symbols-outlined"> call</span> 9934082422</a></li>
+                            <li><a href="#live"><span class="material-symbols-outlined"> call</span> 9473136822</a></li>
                             </li>
-                            <li><a href="#support"><span class="fas fa-chevron-right mr-2"></span>Support</a>
+                            <li><a href="#support"><span class="material-symbols-outlined"> mail</span> jamia.rabbani@gmail.com</a>
                             </li>
-                            <li><a href="#terms"><span class="fas fa-chevron-right mr-2"></span>Terms
-                                    of Services</a></li>
+                            <li><a href="#support"><span class="material-symbols-outlined"> mail</span> jamiarabbani@rediffmail.com</a>
+                            </li>
                         </ul>
                     </div>
                     <div class="col-lg-3 col-md-6 sub-two-right mt-md-0 mt-4">
-                    <div class="cwp23-text-cols row">
+                        <div class="cwp23-text-cols row">
                             <div class="column col-6">
                                 <div class="column-w3-img position-relative">
                                     <a href="#"><img src="assets/images/gate.jpg" alt=""
@@ -116,7 +119,7 @@
                                     </div> -->
                                 </div>
                             </div>
-                            
+
                         </div>
                     </div>
 
@@ -129,8 +132,11 @@
         <div class="copyright-footer text-center">
             <div class="container">
                 <div class="columns">
-                    <p>© 2021 Edukator. All rights reserved.Design by<a href="https://w3layouts.com/" target="_blank">
+                    <!-- <p>© 2021 Edukator. All rights reserved.Design by<a href="https://w3layouts.com/" target="_blank">
                             W3layouts</a>
+                    </p> -->
+                    <p>2024 Jamia Rabbani. All rights reserved.Design by<a href="https://w3layouts.com/" target="_blank">
+                            S S System W3layouts </a>
                     </p>
                 </div>
             </div>
