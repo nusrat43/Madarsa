@@ -83,30 +83,41 @@
                         </ul>
                     </div>
                     <div class="col-lg-3 col-md-6 sub-two-right mt-md-0 mt-4">
-                        <h6>Login For admin</h6>
-                        <form action="login.php" method=post>
-                            <div class="form-group">
-                                <input
-                                    type="text" name="username" id="username"
-                                    class="form-control border-0 py-4"
-                                    placeholder="Your userame"
-                                    required="required" />
+                    <div class="cwp23-text-cols row">
+                            <div class="column col-6">
+                                <div class="column-w3-img position-relative">
+                                    <a href="#"><img src="assets/images/gate.jpg" alt=""
+                                            class="radius-image img-fluid"></a>
+                                    <!-- <div class="edu-info">
+                                        <h4 class="edu-heading-title"><a href="#">Personal Development</a></h4>
+                                    </div> -->
+                                </div>
+                                <div class="column-w3-img position-relative mt-4">
+                                    <a href="#"><img src="assets/images/madarsa3.jpg" alt=""
+                                            class="radius-image img-fluid"></a>
+                                    <!-- <div class="edu-info">
+                                        <h4 class="edu-heading-title"><a href="#">Business</a></h4>
+                                    </div> -->
+                                </div>
                             </div>
-                            <div class="form-group">
-                                <input
-                                    type="password" name="password" id="password"
-                                    class="form-control border-0 py-4"
-                                    placeholder="Your Password"
-                                    required="required" />
+                            <div class="column col-6">
+                                <div class="column-w3-img position-relative">
+                                    <a href="#"><img src="assets/images/madarsa1.jpg" alt=""
+                                            class="radius-image img-fluid"></a>
+                                    <!-- <div class="edu-info">
+                                        <h4 class="edu-heading-title"><a href="#">Entrepreneurship</a></h4>
+                                    </div> -->
+                                </div>
+                                <div class="column-w3-img position-relative mt-4">
+                                    <a href="#"><img src="assets/images/madarsa2.jpg" alt=""
+                                            class="radius-image img-fluid"></a>
+                                    <!-- <div class="edu-info">
+                                        <h4 class="edu-heading-title"><a href="#">Photography</a></h4>
+                                    </div> -->
+                                </div>
                             </div>
-                            <div>
-                                <button
-                                    class="btn btn-primary btn-block border-0 py-3"
-                                    type="submit">
-                                    Submit Now
-                                </button>
-                            </div>
-                        </form>
+                            
+                        </div>
                     </div>
 
 

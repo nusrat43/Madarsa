@@ -22,10 +22,10 @@
     <!--/Banner-Start-->
     <section class="bannerw3l-hnyv">
         <div class="banner-layer">
-            <a href="assets/images/back-video.mp4"><video autoplay muted loop id="myVideo">
-                <source src="assets/images/back-video.mp4" type="video/mp4">
+           <video autoplay muted loop id="myVideo">
+                <source src="assets/images/bg video.mp4" type="video/mp4">
                 Your browser does not support HTML5 video.
-            </video></a>
+            </video>
             
             <div class="main-content-top">
                 <div class="container">
@@ -36,7 +36,7 @@
                         </a> -->
                         <!-- <h4>Education with fun learning</h4> -->
                         <h3>JAMIA RABBANI <span class="inn-text" style="font-size: 45px;">MANORWA SHARIF</span> </h3>
-                        <a href="about.html" class="btn btn-style transparant-btn mt-md-5 mt-4">Read More</a>
+                        <a href="about.php" class="btn btn-style transparant-btn mt-md-5 mt-4">Read More</a>
                     </div>
                 </div>
             </div>
@@ -155,7 +155,7 @@
         <div class="container">
             <div class="row stats-con py-lg-0 py-5">
                 <div class="col-lg-6 stats-content-right mb-lg-0 mb-lg-5 mb-2">
-                    <a href="#service" class="d-block zoom"><img src="assets/images/madarsa4.jpg" alt=""
+                    <a href="#service" class="d-block zoom"><img src="assets/images/whatsApp.jpg" alt=""
                             class="img-fluid" /></a>
                 </div>
                 <div class="col-lg-6 stats-content-left pl-lg-5">
