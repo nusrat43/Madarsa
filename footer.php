@@ -34,6 +34,14 @@
         .image img {
             margin-left: -20px;
         }
+
+        .columns-2 img{
+            height: 80px;
+            width: 80px;
+            padding: 10px;
+        }
+
+        
     </style>
 </head>
 
@@ -52,8 +60,8 @@
                         <div class="columns-2">
                             <div class="image">
                                 <a href="news.php" class="one"><img src="assets/images/news logo.png" alt=""></a>
-                                <a href="assets/images/books/ishtehar.pdf" class="two"><img src="assets/images/poster.png" alt=""></a>
-                                <a href="assets/images/books/apeel.pdf" class="three"><img src="assets/images/appeal.png" alt=""></a>
+                                <a href="assets/images/books/ishtehar.pdf" class="one"><img src="assets/images/poster.png" alt=""></a>
+                                <a href="assets/images/books/apeel.pdf" class="one"><img src="assets/images/appeal.png" alt=""></a>
                                 <a href="calendar.php" class="one"><img src="assets/images/calendar.png" alt=""></a>
 
                             </div>
@@ -91,32 +99,20 @@
                                 <div class="column-w3-img position-relative">
                                     <a href="#"><img src="assets/images/gate.jpg" alt=""
                                             class="radius-image img-fluid"></a>
-                                    <!-- <div class="edu-info">
-                                        <h4 class="edu-heading-title"><a href="#">Personal Development</a></h4>
-                                    </div> -->
                                 </div>
                                 <div class="column-w3-img position-relative mt-4">
                                     <a href="#"><img src="assets/images/madarsa3.jpg" alt=""
                                             class="radius-image img-fluid"></a>
-                                    <!-- <div class="edu-info">
-                                        <h4 class="edu-heading-title"><a href="#">Business</a></h4>
-                                    </div> -->
                                 </div>
                             </div>
                             <div class="column col-6">
                                 <div class="column-w3-img position-relative">
                                     <a href="#"><img src="assets/images/madarsa1.jpg" alt=""
-                                            class="radius-image img-fluid"></a>
-                                    <!-- <div class="edu-info">
-                                        <h4 class="edu-heading-title"><a href="#">Entrepreneurship</a></h4>
-                                    </div> -->
+                                            class="radius-image img-fluid"></a>                                   
                                 </div>
                                 <div class="column-w3-img position-relative mt-4">
                                     <a href="#"><img src="assets/images/madarsa2.jpg" alt=""
                                             class="radius-image img-fluid"></a>
-                                    <!-- <div class="edu-info">
-                                        <h4 class="edu-heading-title"><a href="#">Photography</a></h4>
-                                    </div> -->
                                 </div>
                             </div>
 
