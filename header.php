@@ -14,7 +14,8 @@
     <link href="//fonts.googleapis.com/css2?family=Jost:wght@300;400;600;700&display=swap" rel="stylesheet">
     <!-- Template CSS -->
     <link rel="stylesheet" href="assets/css/style-starter.css">
-    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"> -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
 </head>
 
 
@@ -25,8 +26,8 @@
         margin-top: 0;
         background-color: rgba(255, 255, 255, 0.5);
         backdrop-filter: blur(10px);
-        -webkit-backdrop-filter: blur(10px); /* For Safari support */
-        border: none; /* Removes border */
+        -webkit-backdrop-filter: blur(10px); 
+        border: none; 
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     }
 
@@ -81,7 +82,7 @@
 
                         <li class="nav-item dropdown <?php if (basename($_SERVER['PHP_SELF']) == 'Department.php') echo 'active'; ?>">
                             <a class="nav-link dropdown-toggle" href="#" id="departmentDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                Department
+                                Department   <i class="fa-solid fa-caret-down"></i>
                             </a>
                             <div class="dropdown-menu" aria-labelledby="departmentDropdown">
                                 <a class="dropdown-item" href="Educational_Department.php">Educational Departments</a>
