@@ -14,70 +14,181 @@
     <link href="//fonts.googleapis.com/css2?family=Jost:wght@300;400;600;700&display=swap" rel="stylesheet">
     <!-- Template CSS -->
     <style>
-        .notice-container {
-            /* position: fixed; */
-            right: 20px;
-            top: 20%;
-            width: 500px;
-            height: 600px;
-            background: linear-gradient(90deg, #C7FFD8, #A1D6B2);
-            padding: 15px;
-            /* border: 2px solid teal; */
-            border-radius: 10px;
-            overflow: hidden;
-            font-family: Arial, sans-serif;
-            box-shadow: 0 0 15px rgba(0, 0, 0, 0.4);
-        }
+        /* Basic styles for the notice container */
+.notice-container {
+    right: 20px;
+    top: 20%;
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    background: linear-gradient(90deg, #C7FFD8, #A1D6B2);
+    padding: 15px;
+    border-radius: 10px;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.4);
+    margin-bottom: 20px;
+}
 
-        .notices {
-            display: flex;
-            flex-direction: column;
-            animation: scrollNotices 12s linear infinite;
-        }
+/* Styling for the notices and individual notice */
+.notices {
+    display: flex;
+    flex-direction: column;
+    animation: scrollNotices 12s linear infinite;
+}
 
-        .notice {
-            background-color: #fff;
-            padding: 30px;
-           
-            border-radius: 5px;
-            margin-bottom: 15px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-            transition: transform 0.3s, box-shadow 0.3s;
-        }
+.notice {
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
 
-        .notice h2 {
-            margin: 0;
-            font-size: 18px;
-            color: #ff7e00;
-            line-height: 50px;
-            
-        }
+.notice h2 {
+    margin: 0;
+    font-size: 18px;
+    color: #ff7e00;
+    line-height: 1.4;
+}
 
-        .notice p {
-            margin: 5px 0 0;
-            font-size: 14px;
-            color: #333;
-            line-height: 50px;
-        }
-        .notice a{
-            line-height: 50px;
-        }
-        
+.notice p {
+    margin: 5px 0 0;
+    font-size: 14px;
+    color: #333;
+    line-height: 1.2;
+}
 
-        .notice:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.6);
-        }
-       
-        @keyframes scrollNotices {
-            0% {
-                transform: translateY(0);
-            }
+.notice a {
+    line-height: 1.4;
+}
 
-            100% {
-                transform: translateY(-100%);
-            }
-        }
+/* Hover effect */
+.notice:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.6);
+}
+
+/* Responsive image in the first column */
+.col-lg-6 img {
+    width: 100%;
+    height: 600px;
+    margin: 20px 0;
+}
+
+/* Scroll animation */
+@keyframes scrollNotices {
+    0% {
+        transform: translateY(0);
+    }
+    100% {
+        transform: translateY(-100%);
+    }
+}
+
+/* Responsive Styles */
+
+/* For smaller screens, up to 767px (mobile) */
+@media(max-width:1200px){
+    .notice-container {
+        max-width: 600px;
+        height: 450px;
+    }
+}
+
+@media (max-width: 767px) {
+    .notice-container {
+        width: 60%;
+        margin-left: 20%;
+        height: auto;
+        max-width: 100%;
+    }
+
+    /* Stack columns vertically */
+    .row {
+        flex-direction: column;
+    }
+
+    .col-lg-6 {
+        margin: 0 auto;
+    }
+
+    /* Adjust image size */
+    .col-lg-6 img {
+        width: 100%;
+        max-width: 300px;
+        margin: 20px auto;
+    }
+
+    /* Reduce padding for smaller screens */
+    .notice {
+        padding: 10px;
+        margin-bottom: 10px;
+    }
+
+    .notice h2 {
+        font-size: 16px;
+    }
+
+    .notice p {
+        font-size: 12px;
+    }
+
+    .notice a {
+        font-size: 14px;
+    }
+}
+
+/* For tablets, 768px to 991px */
+@media (min-width: 768px) and (max-width: 991px) {
+    .notice-container {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    /* Adjust column image size for tablets */
+    .col-lg-6 img {
+        width: 100%;
+        max-width: 450px;
+        margin: 20px auto;
+    }
+
+    /* Adjust notice size for tablets */
+    .notice h2 {
+        font-size: 17px;
+    }
+
+    .notice p {
+        font-size: 13px;
+    }
+
+    .notice a {
+        font-size: 14px;
+    }
+}
+
+/* For larger screens, 1200px and up */
+@media (min-width: 1200px) {
+    .notice-container {
+        max-width: 600px;
+        height: 800px;
+    }
+
+    /* Larger font size on larger screens */
+    .notice h2 {
+        font-size: 20px;
+    }
+
+    .notice p {
+        font-size: 16px;
+    }
+
+    .notice a {
+        font-size: 16px;
+    }
+}
+
     </style>
 </head>
 
