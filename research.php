@@ -14,6 +14,88 @@
     <link href="//fonts.googleapis.com/css2?family=Jost:wght@300;400;600;700&display=swap" rel="stylesheet">
     <!-- Template CSS -->
     <link rel="stylesheet" href="assets/css/style-starter.css">
+    <style>
+    .research-department {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 20px;
+    background: linear-gradient(135deg, #fdfbfb 0%, #ebedee 100%);
+    border-radius: 15px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.text-content {
+    max-width: 800px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.research-department h2 {
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.research-department h2::after {
+    content: '';
+    width: 80px;
+    height: 4px;
+    background-color: #ff7e5f;
+    display: block;
+    margin: 10px auto;
+    border-radius: 2px;
+}
+
+.intro, .details {
+    font-size: 18px;
+    line-height: 1.8;
+    color: #555;
+    margin-bottom: 15px;
+}
+
+.details {
+    font-size: 17px;
+    color: #666;
+}
+
+.research-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    width: 100%;
+}
+
+.gallery-item {
+    position: relative;
+    overflow: hidden;
+    border-radius: 15px;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+    background: #fff;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.gallery-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+    transition: transform 0.3s ease;
+}
+
+.gallery-item:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
+}
+
+.gallery-item:hover img {
+    transform: scale(1.1);
+}
+
+    </style>
 </head>
 
 <body>
@@ -46,6 +128,41 @@
         </div>
         
     </section>
+
+
+    <div class="research-department">
+    <div class="text-content">
+        <h2>Department of Research and Compilation</h2>
+        <p class="intro">
+            This department is dedicated to conducting research on various Islamic religious subjects and issues, 
+            particularly those confronting the Muslim Ummah in the modern world.
+        </p>
+        <p class="details">
+            Our research endeavors aim to provide religious benefits to the Muslim masses. 
+            With the grace of Allah, the department has published numerous significant works on a wide range of important Islamic subjects. 
+            The research is ongoing, covering several critical areas.
+        </p>
+    </div>
+    
+    <div class="research-gallery">
+        <div class="gallery-item">
+            <img src="image1.png" alt="Research Book 1">
+        </div>
+        <div class="gallery-item">
+            <img src="image2.png" alt="Research Book 2">
+        </div>
+        <div class="gallery-item">
+            <img src="image3.png" alt="Research Book 3">
+        </div>
+        <div class="gallery-item">
+            <img src="image4.png" alt="Research Book 4">
+        </div>
+        <div class="gallery-item">
+            <img src="image5.png" alt="Research Book 5">
+        </div>
+    </div>
+</div>
+
 
 
 
