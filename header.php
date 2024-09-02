@@ -24,7 +24,7 @@
     .nav-item.dropdown:hover .dropdown-menu {
         display: block;
         margin-top: 0;
-        background-color: rgba(255, 255, 255, 0.5);
+        background-color: rgba(255, 255, 255, 0.9);
         backdrop-filter: blur(10px);
         -webkit-backdrop-filter: blur(10px); 
         border: none; 
