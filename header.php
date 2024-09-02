@@ -14,7 +14,32 @@
     <link href="//fonts.googleapis.com/css2?family=Jost:wght@300;400;600;700&display=swap" rel="stylesheet">
     <!-- Template CSS -->
     <link rel="stylesheet" href="assets/css/style-starter.css">
+    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"> -->
 </head>
+
+
+<style>
+
+    .nav-item.dropdown:hover .dropdown-menu {
+        display: block;
+        margin-top: 0;
+        background-color: rgba(255, 255, 255, 0.5);
+        backdrop-filter: blur(10px);
+        -webkit-backdrop-filter: blur(10px); /* For Safari support */
+        border: none; /* Removes border */
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+
+    .nav-item.dropdown .dropdown-menu {
+        transition: all 0.3s ease-in-out;
+    }
+
+
+
+
+
+</style>
 
 <body>
 
@@ -50,9 +75,28 @@
                         <li class="nav-item <?php if (basename($_SERVER['PHP_SELF']) == 'about.php') echo 'active'; ?>">
                             <a class="nav-link" href="about.php">About</a>
                         </li>
-                        <li class="nav-item <?php if (basename($_SERVER['PHP_SELF']) == 'Department.php') echo 'active'; ?>">
+                        <!-- <li class="nav-item <?php if (basename($_SERVER['PHP_SELF']) == 'Department.php') echo 'active'; ?>">
                             <a class="nav-link" href="Department.php">Department</a>
+                        </li> -->
+
+                        <li class="nav-item dropdown <?php if (basename($_SERVER['PHP_SELF']) == 'Department.php') echo 'active'; ?>">
+                            <a class="nav-link dropdown-toggle" href="#" id="departmentDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Department
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="departmentDropdown">
+                                <a class="dropdown-item" href="Educational_Department.php">Educational Departments</a>
+                                <a class="dropdown-item" href="Library.php">Library</a>
+                                <a class="dropdown-item" href="Preaching.php">Preaching</a>
+                                <a class="dropdown-item" href="Publication.php">Publication</a>
+                                <a class="dropdown-item" href="research.php">Research</a>
+                                <a class="dropdown-item" href="Virtual-Bookshelf.php">Virtual Bookshelf</a>
+                                <a class="dropdown-item" href="otherdepartment.php">Other Departments</a>
+                                
+                            </div>
                         </li>
+
+
+
                         <li class="nav-item <?php if (basename($_SERVER['PHP_SELF']) == 'Gallery.php') echo 'active'; ?>">
                             <a class="nav-link" href="Gallery.php">Gallery</a>
                         </li>
