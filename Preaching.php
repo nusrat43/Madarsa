@@ -131,8 +131,11 @@ h2 {
     justify-content: space-between;
     gap: 20px;
     flex-wrap: wrap;
-    
+   
+   
 }
+    
+
 
 .card {
     background: skyblue;
@@ -173,6 +176,7 @@ h2 {
     color: #777;
     font-size: 1em;
     line-height: 1.6;
+    
 }
 @media (max-width: 768px) {
     .card {
