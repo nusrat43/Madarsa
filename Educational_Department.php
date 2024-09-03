@@ -35,7 +35,7 @@
           </div>
           <div class="w3breadcrumb-right">
             <ul class="breadcrumbs-custom-path">
-              <li><a href="index.html">Home</a></li>
+              <li><a href="index.php">Home</a></li>
               <li class="active"><span class="fas fa-angle-double-right mx-2"></span>Educational department</li>
             </ul>
           </div>

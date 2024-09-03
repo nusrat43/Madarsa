@@ -44,6 +44,10 @@
         .pub{
             text-align: justify;
         }
+        .head{
+            border-bottom: 3px solid #1abc9c;
+            padding: 20px;
+        }
     </style>
 </head>
 <body>
@@ -68,7 +72,7 @@
           </div>
           <div class="w3breadcrumb-right">
             <ul class="breadcrumbs-custom-path">
-              <li><a href="index.html">Home</a></li>
+              <li><a href="index.php">Home</a></li>
               <li class="active"><span class="fas fa-angle-double-right mx-2"></span>Publication</li>
             </ul>
           </div>
@@ -79,10 +83,10 @@
     <section class="departments">
             <!-- <h2 class="dept">Other Departments at Jamia</h2><br> -->
 
-            <div class="department">
+            <div >
                 <center>
-                    <h3>
-                    ✷  Department of Publication  ✷</h3><center><br>
+                    <h1 class="head">
+                      Department of Publication  </h1><center><br>
                 
             </div>
 

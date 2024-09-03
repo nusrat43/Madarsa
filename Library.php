@@ -32,12 +32,11 @@
             <h2 class="title AboutPageBanner">
               Library </h2>
             <p class="inner-page-para mt-2">
-              Learn Anytime, Anywhere.
-              Accelerate Your Future.</p> 
+            A library is a sanctuary of knowledge, offering access to a vast collection of resources for learning, exploration, and intellectual growth.</p> 
           </div>
           <div class="w3breadcrumb-right">
             <ul class="breadcrumbs-custom-path">
-              <li><a href="index.html">Home</a></li>
+              <li><a href="index.php">Home</a></li>
               <li class="active"><span class="fas fa-angle-double-right mx-2"></span> Library</li>
             </ul>
           </div>

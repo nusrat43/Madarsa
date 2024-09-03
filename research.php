@@ -17,7 +17,7 @@
     <style>
         .research-department {
             max-width: 1200px;
-            margin: 0 auto;
+            margin: 50px auto;
             padding: 40px 20px;
             background: linear-gradient(135deg, #fdfbfb 0%, #ebedee 100%);
             border-radius: 15px;
@@ -31,13 +31,13 @@
         .text-content {
             max-width: 800px;
             text-align: center;
-            margin-bottom: 40px;
+          
         }
 
         .research-department h2 {
             font-size: 36px;
             color: #333;
-            margin-bottom: 20px;
+         
             position: relative;
         }
 
@@ -67,6 +67,10 @@
         .Gallery {
             display: flex;
         }
+        .Gallery1{
+            display: flex;
+            margin: auto;
+        }
 
         .research-gallery {
             display: grid;
@@ -78,6 +82,7 @@
         .gallery-item {
             position: relative;
             overflow: hidden;
+            margin: 30px;
             border-radius: 15px;
             box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
             background: #fff;
@@ -89,6 +94,14 @@
             height: auto;
             border-radius: 15px;
             transition: transform 0.3s ease;
+        } 
+        .Gallery1 .gallery-item1 img {
+            width: 200px;
+            height: 200px;
+            height: auto;
+            border-radius: 15px;
+            transition: transform 0.3s ease;
+            margin: 50px;
         }
 
         .gallery-item:hover {
@@ -149,11 +162,11 @@
 
         <div class="research-gallery">
 
-            <div class="Gallery">
-                <div class="gallery-item">
+            <div class="Gallery1 ">
+                <div class="gallery-item1">
                     <img src="assets/images/reimg.jpg" alt="Research Book 1">
                 </div>
-                <div class="gallery-item">
+                <div class="gallery-item1">
                     <img src="assets/images/re_img2.jpg" alt="Research Book 5">
                 </div>
             </div>

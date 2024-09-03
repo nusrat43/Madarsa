@@ -87,12 +87,11 @@
                             <div class="dropdown-menu" aria-labelledby="departmentDropdown">
                                 <a class="dropdown-item" href="Educational_Department.php">Educational Departments</a>
                                 <a class="dropdown-item" href="Library.php">Library</a>
-                                <a class="dropdown-item" href="Preaching.php">Preaching</a>
-                                <a class="dropdown-item" href="Publication.php">Publication</a>
-                                <a class="dropdown-item" href="research.php">Research</a>
                                 <a class="dropdown-item" href="Virtual-Bookshelf.php">Virtual Bookshelf</a>
+                                <a class="dropdown-item" href="research.php">Research</a>
+                                <a class="dropdown-item" href="Publication.php">Publication</a>
+                                <a class="dropdown-item" href="Preaching.php">Preaching</a>
                                 <a class="dropdown-item" href="otherdepartment.php">Other Departments</a>
-                                
                             </div>
                         </li>
 

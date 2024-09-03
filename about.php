@@ -50,7 +50,7 @@
           </div>
           <div class="w3breadcrumb-right">
             <ul class="breadcrumbs-custom-path">
-              <li><a href="index.html">Home</a></li>
+              <li><a href="index.php">Home</a></li>
               <li class="active"><span class="fas fa-angle-double-right mx-2"></span> About Us</li>
             </ul>
           </div>
@@ -109,12 +109,12 @@
   <section class="w3l-features py-5" id="work">
     <div class="container py-lg-5 py-md-4 py-2">
       <div class="row main-cont-wthree-2 align-items-center">
-        <div class="col-lg-6 feature-grid-left pr-lg-5 container border py-3 my-3">
+        <div class="col-lg-6 feature-grid-left pr-lg-5 container  py-3 my-3">
           <!-- <h5 class="title-subw3hny">Why Choose Us</h5> -->
           <h3 class="title-w3l mb-4">Aims and Objectives</h3>
           <p class="text-para" style="text-align: justify;">Jamia Rabbani is dedicated to promoting the true teachings of Islam as outlined in the Quran and Sunnah, following the understanding of the Prophet’s Companions and their successors. It aims to reform and reconstruct society according to Islamic principles, addressing modern challenges with a blend of traditional and contemporary education.  Jamia Rabbani emphasizes the importance of religious education for Muslim women to foster Islamic awakening. 
           </p>
-          <a href="about.html" class="btn btn-style btn-primary mt-lg-5 mt-4">Read More</a>
+          <!-- <a href="about.html" class="btn btn-style btn-primary mt-lg-5 mt-4">Read More</a> -->
         </div>
         <div class="col-lg-6 feature-grid-right mt-lg-0 mt-5 pl-lg-5">
           <div class="call-grids-w3 d-grid">

@@ -29,8 +29,7 @@
             <h2 class="title AboutPageBanner">
               Contact Us </h2>
             <p class="inner-page-para mt-2">
-              Learn Anytime, Anywhere.
-              Accelerate Your Future.</p>
+            Get in touch with us and find answers to your questions.</p>
           </div>
           <div class="w3breadcrumb-right">
             <ul class="breadcrumbs-custom-path">

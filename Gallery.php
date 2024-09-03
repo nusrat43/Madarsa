@@ -75,6 +75,13 @@
             grid-gap: 30px;
             align-items: center;
         }
+        .head{
+            font-size: 24px;
+            border-bottom: 3px solid #1abc9c; 
+            padding:20px;
+           
+           
+        }
     </style>
 </head>
 
@@ -118,10 +125,9 @@
     <div class="container-fluid pt-5 pb-3">
         <div class="container">
             <div class="text-center pb-2">
-                <p class="section-title px-5">
-                    <span class="px-2">Our Gallery</span>
-                </p>
+                    <h1 class="head" >Our Gallery</h1><br>
                 <h1 class="mb-4">Jamia Rabbani Gallery</h1>
+                <br>
             </div>
             <div class="row">
                 <div class="col-12 text-center mb-2">

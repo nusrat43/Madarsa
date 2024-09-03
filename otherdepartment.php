@@ -12,77 +12,8 @@
     <link href="//fonts.googleapis.com/css2?family=Jost:wght@300;400;600;700&display=swap" rel="stylesheet">
     <!-- Template CSS -->
     <link rel="stylesheet" href="assets/css/style-starter.css">
-</head>
-<body>
-
-    <!-- header -->
-
-    
-    <?php     include 'header.php' ?>
-
-    <!--/header-->
-
-    <section class="w3l-about-breadcrumb text-center">
-    <div class="breadcrumb-bg breadcrumb-bg-about py-5">
-      <div class="container py-lg-5 py-md-4">
-        <div class="w3breadcrumb-gids">
-          <div class="w3breadcrumb-left text-left">
-            <h2 class="title AboutPageBanner">
-            Other Department </h2>
-          
-          </div>
-          <div class="w3breadcrumb-right">
-            <ul class="breadcrumbs-custom-path">
-              <li><a href="index.html">Home</a></li>
-              <li class="active"><span class="fas fa-angle-double-right mx-2"></span>Preaching</li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-    <main>
-        <section class="departments">
-            <h2 class="dept">Other Departments at Jamia</h2><br>
-
-            <div class="department">
-                <center>
-                    <h3>
-                        <img src="assets/images/darul.png" height="40px" width="40px"> Darul Ifta   </h3><center><br>
-                <p>For the religious guidance of the Muslim masses in every-day problems, the Jamia has established the Darul-Ifta. The Darul-Ifta offers solutions to the queries of the Muslims in the light of the Islamic Shariat.</p>
-            </div>
-
-            <div class="department with-image">
-                <div class="content">
-                <div>
-                <h3>Matbakh (Kitchen System)</h3>
-                        <p>Since the Jamia is a residential institution of the religious learning it has a well-managed kitchen system which is responsible for the preparation and provision of the food for a number of three hundred odd hostler students and the members of the teaching and non-teaching staff. The food, lodging and education are provided free of cost. Also, the Jamia offers monthly stipends to the ready students as well.</p>
-                    </div>
-                    <img src="assets/images/WhatsApp Image 2024-08-23 at 23.54.14_793fd6ac.jpg" alt="Tahzibul-Bayan">
-                    
-                </div>
-            </div>
-
-            <div class="department with-image">
-                <div class="content">
-                    <img src="assets/images/s-pic3.jpg" alt="Tahzibul-Bayan">
-                    <div>
-                        <h3>Tahzibul-Bayan</h3>
-                        <p>In order to prepare the students for a better service of the Muslim Community and the country at large, and to improve and sharpen their literary taste, the Jamia has established the Anjuman Tahzeebul Bayan. Under the care of the Anjuman, the students take part in weekly programs of orations in Urdu, Arabic, Persian, English Languages, verse-recitation, Naat (Praising the Holy Prophet in verse), and Quranic and Hadith words of God-remembrance. The Anjuman also holds its yearly cultural and informative programs in which the students of the Jamia are given opportunities to demonstrate their writing and orational capabilities before the general Muslims attending the programs.</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="department">
-                <h3>Imdadul Muslimin</h3>
-                <p>This department is intended to solve the financial problems of the needy Muslims and widows. It offers monthly assistance to a number of poor, disabled, and indigent local Muslims and widows. It also offers assistance, within the range of its limited scope of means, at the occasion of the marriage of poor Muslim girls. This department is proving very useful for general Muslims.</p>
-            </div>
-        </section>
-    </main>
-
-<style>
-
+    <style>
+        
 .departments{
     max-width: 1100px;
     margin: 40px auto;
@@ -189,10 +120,77 @@ p {
     border-bottom: 3px solid #1abc9c;
 }
 
+    </style>
+</head>
+<body>
+
+    <!-- header -->
+
+    
+    <?php     include 'header.php' ?>
+
+    <!--/header-->
+
+    <section class="w3l-about-breadcrumb text-center">
+    <div class="breadcrumb-bg breadcrumb-bg-about py-5">
+      <div class="container py-lg-5 py-md-4">
+        <div class="w3breadcrumb-gids">
+          <div class="w3breadcrumb-left text-left">
+            <h2 class="title AboutPageBanner">
+            Other Department </h2>
+          
+          </div>
+          <div class="w3breadcrumb-right">
+            <ul class="breadcrumbs-custom-path">
+              <li><a href="index.php">Home</a></li>
+              <li class="active"><span class="fas fa-angle-double-right mx-2"></span>Preaching</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+    <main>
+        <section class="departments">
+            <h2 class="dept">Other Departments at Jamia</h2><br>
+
+            <div class="department">
+                <center>
+                    <h3>
+                        <img src="assets/images/darul.png" height="40px" width="40px"> Darul Ifta   </h3><center><br>
+                <p>For the religious guidance of the Muslim masses in every-day problems, the Jamia has established the Darul-Ifta. The Darul-Ifta offers solutions to the queries of the Muslims in the light of the Islamic Shariat.</p>
+            </div>
+
+            <div class="department with-image">
+                <div class="content">
+                <div>
+                <h3>Matbakh (Kitchen System)</h3>
+                        <p>Since the Jamia is a residential institution of the religious learning it has a well-managed kitchen system which is responsible for the preparation and provision of the food for a number of three hundred odd hostler students and the members of the teaching and non-teaching staff. The food, lodging and education are provided free of cost. Also, the Jamia offers monthly stipends to the ready students as well.</p>
+                    </div>
+                    <img src="assets/images/WhatsApp Image 2024-08-23 at 23.54.14_793fd6ac.jpg" alt="Tahzibul-Bayan">
+                    
+                </div>
+            </div>
+
+            <div class="department with-image">
+                <div class="content">
+                    <img src="assets/images/s-pic3.jpg" alt="Tahzibul-Bayan">
+                    <div>
+                        <h3>Tahzibul-Bayan</h3>
+                        <p>In order to prepare the students for a better service of the Muslim Community and the country at large, and to improve and sharpen their literary taste, the Jamia has established the Anjuman Tahzeebul Bayan. Under the care of the Anjuman, the students take part in weekly programs of orations in Urdu, Arabic, Persian, English Languages, verse-recitation, Naat (Praising the Holy Prophet in verse), and Quranic and Hadith words of God-remembrance. The Anjuman also holds its yearly cultural and informative programs in which the students of the Jamia are given opportunities to demonstrate their writing and orational capabilities before the general Muslims attending the programs.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="department">
+                <h3>Imdadul Muslimin</h3>
+                <p>This department is intended to solve the financial problems of the needy Muslims and widows. It offers monthly assistance to a number of poor, disabled, and indigent local Muslims and widows. It also offers assistance, within the range of its limited scope of means, at the occasion of the marriage of poor Muslim girls. This department is proving very useful for general Muslims.</p>
+            </div>
+        </section>
+    </main>
 
 
-
-</style>
  
  
 

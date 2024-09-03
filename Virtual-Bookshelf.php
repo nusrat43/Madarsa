@@ -16,7 +16,7 @@
             display: flex;
             justify-content: center;
             flex-wrap: wrap;
-            justify-content: space-evenly;
+            justify-content: space-around;
             margin: 50px;
         }
 
@@ -93,7 +93,13 @@
         .team-member:hover .social-icons a {
             color: white;
         }
-
+        .head h1{
+            text-align: center;
+            font-weight: bolder;
+            padding: 10px;
+            padding-top: 70px;
+            border-bottom: 3px solid #1abc9c;
+        }
 
         @media (min-width: 840px) {
     .team-container {
@@ -160,8 +166,10 @@
         </div>
     </section>
 
+       <div class="head"><h1>Virtual Bookshelf</h1></div><br><br>
+     
 
-    <!-- <div class="team-container"> -->
+    <div class="team-container">
         <div class="team-member">
             <div class="team-card">
                 <img src="assets/images/book1.png" alt="Madison" class="team-photo">
@@ -206,10 +214,10 @@
                 </div>
             </div>
         </div>
-    <!-- </div> -->
+    </div>
 
 
-    <!-- <div class="team-container"> -->
+    <div class="team-container">
         <div class="team-member">
             <div class="team-card">
                 <img src="assets/images/book5.png" alt="Madison" class="team-photo">
@@ -255,10 +263,10 @@
                 </div>
             </div>
         </div>
-    <!-- </div> -->
+    </div>
 
 
-    <!-- <div class="team-container"> -->
+    <div class="team-container">
         <div class="team-member">
             <div class="team-card">
                 <img src="assets/images/book9.png" alt="Madison" class="team-photo">
@@ -306,10 +314,10 @@
                 </div>
             </div>
         </div>
-    <!-- </div>
+     </div>
 
 
-    <div class="team-container"> -->
+    <div class="team-container"> 
         <div class="team-member">
             <div class="team-card">
                 <img src="assets/images/book13.png" alt="Madison" class="team-photo">
@@ -356,10 +364,10 @@
                 </div>
             </div>
         </div>
-    <!-- </div>
+    </div>
 
 
-    <div class="team-container"> -->
+    <div class="team-container">
         <div class="team-member">
             <div class="team-card">
                 <img src="assets/images/book17.png" alt="Madison" class="team-photo">
@@ -402,8 +410,8 @@
                 </div>
             </div>
         </div>
-    <!-- </div>
-    <div class="team-container"> -->
+    </div>
+    <div class="team-container">
         <div class="team-member">
             <div class="team-card">
                 <img src="assets/images/book21.png" alt="Harper" class="team-photo">
@@ -447,8 +455,8 @@
             </div>
         </div>
 
-    <!-- </div>
-    <div class="team-container"> -->
+    </div>
+    <div class="team-container">
         <div class="team-member">
             <div class="team-card">
                 <img src="assets/images/book25.png" alt="Harper" class="team-photo">
@@ -490,8 +498,8 @@
                 </div>
             </div>
         </div>
-    <!-- </div>
-    <div class="team-container"> -->
+    </div>
+    <div class="team-container">
         <div class="team-member">
             <div class="team-card">
                 <img src="assets/images/book29.png" alt="Harper" class="team-photo">
@@ -533,8 +541,8 @@
                 </div>
             </div>
         </div>
-    <!-- </div>
-    <div class="team-container"> -->
+    </div>
+    <div class="team-container">
         <div class="team-member">
             <div class="team-card">
                 <img src="assets/images/book33.png" alt="Harper" class="team-photo">
@@ -575,8 +583,8 @@
                 </div>
             </div>
         </div>
-    <!-- </div>
-    <div class="team-container"> -->
+    </div>
+    <div class="team-container">
         <div class="team-member">
             <div class="team-card">
                 <img src="assets/images/book37.png" alt="Harper" class="team-photo">
@@ -619,9 +627,9 @@
                 </div>
             </div>
         </div>
-    <!-- </div>
+    </div>
 
-    <div class="team-container"> -->
+    <div class="team-container">
         <div class="team-member">
             <div class="team-card">
                 <img src="assets/images/book41.png" alt="Madison" class="team-photo">
@@ -665,9 +673,9 @@
                 </div>
             </div>
         </div>
-    <!-- </div>
+    </div>
 
-    <div class="team-container"> -->
+    <div class="team-container">
         <div class="team-member">
             <div class="team-card">
                 <img src="assets/images/book45.png" alt="Madison" class="team-photo">
@@ -712,9 +720,9 @@
                 </div>
             </div>
         </div>
-    <!-- </div>
+    </div>
 
-    <div class="team-container"> -->
+    <div class="team-container">
         <div class="team-member">
             <div class="team-card">
                 <img src="assets/images/book49.png" alt="Madison" class="team-photo">
@@ -758,9 +766,9 @@
                 </div>
             </div>
         </div>
-    <!-- </div>
+    </div>
 
-    <div class="team-container"> -->
+    <div class="team-container">
         <div class="team-member">
             <div class="team-card">
                 <img src="assets/images/book53.png" alt="Madison" class="team-photo">
@@ -804,9 +812,9 @@
                 </div>
             </div>
         </div>
-    <!-- </div>
+    </div>
 
-    <div class="team-container"> -->
+    <div class="team-container">
         <div class="team-member">
             <div class="team-card">
                 <img src="assets/images/book57.png" alt="Madison" class="team-photo">
@@ -850,8 +858,8 @@
                 </div>
             </div>
         </div>
-    <!-- </div>
-    <div class="team-container"> -->
+    </div>
+    <div class="team-container">
         <div class="team-member">
             <div class="team-card">
                 <img src="assets/images/book61.png" alt="Madison" class="team-photo">
@@ -862,7 +870,7 @@
                 </div>
             </div>
         </div>
-    <!-- </div> -->
+    </div>
 
 
 

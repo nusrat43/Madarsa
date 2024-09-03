@@ -70,15 +70,15 @@
             <div class="grids-area-hny row text-left pt-lg-5 mt-lg-5">
                 <div class="col-lg-4 col-md-6 grids-feature pr-lg-5">
                     <div class="area-box">
-                        <span class="fas fa-users"></span>
+                        <img src="assets/images/stab_icon.png" alt="" width="70px">
                         <h4><a href="#feature" class="title-head">Establishment-1998(1419AH)</a></h4>
                         <p><b>Jamia Rabbani</b> On 8 Jamadial Thaniya 1419, corresponding to October 1st, 1998, Maulana Mufti Akhtar Imam Adil Qasmi laid the foundation stone of Jamia Rabbani at the historic site, under the aegis of Khanqah Naqshband.</p>
 
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 grids-feature mt-md-0 mt-5">
+                <div class="col-lg-4 col-md-6 grids-feature mt-md-0 mt-5">w
                     <div class="area-box">
-                        <span class="fas fa-laptop-code"></span>
+                       <img src="assets/images/Founder.png" alt="" width="50px">
                         <h4><a href="#feature" class="title-head">Founder and Recter </a>
                         </h4>
                         <p> <b>Hazrat Maulana Mufti Akhtar Imam Adil Qasmi</b> is a respected Islamic scholar and leader of the Naqshbandi Sufi order. He is known for his deep knowledge of Islamic law and spirituality, and he played a key role in establishing Jamia Rabbani to promote Islamic education.</p>
@@ -87,7 +87,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 grids-feature mt-lg-0 mt-5 pl-lg-5">
                     <div class="area-box">
-                        <span class="fas fa-book-open"></span>
+                        <img src="assets/images/supreme.png" alt="" width="50px" style="color: red;">
                         <h4><a href="#feature" class="title-head">Supreme</a></h4>
                         <p><b>Hazrat Maulana Mahfuzur Rahman Qadri Naqshbandi</b> is the supreme leader of Jamia Rabbani, Samastipur, and a prominent Naqshbandi Sufi guide. He is respected for his deep Islamic knowledge and spiritual teachings, which have inspired many.</p>
                     </div>
@@ -103,11 +103,10 @@
                 <div class="row cwp23-grids align-items-center">
                     <div class="col-lg-6">
                         <h5 class="title-subw3hny">About Us</h5>
-                        <h3 class="title-w3l">Find courses on almost any <span class="inn-text">Topic</span></h3>
-                        <h6 class="mt-md-4 mt-md-5 mt-4">Build your library for your career
-                            <br>and personal growth
-                        </h6>
-                        <a href="about.html" class="btn btn-style btn-primary mt-lg-5 mt-4">View Courses</a>
+                        <h3 class="title-w3l">Jamia Rabbani: Guiding the Next Generation of Islamic Scholars</h3>
+                        <p class="mt-md-4 mt-md-5 mt-4">With a mission to cultivate the next generation of Islamic scholars, Jamia Rabbani provides a nurturing environment where students can grow intellectually and spiritually, preparing them to meet the challenges of the modern world with wisdom and faith
+                        </p>
+                        <a href="Gallery.php" class="btn btn-style btn-primary mt-lg-5 mt-4">View More Images</a>
                     </div>
                     <div class="HomeAboutImages col-lg-6 mt-lg-0 mt-5 pl-lg-5">
                         <div class="cwp23-text-cols row">
@@ -156,7 +155,7 @@
             <div class="row stats-con py-lg-0 py-5">
                 <div class="col-lg-6 stats-content-right mb-lg-0 mb-lg-5 mb-2">
                     <a href="#service" class="d-block zoom"><img src="assets/images/whatsApp.jpg" alt=""
-                            class="img-fluid" /></a>
+                            class="img-fluid" ></a>
                 </div>
                 <div class="col-lg-6 stats-content-left pl-lg-5">
 
@@ -168,8 +167,8 @@
 
                             <h4>
                                 Number of total students</h4>
-                            <p class="para-stat">Lorem ipsum viverra feugiat. Pellen tesque libero ut justo,
-                                ultrices in ligula.</p>
+                            <!-- <p class="para-stat">Lorem ipsum viverra feugiat. Pellen tesque libero ut justo,
+                                ultrices in ligula.</p> -->
                         </div>
                     </div>
                     <div class="stats_info counter_grid text-left mt-lg-5 mt-4">
@@ -179,8 +178,8 @@
                         <div class="stat-icon-des">
 
                             <h4>Resident students </h4>
-                            <p class="para-stat">Lorem ipsum viverra feugiat. Pellen tesque libero ut justo,
-                                ultrices in ligula.</p>
+                            <!-- <p class="para-stat">Lorem ipsum viverra feugiat. Pellen tesque libero ut justo,
+                                ultrices in ligula.</p> -->
                         </div>
                     </div>
                     <div class="stats_info counter_grid text-left mt-lg-5 mt-4">
@@ -190,8 +189,8 @@
                         <div class="stat-icon-des">
 
                             <h4>Teaching staff </h4>
-                            <p class="para-stat">Lorem ipsum viverra feugiat. Pellen tesque libero ut justo,
-                                ultrices in ligula.</p>
+                            <!-- <p class="para-stat">Lorem ipsum viverra feugiat. Pellen tesque libero ut justo,
+                                ultrices in ligula.</p> -->
                         </div>
 
                     </div>
@@ -206,16 +205,16 @@
         <!-- /grids -->
         <div class="cusrtomer-layout py-5">
             <div class="container py-lg-4 py-md-3 py-2 pb-lg-0">
-                <h5 class="title-subw3hny text-center mb-1">Reviews</h5>
+                <!-- <h5 class="title-subw3hny text-center mb-1">Reviews</h5>
                 <h3 class="title-w3l two text-center mb-sm-5 mb-4">Happy Clients & <span
-                        class="inn-text">Feedbacks</span></h3>
+                        class="inn-text">Feedbacks</span></h3> -->
                 <!-- /grids -->
                 <div class="testimonial-width">
                     <div class="owl-two row">
                         <div class="col-lg-4 col-md-6 item mt-md-5 mt-4">
                             <div class="testimonial-content">
                                 <div class="testimonial">
-                                    <i class="fas fa-quote-right"></i>
+                                    <!-- <i class="fas fa-quote-right"></i>
                                     <blockquote>
                                         <q>Lorem ipsum dolor sit amet elit. Velit beatae
                                             laudantium
@@ -228,14 +227,14 @@
                                             <p class="indentity">Example City</p>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 item mt-md-5 mt-4">
                             <div class="testimonial-content">
                                 <div class="testimonial">
-                                    <i class="fas fa-quote-right"></i>
-                                    <blockquote>
+                                    <!-- <i class="fas fa-quote-right"></i> -->
+                                    <!-- <blockquote>
                                         <q>Lorem ipsum dolor sit amet elit. Velit beatae
                                             laudantium
                                             voluptate rem ullam dolore nisi voluptatibus esse quasi, doloribus
@@ -247,14 +246,16 @@
                                             <p class="indentity">Example City</p>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
+                        <br>
+                        <br><br><br><br><br>
                         <div class="col-lg-4 col-md-6 item mt-md-5 mt-4">
                             <div class="testimonial-content">
                                 <div class="testimonial">
-                                    <i class="fas fa-quote-right"></i>
-                                    <blockquote>
+                                    <!-- <i class="fas fa-quote-right"></i> -->
+                                    <!-- <blockquote>
                                         <q>Lorem ipsum dolor sit amet elit. Velit beatae
                                             laudantium
                                             voluptate rem ullam dolore nisi voluptatibus esse quasi, doloribus
@@ -265,7 +266,7 @@
                                             <h3>Roy Linderson</h3>
                                             <p class="indentity">Example City</p>
                                         </div>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                         </div>
