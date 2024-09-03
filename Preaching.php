@@ -49,7 +49,13 @@
 
   <main>
         <section class="department-info">
-            <h1>Tabligh and Preaching Department</h1>
+        <div class="department">
+                
+                
+            
+            <h2>Tabligh and Preaching Department</h2>
+</div>
+
             <p>This department is intended to effect religious and social reform to the Muslim society and to fight the social and moral evils gaining foothold into the Muslim societies. This department gets notice of such evils. The ulama and the orators of the Jamia, from time to time, undertake visits to different areas for the purpose of reform and admonition.</p>
             
             <div class="card-container">
@@ -72,18 +78,26 @@
     </main>
 
 <style>
+    
 main {
     padding: 40px 20px;
     max-width: 1100px;
     margin: 0 auto;
 }
+h2 {
+    font-family:  serif;
+    font-size: 2em;
+    margin-bottom: 10px;
+    color: #2c3e50;
+}
 
 .department-info {
-    background: #fff;
+    /* background: #fff; */
     padding: 20px;
     box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
     border-radius: 12px;
     text-align: center;
+    color: #333;
 }
 
 .department-info h1 {
@@ -117,7 +131,11 @@ main {
     justify-content: space-between;
     gap: 20px;
     flex-wrap: wrap;
+   
+   
 }
+    
+
 
 .card {
     background: skyblue;
@@ -143,12 +161,14 @@ main {
 
 .card-content {
     padding: 20px;
+
 }
 
 .card-content h3 {
     margin: 0 0 10px;
     color: #333;
     font-size: 1.5em;
+    
 }
 
 .card-content p {
@@ -156,6 +176,7 @@ main {
     color: #777;
     font-size: 1em;
     line-height: 1.6;
+    
 }
 @media (max-width: 768px) {
     .card {
@@ -197,6 +218,7 @@ main {
         font-size: 0.9em;
     }
 }
+
 </style>
 
   
