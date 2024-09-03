@@ -51,7 +51,7 @@
             <nav class="navbar navbar-expand-lg navbar-dark stroke">
                 <h1>
                     <img src="assets/images/logo.png" height="60px" width="60px">
-                    <a class="navbar-brand" href="index.html">
+                    <a class="navbar-brand" href="index.php">
                         Jamia Rabbani </a>
 
                 </h1>
@@ -76,9 +76,6 @@
                         <li class="nav-item <?php if (basename($_SERVER['PHP_SELF']) == 'about.php') echo 'active'; ?>">
                             <a class="nav-link" href="about.php">About</a>
                         </li>
-                        <!-- <li class="nav-item <?php if (basename($_SERVER['PHP_SELF']) == 'Department.php') echo 'active'; ?>">
-                            <a class="nav-link" href="Department.php">Department</a>
-                        </li> -->
 
                         <li class="nav-item dropdown <?php if (basename($_SERVER['PHP_SELF']) == 'Department.php') echo 'active'; ?>">
                             <a class="nav-link dropdown-toggle" href="#" id="departmentDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
