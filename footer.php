@@ -35,13 +35,11 @@
             margin-left: -20px;
         }
 
-        .columns-2 img{
+        .columns-2 img {
             height: 80px;
             width: 80px;
             padding: 10px;
         }
-
-        
     </style>
 </head>
 
@@ -66,9 +64,10 @@
 
                             </div>
                         </div>
+                        <p><a href="news.php"  style="color:#ff9900">News |</a> <a href="assets/images/books/ishtehar.pdf"  style="color:#ff9900">Ishtehar |</a> <a href="assets/images/books/apeel.pdf"  style="color:#ff9900">Apeel |</a><a href="calendar.php"  style="color:#ff9900"> Yearly Calendar</a></p>
                     </div>
                     <div class="col-lg-2 col-md-6 sub-two-right pl-lg-5">
-                        <h6>Useful Links</h6>
+                        <h6>Quick Links</h6>
                         <ul>
                             <li><a href="index.php"><span class="fas fa-chevron-right mr-2"></span>Home</a>
                             </li>
@@ -78,7 +77,7 @@
                             <li><a href="Virtual-Bookshelf.php"><span class="fas fa-chevron-right mr-2"></span>Virtual Bookshelf</a></li>
                             <li><a href="Gallery.php"><span class="fas fa-chevron-right mr-2"></span>Gallery</a></li>
                             <li><a href="Visitors.php"><span class="fas fa-chevron-right mr-2"></span>Visitors</a></li>
-                            <li><a href="contact.html"><span class="fas fa-chevron-right mr-2"></span>Contact</a></li>
+                            <li><a href="contact.php"><span class="fas fa-chevron-right mr-2"></span>Contact</a></li>
                         </ul>
                     </div>
                     <div class="col-lg-3 col-md-6 sub-two-right pl-lg-5 mt-md-0 mt-4">
@@ -91,6 +90,7 @@
                             </li>
                             <li><a href="#support"><span class="material-symbols-outlined"> mail</span> jamiarabbani@rediffmail.com</a>
                             </li>
+
                         </ul>
                     </div>
                     <div class="col-lg-3 col-md-6 sub-two-right mt-md-0 mt-4">
@@ -108,13 +108,15 @@
                             <div class="column col-6">
                                 <div class="column-w3-img position-relative">
                                     <a href="#"><img src="assets/images/madarsa1.jpg" alt=""
-                                            class="radius-image img-fluid"></a>                                   
+                                            class="radius-image img-fluid"></a>
                                 </div>
                                 <div class="column-w3-img position-relative mt-4">
                                     <a href="#"><img src="assets/images/madarsa2.jpg" alt=""
                                             class="radius-image img-fluid"></a>
                                 </div>
-                            </div>
+                            </div><br> <br>
+                            <!-- <p style="margin-top: 50px;  margin-left:150px;"  ><a href="AdminLogin.php" style="color:#ff9900"><i class='fas fa-user-alt'></i> Admin Login</a></p> -->
+                           
 
                         </div>
                     </div>
@@ -131,8 +133,8 @@
                     <!-- <p>© 2021 Edukator. All rights reserved.Design by<a href="https://w3layouts.com/" target="_blank">
                             W3layouts</a>
                     </p> -->
-                    <p>2024 Jamia Rabbani. All rights reserved.Design by<a href="https://w3layouts.com/" target="_blank">
-                            S S System W3layouts </a>
+                    <p>2024 Jamia Rabbani. All rights reserved.Design by<a href="https://ssspatna.com/" target="_blank">
+                            S S System Pvt Ltd. </a>| <a href="AdminLogin.php">Admin Login</a>
                     </p>
                 </div>
             </div>
@@ -144,7 +146,7 @@
 
 
 
-
+    <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
 
 
     <!-- Js scripts -->

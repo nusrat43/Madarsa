@@ -14,17 +14,18 @@
     <link href="//fonts.googleapis.com/css2?family=Jost:wght@300;400;600;700&display=swap" rel="stylesheet">
     <!-- Template CSS -->
     <style>
-       
-       .calcaard{
+        .calcaard {
             display: flex;
-            flex-wrap:nowrap;
-            justify-content:space-evenly;
-       }
+            flex-wrap: nowrap;
+            justify-content: space-evenly;
+            padding-top: 50px;
+            padding-bottom: 50px;
+        }
+
         .calendar-container {
-            /* display: grid;
-            grid-template-columns: repeat(2, 1fr); */
-            
            
+
+
             gap: 20px;
             padding: 20px;
             background-color: white;
@@ -33,7 +34,7 @@
         }
 
         .calendar-item {
-            width:300px;
+            width: 300px;
             height: 350px;
             position: relative;
             overflow: hidden;
@@ -43,7 +44,7 @@
             margin: 10px;
         }
 
-        .calendar-item  img {
+        .calendar-item img {
             width: 100%;
             /* height: auto; */
             transition: transform 0.3s;
@@ -71,20 +72,18 @@
     <!--/header-->
 
     <section class="w3l-about-breadcrumb text-center">
-        <div class="breadcrumb-bg breadcrumb-bg-about py-5">
+        <div class="breadcrumb-bg breadcrumb-bg-about py-5 main-content-top">
             <div class="container py-lg-5 py-md-4">
                 <div class="w3breadcrumb-gids">
                     <div class="w3breadcrumb-left text-left">
                         <h2 class="title AboutPageBanner">
                             Calendar</h2>
-                        <p class="inner-page-para mt-2">
-                            Learn Anytime, Anywhere.
-                            Accelerate Your Future.</p>
+                        
                     </div>
 
                     <ul class="breadcrumbs-custom-path">
                         <li><a href="index.php">Home</a></li>
-                        <li class="active"><span class="fas fa-angle-double-right mx-2"></span> Calendar</li>
+                        <li class="active"><span class="fas fa-angle-double-right mx-2"></span>Yearly Calendar</li>
                     </ul>
                 </div>
             </div>
@@ -94,53 +93,29 @@
 
 
 
-    <!-- <section class="w3l-project" id="subscribe">
 
-        <div class="container-fluid mx-lg-0">
-            <div class="heading text-center mx-auto">
-                <h5 class="title-subw3hny text-center"><br><br></h5>
-                <h3 class="title-w3l">Jamia Rabbani - Calender 2024 </h3>
-                <hr>
-                <div class="row">
-                    <div class="calendar-container">
-                        <div class="calendar-item">
-                            <img src="calendar1.png" alt="Calendar 1">
-                        </div>
-                        <div class="calendar-item">
-                            <img src="calendar2.png" alt="Calendar 2">
-                        </div>
-                        <div class="calendar-item">
-                            <img src="calendar3.png" alt="Calendar 3">
-                        </div>
-                        <div class="calendar-item">
-                            <img src="calendar4.png" alt="Calendar 4">
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-    </section> -->
     <div class="calendar-container text-center">
-    <h5 class="title-subw3hny text-center"><br><br></h5>
-                <h3 class="title-w3l">Jamia Rabbani - Calender 2024 </h3>
-                <hr>
+        <h5 class="title-subw3hny text-center"><br><br></h5>
+        <h3 class="title-w3l">Jamia Rabbani - Yearly Calendar 2025 </h3>
+        <hr>
         <div class="calcaard">
-        <div class="calendar-item">
-            <a href="assets/images/calendar2024.jpeg"><img src="assets/images/calendar2024.jpeg" alt="Calendar 1"></a>
+            <div class="calendar-item">
+                <a href="assets/images/calendar1.png"><img src="assets/images/calendar1.png" alt="Calendar 1"></a>
+            </div>
+            <div class="calendar-item">
+                <a href="assets/images/calendar2.png"><img src="assets/images/calendar2.png" alt="Calendar 2"></a>
+            </div>
+            <div class="calendar-item">
+                <a href="assets/images/calendar3.png"><img src="assets/images/calendar3.png" alt="Calendar 3"></a>
+            </div>
+            <div class="calendar-item">
+                <a href="assets/images/calendar4.png"><img src="assets/images/calendar4.png" alt="Calendar 4"></a>
+            </div>
         </div>
-        <div class="calendar-item">
-            <a href="assets/images/calendar2024 (2).jpeg"><img src="assets/images/calendar2024 (2).jpeg" alt="Calendar 2"></a>
+        <div class="calcaard">
+            
         </div>
-        </div>
-       <div class="calcaard">
-       <div class="calendar-item">
-            <a href="assets/images/calendar2024 (3).jpeg"><img src="assets/images/calendar2024 (3).jpeg" alt="Calendar 3"></a>
-        </div>
-        <div class="calendar-item">
-            <a href="assets/images/calendar2024 (4).jpeg"><img src="assets/images/calendar2024 (4).jpeg" alt="Calendar 4"></a>
-        </div>
-       </div>
-       
+
     </div>
 
 

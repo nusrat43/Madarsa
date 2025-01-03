@@ -17,7 +17,7 @@
             justify-content: center;
             flex-wrap: wrap;
             justify-content: space-around;
-            margin: 50px;
+            /* margin: 50px; */
         }
 
         .team-member {
@@ -55,6 +55,7 @@
             margin: 0;
             color: #888;
             font-size: 14px;
+            text-align: center;
         }
 
         .social-icons {
@@ -145,15 +146,15 @@
     <!--/header-->
 
     <section class="w3l-about-breadcrumb text-center">
-        <div class="breadcrumb-bg breadcrumb-bg-about py-5">
+        <div class="breadcrumb-bg breadcrumb-bg-about py-5 main-content-top">
             <div class="container py-lg-5 py-md-4">
                 <div class="w3breadcrumb-gids">
                     <div class="w3breadcrumb-left text-left">
                         <h2 class="title AboutPageBanner">
                             Virtual Bookshelf </h2>
-                        <p class="inner-page-para mt-2">
+                        <!-- <p class="inner-page-para mt-2">
                             Learn Anytime, Anywhere.
-                            Accelerate Your Future.</p>
+                            Accelerate Your Future.</p> -->
                     </div>
                     <div class="w3breadcrumb-right">
                         <ul class="breadcrumbs-custom-path">

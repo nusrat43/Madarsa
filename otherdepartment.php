@@ -132,7 +132,7 @@ p {
     <!--/header-->
 
     <section class="w3l-about-breadcrumb text-center">
-    <div class="breadcrumb-bg breadcrumb-bg-about py-5">
+    <div class="breadcrumb-bg breadcrumb-bg-about py-5 main-content-top">
       <div class="container py-lg-5 py-md-4">
         <div class="w3breadcrumb-gids">
           <div class="w3breadcrumb-left text-left">
@@ -165,7 +165,7 @@ p {
             <div class="department with-image">
                 <div class="content">
                 <div>
-                <h3>Matbakh (Kitchen System)</h3>
+                <h3>Matbakh (Kitchen System)</h3><br>
                         <p>Since the Jamia is a residential institution of the religious learning it has a well-managed kitchen system which is responsible for the preparation and provision of the food for a number of three hundred odd hostler students and the members of the teaching and non-teaching staff. The food, lodging and education are provided free of cost. Also, the Jamia offers monthly stipends to the ready students as well.</p>
                     </div>
                     <img src="assets/images/WhatsApp Image 2024-08-23 at 23.54.14_793fd6ac.jpg" alt="Tahzibul-Bayan">
@@ -177,14 +177,14 @@ p {
                 <div class="content">
                     <img src="assets/images/s-pic3.jpg" alt="Tahzibul-Bayan">
                     <div>
-                        <h3>Tahzibul-Bayan</h3>
+                        <h3>Tahzibul-Bayan</h3><br>
                         <p>In order to prepare the students for a better service of the Muslim Community and the country at large, and to improve and sharpen their literary taste, the Jamia has established the Anjuman Tahzeebul Bayan. Under the care of the Anjuman, the students take part in weekly programs of orations in Urdu, Arabic, Persian, English Languages, verse-recitation, Naat (Praising the Holy Prophet in verse), and Quranic and Hadith words of God-remembrance. The Anjuman also holds its yearly cultural and informative programs in which the students of the Jamia are given opportunities to demonstrate their writing and orational capabilities before the general Muslims attending the programs.</p>
                     </div>
                 </div>
             </div>
 
             <div class="department">
-                <h3>Imdadul Muslimin</h3>
+                <h3>Imdadul Muslimin</h3><br>
                 <p>This department is intended to solve the financial problems of the needy Muslims and widows. It offers monthly assistance to a number of poor, disabled, and indigent local Muslims and widows. It also offers assistance, within the range of its limited scope of means, at the occasion of the marriage of poor Muslim girls. This department is proving very useful for general Muslims.</p>
             </div>
         </section>

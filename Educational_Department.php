@@ -23,12 +23,12 @@
   <!--/header-->
   <!-- breadcrumb -->
   <section class="w3l-about-breadcrumb text-center">
-    <div class="breadcrumb-bg breadcrumb-bg-about py-5">
+    <div class="breadcrumb-bg breadcrumb-bg-about py-5 main-content-top">
       <div class="container py-lg-5 py-md-4">
         <div class="w3breadcrumb-gids">
           <div class="w3breadcrumb-left text-left">
             <h2 class="title AboutPageBanner">
-            Educational department </h2>
+            Educational Department </h2>
             <!-- <p class="inner-page-para mt-2">
             The educational department of the Jamia includes the following:
 </p> -->
@@ -36,7 +36,7 @@
           <div class="w3breadcrumb-right">
             <ul class="breadcrumbs-custom-path">
               <li><a href="index.php">Home</a></li>
-              <li class="active"><span class="fas fa-angle-double-right mx-2"></span>Educational department</li>
+              <li class="active"><span class="fas fa-angle-double-right mx-2"></span>Educational Department</li>
             </ul>
           </div>
         </div>
@@ -50,8 +50,8 @@
             <div class="container py-lg-5 py-md-3">
                 <div class="row cwp23-grids align-items-center">
                     <div class="col-lg-6">
-                        <h5 class="title-subw3hny">The educational department</h5>
-                        <h3 class="title-w3l"> Jamia includes the following:</h3> <span class="inn-text"></span></h3>
+                        <h5 class="title-subw3hny">The Educational Department of</h5>
+                        <h3 class="title-w3l">The Jamia Includes the Following</h3> <span class="inn-text"></span></h3>
                         <br>
                         <p> ❖ Teaching of the Qur'an by eye-sight (with tajweed).</p><br>
                         <p> ❖ Memorization of the Quran.</p><br>

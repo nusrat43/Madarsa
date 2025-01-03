@@ -88,7 +88,7 @@
             font-size:10px;
             color: #5e5e5e;
           
-            font-family: 'Jost', sans-serif;
+            
         }
 
         .with-image .content {
@@ -168,7 +168,7 @@
     <!--/header-->
 
     <section class="w3l-about-breadcrumb text-center">
-        <div class="breadcrumb-bg breadcrumb-bg-about py-5">
+        <div class="breadcrumb-bg breadcrumb-bg-about py-5 main-content-top">
             <div class="container py-lg-5 py-md-4">
                 <div class="w3breadcrumb-gids">
                     <div class="w3breadcrumb-left text-left">
@@ -191,12 +191,10 @@
 
     <section class="departments">
         <!-- <h2 class="dept">Other Departments at Jamia</h2><br> -->
-
         <div class="department day-mode">
             <center>
-                <h1 class="head"> Some important personalities who have visited Jamia </h1>
+                <h1 class="head"> Some Important Personalities who have Visited Jamia </h1>
                 <center><br>
-
         </div>
 
         <div class="department">

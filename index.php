@@ -76,12 +76,13 @@
 
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 grids-feature mt-md-0 mt-5">w
+                <div class="col-lg-4 col-md-6 grids-feature mt-md-0 mt-5">
                     <div class="area-box">
                        <img src="assets/images/Founder.png" alt="" width="50px">
                         <h4><a href="#feature" class="title-head">Founder and Recter </a>
                         </h4>
-                        <p> <b>Hazrat Maulana Mufti Akhtar Imam Adil Qasmi</b> is a respected Islamic scholar and leader of the Naqshbandi Sufi order. He is known for his deep knowledge of Islamic law and spirituality, and he played a key role in establishing Jamia Rabbani to promote Islamic education.</p>
+                        <!-- <p> <b>Hazrat Maulana Mufti Akhtar Imam Adil Qasmi</b> is a respected Islamic scholar and leader of the Naqshbandi Sufi order. He is known for his deep knowledge of Islamic law and spirituality, and he played a key role in establishing Jamia Rabbani to promote Islamic education.</p> -->
+                        <p> <b>Hazrat Maulana Mufti Akhtar Imam Adil Qasmi</b> is a respected Islamic scholar and leader of the Naqshbandi Sufi order. </p>
 
                     </div>
                 </div>
@@ -89,7 +90,8 @@
                     <div class="area-box">
                         <img src="assets/images/supreme.png" alt="" width="50px" style="color: red;">
                         <h4><a href="#feature" class="title-head">Supreme</a></h4>
-                        <p><b>Hazrat Maulana Mahfuzur Rahman Qadri Naqshbandi</b> is the supreme leader of Jamia Rabbani, Samastipur, and a prominent Naqshbandi Sufi guide. He is respected for his deep Islamic knowledge and spiritual teachings, which have inspired many.</p>
+                        <!-- <p><b>Hazrat Maulana Mahfuzur Rahman Qadri Naqshbandi</b> is the supreme leader of Jamia Rabbani, Samastipur, and a prominent Naqshbandi Sufi guide. He is respected for his deep Islamic knowledge and spiritual teachings, which have inspired many.</p> -->
+                        <p><b>Hazrat Maulana Mahfuzur Rahman Qadri Naqshbandi</b> is the supreme leader of Jamia Rabbani, Samastipur, and a prominent Naqshbandi Sufi guide.</p>
                     </div>
                 </div>
             </div>
@@ -103,7 +105,7 @@
                 <div class="row cwp23-grids align-items-center">
                     <div class="col-lg-6">
                         <h5 class="title-subw3hny">About Us</h5>
-                        <h3 class="title-w3l">Jamia Rabbani: Guiding the Next Generation of Islamic Scholars</h3>
+                        <h3><b>Jamia Rabbani</b><br>Guiding the Next Generation of Islamic Scholars</h3>
                         <p class="mt-md-4 mt-md-5 mt-4">With a mission to cultivate the next generation of Islamic scholars, Jamia Rabbani provides a nurturing environment where students can grow intellectually and spiritually, preparing them to meet the challenges of the modern world with wisdom and faith
                         </p>
                         <a href="Gallery.php" class="btn btn-style btn-primary mt-lg-5 mt-4">View More Images</a>
@@ -283,7 +285,7 @@
         <div class="blog py-5">
             <div class="container py-md-5 py-2">
                 <h5 class="title-subw3hny text-center">Madarsa</h5>
-                <h3 class="title-w3l text-center">Some capture of Jamia Rabbani</h3>
+                <h3 class="title-w3l text-center">Glimpse of Jamia Rabbani</h3>
 
                 <div class="row">
                     <div class="col-lg-3 col-md-6 item mt-5">
@@ -305,7 +307,7 @@
                             <div class="card-body course-details">
                                
                                 <div><hr></div>
-                                <a href="assets/images/back-video.mp4" class="course-desc">journey of Madarsa Jamia Rabbani
+                                <a href="assets/images/back-video.mp4" class="course-desc">Journey of Madarsa Jamia Rabbani
                                 </a>
                                 
                             </div>
@@ -361,9 +363,8 @@
                         <div class="card">
                             <div class="card-header p-0 position-relative">
                                 <a href="assets/images/dinner.mp4" class="zoom d-block">
-                                    <img class="card-img-bottom d-block" src="assets/images/background video.jpeg"
-                                        alt="Card image cap">
-                                        <video  autoplay muted loop id="myVideo">
+                                    <img class="card-img-bottom d-block" src="assets/images/background video.jpeg" alt="Card image cap">
+                                        <video  autoplay muted loop id="myVideo" width="100%">
                                         <source src="assets/images/dinner.mp4" type="video/mp4">
                                         Your browser does not support HTML5 video.
                                     </video>
@@ -379,41 +380,12 @@
 
                         </div>
                     </div>
-                    <!-- <div class="mt-5 mx-auto text-more text-center pt-lg-4">
-                        <a href="courses.html" class="btn btn-style btn-primary">View All Courses</a>
-                    </div> -->
+                   
                 </div>
             </div>
         </div>
     </section>
-    <!--//popular-Courses-->
-
-    <!--/subscribe-->
-    <!-- <section class="w3l-project" id="subscribe">
-        <div class="container-fluid mx-lg-0">
-            <div class="row">
-                <div class="col-lg-6 bottom-info">
-                    <div class="project-header-section text-left">
-                        <h5 class="title-subw3hny text-left mb-1">Join With Us</h5>
-                        <h3 class="title-w3l">Join us for Free to get instant email<span
-                                class="inn-text"> updates!</span></h3>
-                        <p class="mt-3 pr-lg-5">Subscribe and get notified at first on the latest update and offers!</p>
-
-                        <form action="#" class="subscribe mt-5" method="post">
-                            <input type="email" name="email" placeholder="Your Email Address" required="">
-                            <button class="btn btn-style btn-primary">Subscribe</button>
-                        </form>
-                    </div>
-                </div>
-                <div class="col-lg-6 subcribe-img">
-
-                </div>
-            </div>
-        </div>
-    </section> -->
-    <!--//subscribe-->
-    <!--/footer-->
-
+   
     <?php include 'footer.php' ?>
 
     <!-- //footer -->

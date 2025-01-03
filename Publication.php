@@ -60,15 +60,13 @@
     <!--/header-->
 
     <section class="w3l-about-breadcrumb text-center">
-    <div class="breadcrumb-bg breadcrumb-bg-about py-5">
+    <div class="breadcrumb-bg breadcrumb-bg-about py-5 main-content-top">
       <div class="container py-lg-5 py-md-4">
         <div class="w3breadcrumb-gids">
           <div class="w3breadcrumb-left text-left">
             <h2 class="title AboutPageBanner">
             Publication </h2>
-            <p class="inner-page-para mt-2">
-              Learn Anytime, Anywhere.
-              Accelerate Your Future.</p>
+            
           </div>
           <div class="w3breadcrumb-right">
             <ul class="breadcrumbs-custom-path">
@@ -94,7 +92,7 @@
                 <div class="content">
                 <div>
                 <!-- <h3>Darul Iqamah (Hostel):</h3> -->
-                        <p class="justify"><b>This department undertakes the publication of books and brochures prepared by Research Department on scientific and religious subjects. Alhamdulillah, this department, within the short span of its life, has published a number of important books on various areas of the Islamic Learning. These books have won a full credence from the Islamic scholars both of India and outside. Following are the important books published by the Jamia's Department of Publication:</b></p>
+                        <p class="justify">This department undertakes the publication of books and brochures prepared by Research Department on scientific and religious subjects. Alhamdulillah, this department, within the short span of its life, has published a number of important books on various areas of the Islamic Learning. These books have won a full credence from the Islamic scholars both of India and outside. Following are the important books published by the Jamia's Department of Publication</p>
                     </div>
                     <img src="assets/images/lib2.jpg" alt="Tahzibul-Bayan">
                     
@@ -123,7 +121,7 @@
                 <div class="content">
                 <div>
                 <!-- <h3>Matbakh (Kitchen System)</h3> -->
-                        <p class="justify"><b>In addition to the mentioned publications, this department publishes a quarterly journal Dawate Haq which has a wide readership in the country and abroad. There has appeared a number of its special issues which also have widely been accepted by the men of Islamic learning and scholarship within India and outside. The following are some important issues of the Journal:</b><br>
+                        <p class="justify">In addition to the mentioned publications, this department publishes a quarterly journal Dawate Haq which has a wide readership in the country and abroad. There has appeared a number of its special issues which also have widely been accepted by the men of Islamic learning and scholarship within India and outside. The following are some important issues of the Journal<br>
 
                         Dawat and Tabligh<br>
                         Talim-e-Niswan (women's education)<br>

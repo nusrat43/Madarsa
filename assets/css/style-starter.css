@@ -17289,6 +17289,7 @@ p {
   color: var(--font-color);
   opacity: .9;
   font-family: 'Jost', sans-serif;
+  text-align: justify ;
 }
 
 li {
@@ -17387,7 +17388,8 @@ p.white {
   font-size: 38px;
   line-height: 48px;
   font-weight: 600;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
+ 
 }
 
 .title-w3l.two {
@@ -18093,7 +18095,7 @@ nav ul li a:hover {
 /* responsive */
 @media (max-width:1280px) {
   #myVideo {
-    width: auto;
+    width: 100%;
     height: 100%;
   }
   .bannerw3l-hnyv .main-content h3 {

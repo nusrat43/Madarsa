@@ -147,15 +147,15 @@
     <!--/header-->
 
     <section class="w3l-about-breadcrumb text-center">
-        <div class="breadcrumb-bg breadcrumb-bg-about py-5">
+        <div class="breadcrumb-bg breadcrumb-bg-about py-5 main-content-top">
             <div class="container py-lg-5 py-md-4">
                 <div class="w3breadcrumb-gids">
                     <div class="w3breadcrumb-left text-left">
                         <h2 class="title AboutPageBanner">
                             Requirements </h2>
-                        <p class="inner-page-para mt-2">
+                        <!-- <p class="inner-page-para mt-2">
                             Learn Anytime, Anywhere.
-                            Accelerate Your Future.</p>
+                            Accelerate Your Future.</p> -->
                     </div>
                     <div class="w3breadcrumb-right">
                         <ul class="breadcrumbs-custom-path">
@@ -184,9 +184,9 @@
         <div class="department with-image">
             <div class="content">
                 <div>
-                    <h3 style="padding: 10px;">Darul Iqamah (Hostel):</h3>
+                    <h3 style="padding: 10px;">Darul Iqamah (Hostel)</h3>
                     <p class="justify">A three-storey, spacious building. The firststorey is almost complete. To accommodate the increasing number of the students the work on the erection of rest two stories has to be completed at the earliest.
-                        Masjid of the Jamia (three-storied): spacious enough where at least 1500 worshippers may offer theirs prayers collectively. For the time being the students and the staff personnel have to offer their prayers inside different halls and verandas. The Masjid has to be erected on the basis of priority.
+                        Masjid of the Jamia (three-storied) spacious enough where at least 1500 worshippers may offer theirs prayers collectively. For the time being the students and the staff personnel have to offer their prayers inside different halls and verandas. The Masjid has to be erected on the basis of priority.
                     </p>
                 </div>
                 <img src="assets/images/pic4.jpg" alt="Tahzibul-Bayan">
@@ -198,7 +198,7 @@
             <div class="content">
                 <img src="assets/images/pic8.jpg" alt="Tahzibul-Bayan">
                 <div>
-                    <h3 style="padding: 10px;">Darul Talim Wal-Mutala'a:</h3>
+                    <h3 style="padding: 10px;">Darul Talim Wal-Mutala'a</h3>
                     <p class="justify">In order to provide the students the facility of study, reading the writing with complete devotion and concentration, a better educational and academic environment is indisputably required. Due to the non-absence of a separate set of rooms for the purpose of study the students have no option other than doing the total job of study in their residential rooms.</p>
                 </div>
             </div>

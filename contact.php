@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel="icon" href="assets/images/logo.png">
-  <title>Edukator - Education Category Bootstrap Responsive Template | Contact :: W3layouts</title>
+  <title>Contact</title>
   <!-- google fonts -->
   <link href="//fonts.googleapis.com/css2?family=Jost:wght@300;400;600;700&display=swap" rel="stylesheet">
   <!-- Template CSS -->
@@ -22,14 +22,14 @@
   <!--/header-->
   <!-- breadcrumb -->
   <section class="w3l-about-breadcrumb text-center">
-    <div class="breadcrumb-bg breadcrumb-bg-about py-5">
+    <div class="breadcrumb-bg breadcrumb-bg-about py-5 main-content-top">
       <div class="container py-lg-5 py-md-4">
         <div class="w3breadcrumb-gids">
           <div class="w3breadcrumb-left text-left">
             <h2 class="title AboutPageBanner">
               Contact Us </h2>
             <p class="inner-page-para mt-2">
-            Get in touch with us and find answers to your questions.</p>
+              Get in touch with us and find answers to your questions.</p>
           </div>
           <div class="w3breadcrumb-right">
             <ul class="breadcrumbs-custom-path">
@@ -45,27 +45,28 @@
 
   <!-- bank info -->
   <section class="w3l-project" id="subscribe">
-        <div class="container-fluid mx-lg-0">
-            <div class="row">
-                <div class="col-lg-6 bottom-info">
-                    <div class="project-header-section text-left">
-                      <h3 style="color:#50B498"><b><u>Bank Details</u></b></h3>
-                      <p>Account Holder: <b>JAMIA RABBANI MADRSA</b></p>
-                       <h3>Donation in India:</h3>
-                       <p>(1) A/c No.: 11892908559, 33234317780, State Bank of India, Bithan, Micr Code - 848002514, IFSC CODE - SBIN0006017</p>
-                       <p>(2) A/c.No.52920200000004 Bank of Baroda ,Bithan ,IFSC CODE :BARB0BITHAN</p>
+    <div class="container-fluid mx-lg-0">
+      <div class="row">
+        <div class="col-lg-6 bottom-info">
+          <div class=" text-left" style="margin-top: 20px; padding:20px">
+            <h3 style="color:#50B498"><b>Bank Details</b></h3><br>
+            <p>Account Holder: <b>JAMIA RABBANI MADRSA</b></p><br>
+            <h3>Donation in India</h3>
+            <p>(1) A/c No : 11892908559, 33234317780, State Bank of India, Bithan, Micr Code - 848002514, IFSC CODE - SBIN0006017</p><br>
 
-                       <h3>For Foreign Donations :</h3>
-                       <p>Jamia Rabbani Education and Welfare Trust SB/CA A/C.No 33366868772 . State Bank of India, Bithan , Micr Code 848002514 ,IFSC CODE. SBIN0006017 , SWIFT BIC COD. SBININBB156</p>
-                        
-                    </div>
-                </div>
-                <div class="col-lg-6 ">
-                  <img src="assets/images/whatsApp.jpg" alt="">
-                </div>
-            </div>
+            <p>(2) A/c.No : 52920200000004 Bank of Baroda, Bithan, IFSC CODE :BARB0BITHAN</p><br>
+
+            <h3>For Foreign Donations </h3><br>
+            <p>Jamia Rabbani Education and Welfare Trust SB/CA <br><br> A/C.No : 33366868772 State Bank of India, Bithan, Micr Code 848002514, IFSC CODE. SBIN0006017, SWIFT BIC COD. SBININBB156</p>
+
+          </div>
         </div>
-    </section>
+        <div class="col-lg-6 ">
+          <img src="assets/images/whatsApp.jpg" alt="" width="100%">
+        </div>
+      </div>
+    </div>
+  </section>
   <!-- bank info end -->
 
 
@@ -85,8 +86,8 @@
                   <div class="address-grid">
                     <h6><span class="fas fa-map-marked-alt"></span> Address</h6>
                     <p>JAMIA RABBANI MANORWA SHARIF
-                      P.O.: Sohma, Via, Bithan, Distt.- Samastipur
-                      Pin � 848207, Bihar (INDIA)</p>
+                      P.O.: Sohma, Via, Bithan, Distt - Samastipur
+                      Pin 848207, Bihar (INDIA)</p>
 
                   </div>
                   <div class="address-grid">
@@ -98,7 +99,7 @@
                   </div>
                   <div class="address-grid">
                     <h6><span class="fas fa-phone-alt"></span> Phone</h6>
-                    <a href="tel:+12 324-016-695" class="link1">0091-9934082422(office)</a>
+                    <a href="tel:+12 324-016-695" class="link1">91-9934082422(office)</a>
                     <a href="tel:+44 224-058-545" class="link1">9473136822(Mohtamim)</a>
 
                   </div>
@@ -142,7 +143,7 @@
   </div>
 
   <div class="contacts-sub-5">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3595.0375512257415!2d86.31316919999999!3d25.703180699999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39ee0136c4f36f5b%3A0x17cacb96cf35c2ef!2sJAMIA%20RABBANI%20MANORWA%20SHARIF!5e0!3m2!1sen!2sin!4v1724758155191!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3595.0375512257415!2d86.31316919999999!3d25.703180699999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39ee0136c4f36f5b%3A0x17cacb96cf35c2ef!2sJAMIA%20RABBANI%20MANORWA%20SHARIF!5e0!3m2!1sen!2sin!4v1724758155191!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   </div>
 
 
